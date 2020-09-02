@@ -1,0 +1,1 @@
+/**/jQuery341025077478149861987_1598978523576({"purchasable":true,"publisher":"nature","article":{"title":"Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes","chapter":null,"year":2009,"journal":"Nature"},"purchase_type":"personal","prices":{"tier_1":899,"tier_2":2200,"tier_3":3200},"manual_enabled":null})

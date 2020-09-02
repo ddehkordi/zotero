@@ -1,0 +1,222 @@
+/*--SEARCH OPTIONS STYLES --*/
+#search-form .left-col {
+	position: relative;
+	width: 120px;
+	float: left;
+	padding: 0 0 0 20px;
+	margin: 5px 0 0 0;
+}
+#search-form .right-col {
+	margin: 5px 0 0 140px;
+}
+#email-form .left-col {
+	position: relative;
+	width: 150px;
+	float: left;
+	padding: 0 0 5px 20px;
+	margin: 0 0 5px 0;
+}
+.subsection {
+	position: relative;
+	padding: 0 0 5px 0;
+	margin: 0;
+	background-color: #fff;
+	border-bottom: 1px dashed #99c1ca;
+}
+/*-- ABSTRACT STYLES --*/
+#title {
+	position: relative;
+	padding: 0 0 1em 0;
+	margin: 0;
+	border-bottom: 1px dashed #99c1ca;
+	background-color: #fff;
+}
+#title .left {
+	position: relative;
+	width: auto;
+	text-align: left;
+	padding-left: 0;
+	margin-right: 60px;
+}
+#title .left-track {
+	position: relative;
+	width: auto;
+	text-align: left;
+	padding-left: 0;
+	margin-right: 200px;
+}
+#title .right {
+	position: relative;
+	width: 50px;
+	float: right;
+}
+#title .right-track {
+	position: relative;
+	width: 200px;
+	float: right;
+}
+#title .left h2 {
+	text-indent: 0;
+}
+#article-journal-logo {
+	position: relative;
+	float: right;
+	margin-right: 10px;
+}
+#top-of-page {
+	overflow: visible;
+}
+#title p {
+	padding: 0.1em 0 0.1em 0;
+}
+#abstract {
+	position: relative;
+	margin: 10px 10px 10px 0;
+}
+#abstract, #info {
+	position: relative;
+}
+#abstract  p {
+	margin-left : 0;
+}
+#abstract p, #info p {
+	clear: none;
+}
+#info {
+	position: relative;
+	margin: 10px 10px 10px 0;
+}
+#info p {
+	padding: 0.1em 0px 0.1em 0;
+}
+.align-center {
+	text-align: center;
+}
+.align-middle {
+	vertical-align: middle;
+}
+#journal-info {
+	margin: 0;
+	padding: 0;
+}
+#journal-info .left {
+	position: relative;
+	margin: 0 0 0 10px ;
+	width: 80px;
+	float: left;
+	clear: right;
+}
+#journal-info .right {
+	position: relative;
+	width: 425px;
+	margin: 0 0 0 120px;
+	padding: 0 0 0 10px;
+}
+#search-heading .left-col {
+	position: relative;
+	float: left;
+	width: 48%;
+}
+#search-heading .right-col {
+	position: relative;
+	text-align: right;
+}
+p.spacer {
+	line-height: 0;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+#author-off {
+	position: relative;
+	padding-left: 20px;
+}
+#author-off p {
+	margin-left: 0;
+}
+#author-off .left-col {
+	position: relative;
+	width: 15em;
+	float: left;
+	font-weight: bold;
+}
+#author-off .right-col {
+	position: relative;
+	width: auto;
+	margin-left: 180px;
+}
+input.large-input-text {
+	padding: 0 0 0 2px;
+	width: 250px;
+	margin: 2px 0 5px 0;
+	color: #369;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+}
+textarea.big-textarea {
+	padding: 0 0 0 2px;
+	margin: 2px 0 5px 0;
+	color: #369;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+}
+.page-heading {
+	position: relative;
+	width: auto;
+	margin: 0;
+}
+.page-heading .heading-text {
+	position: relative;
+	width: auto;
+}
+.heading-text p{
+	margin: 0;
+}
+
+.page-heading .access-icon {
+	position: relative;
+	width: auto;
+	float: left;
+	margin: 0 4px 0 0;
+	z-index: 99;
+}
+.heading .right-col, .fax-heading .right-col {
+	width: 35%;
+}
+.heading .left-col, fax-heading .left-col {
+	width: 50%;
+}
+.heading-macfix p.hidden {
+	clear: left;
+}
+.heading-macfix p, #links p, #info p {
+	clear: none;
+	/* removing this style since it was causing problems with baynote recommendations in IE 
+	position: relative;
+	*/
+}
+
+/***** link server styles ******/
+.linkserver {
+	position: relative;
+	margin-left: 20px;
+	overflow: visible;
+}
+.linkserver img.float {
+	position: relative;
+	width: auto;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+.linkserver p {
+	margin: 0;
+	padding: 0;
+	clear: none;
+}
+.modifyindent {
+	padding-left:10px;
+}
+
+.originaldescription {
+    display:none; 
+}
+

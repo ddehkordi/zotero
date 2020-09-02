@@ -1,0 +1,1 @@
+/**/jQuery34104666476175655815_1598978398868({"purchasable":true,"publisher":"nature","article":{"title":"The evolutionary journey of Argonaute proteins","chapter":null,"year":2014,"journal":"Nature Structural \u0026 Molecular Biology"},"purchase_type":"personal","prices":{"tier_1":899,"tier_2":2200,"tier_3":3200},"manual_enabled":null})

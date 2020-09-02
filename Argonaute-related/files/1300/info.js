@@ -1,0 +1,1 @@
+/**/jQuery34106683535329636641_1598976267996({"purchasable":true,"publisher":"nature","article":{"title":"Using metadynamics to explore complex free-energy landscapes","chapter":null,"year":2020,"journal":"Nature Reviews Physics"},"purchase_type":"personal","prices":{"tier_1":899,"tier_2":2200,"tier_3":3200},"manual_enabled":null})

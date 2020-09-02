@@ -1,0 +1,1083 @@
+
+Skip to main content
+
+Advertisement
+Advertisement
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Nature Reviews Physics
+View all Nature Research journals
+Search
+Search
+Article Search
+Search
+
+Advanced search
+Quick links
+
+    Explore articles by subject
+    Find a job
+    Guide to authors
+    Editorial policies
+
+My Account Login
+
+    Explore our content
+    Explore our content
+        Current Issue
+        Browse Issues
+        Browse Articles
+        Browse Collections
+        Sign up for alerts
+    Journal info rmation
+    Journal information
+        About the Journal
+        For Authors
+        For Referees
+        Submit manuscript
+
+    nature
+    nature reviews physics
+    technical review
+    article
+
+Using metadynamics to explore complex free-energy landscapes
+Download PDF
+
+    Technical Review
+    Published: 06 March 2020
+
+Using metadynamics to explore complex free-energy landscapes
+
+    Giovanni Bussi 1 &
+    Alessandro Laio   ORCID: orcid.org/0000-0001-9164-7907 1 , 2  
+
+Nature Reviews Physics volume  2 ,  pages 200 – 212 ( 2020 ) Cite this article
+
+    1280 Accesses
+
+    7 Citations
+
+    31 Altmetric
+
+    Metrics details
+
+Abstract
+
+Metadynamics is an atomistic simulation technique that allows, within the same framework, acceleration of rare events and estimation of the free energy of complex molecular systems. It is based on iteratively ‘filling’ the potential energy of the system by a sum of Gaussians centred along the trajectory followed by a suitably chosen set of collective variables (CVs), thereby forcing the system to migrate from one minimum to the next. The power of metadynamics is demonstrated by the large number of extensions and variants that have been developed. The first scope of this Technical Review is to present a critical comparison of these variants, discussing their advantages and disadvantages. The effectiveness of metadynamics, and that of the numerous alternative methods, is strongly influenced by the choice of the CVs. If an important variable is neglected, the resulting estimate of the free energy is unreliable, and predicted transition mechanisms may be qualitatively wrong. The second scope of this Technical Review is to discuss how the CVs should be selected, how to verify whether the chosen CVs are sufficient or redundant, and how to iteratively improve the CVs using machine learning approaches.
+Key points
+
+    Metadynamics makes it possible to accelerate conformational transitions between metastable states, broadening the scope of molecular dynamics simulations.
+
+    Like other enhanced sampling methods, metadynamics requires the introduction of low-dimensional descriptors (collective variables) whose choice affects the rate at which transitions are enhanced. The ideal collective variable should take different values not only in all the relevant metastable states but also in the transition states between them.
+
+    The appropriate collective variables can be found by trial and error or designed automatically using methods inspired by machine learning.
+
+    Two variants of metadynamics are commonly used, namely ordinary and well-tempered metadynamics. The former has the advantage of inducing transitions between the metastable states even if the collective variable is not ideal. The latter has the advantage of providing an exact estimator of the free energy.
+
+    Metadynamics can be used in combination with most molecular dynamics software packages by taking advantage of dedicated software libraries that implement the method and a large number of collective variables.
+
+Access to this article is not available.
+Change institution
+Buy or subscribe
+
+Access to this article via Hochschule München is not available.
+Access through your institution
+Change institution
+Buy or subscribe
+Access options
+
+Subscribe to Journal
+
+Get full journal access for 1 year
+
+99,51 €
+
+only 8,29 € per issue
+Subscribe
+
+All prices include VAT for Germany.
+
+Rent or Buy article
+
+Get time limited or full article access on ReadCube.
+
+from $8.99
+Rent or Buy
+
+All prices are NET prices.
+Additional access options:
+
+    Log in
+    Access through your institution
+    Learn about institutional subscriptions
+
+Fig. 1: The working principles of adaptive umbrella sampling and metadynamics.
+Fig. 2: Three potential energy landscapes, the corresponding free energies and metadynamics trajectories.
+Fig. 3: Three approaches for automatically finding the best CV.
+Fig. 4: Typical architecture of a library to perform metadynamics simulations.
+Fig. 5: Choosing the correct metadynamics variant.
+References
+
+    1.
+
+    Torrie, G. M. & Valleau, J. P. Nonphysical sampling distributions in Monte Carlo free-energy estimation: umbrella sampling. J. Comput. Phys. 23 , 187–199 (1977).
+
+    ADS   Google Scholar  
+    2.
+
+    Laio, A. & Parrinello, M. Escaping free energy minima. Proc. Natl Acad. Sci. USA 99 , 12562–12566 (2002).
+
+    ADS   Google Scholar  
+    3.
+
+    Laio, A. & Gervasio, F. L. Metadynamics: a method to simulate rare events and reconstruct the free energy in biophysics, chemistry and material science. Rep. Prog. Phys. 71 , 126601 (2008).
+
+    ADS   Google Scholar  
+    4.
+
+    Barducci, A., Bonomi, M. & Parrinello, M. Metadynamics. Wiley Interdiscip. Rev. Comput. Mol. Sci. 1 , 826–843 (2011).
+
+    Google Scholar  
+    5.
+
+    Sutto, L., Marsili, S. & Gervasio, F. L. New advances in metadynamics. Wiley Interdiscip. Rev. Comput. Mol. Sci. 2 , 771–779 (2012).
+
+    Google Scholar  
+    6.
+
+    Baftizadeh, F., Cossio, P., Pietrucci, F. & A, L. Protein folding and ligand–enzyme binding from bias-exchange metadynamics simulations. Curr. Phys. Chem. 2 , 79–91 (2012).
+
+    Google Scholar  
+    7.
+
+    Bussi, G. & Branduardi, D. Free-energy calculations with metadynamics: theory and practice. Rev. Comput. Chem. 28 , 1–49 (2015).
+
+    Google Scholar  
+    8.
+
+    Valsson, O., Tiwary, P. & Parrinello, M. Enhancing important fluctuations: rare events and metadynamics from a conceptual viewpoint. Annu. Rev. Phys. Chem. 67 , 159–184 (2016).
+
+    ADS   Google Scholar  
+    9.
+
+    Theodoropoulos, C., Qian, Y.-H. & Kevrekidis, I. G. Coarse stability and bifurcation analysis using time-steppers: a reaction-diffusion example. Proc. Natl Acad. Sci. USA 97 , 9840–9843 (2000).
+
+    ADS   MATH   Google Scholar  
+    10.
+
+    Grubmüller, H. Predicting slow structural transitions in macromolecular systems: conformational flooding. Phys. Rev. E 52 , 2893–2906 (1995).
+
+    ADS   Google Scholar  
+    11.
+
+    Glover, F. Future paths for integer programming and links to artificial intelligence. Comput. Oper. Res. 13 , 533–549 (1986).
+
+    MathSciNet   MATH   Google Scholar  
+    12.
+
+    Cvijović, D. & Klinowski, J. Taboo search — an approach to the multiple minima problem. Science 267 , 664–666 (1995).
+
+    ADS   MathSciNet   MATH   Google Scholar  
+    13.
+
+    Huber, T., Torda, A. E. & Van Gunsteren, W. F. Local elevation: a method for improving the searching properties of molecular dynamics simulation. J. Comput. Aided Mol. Des. 8 , 695–708 (1994).
+
+    ADS   Google Scholar  
+    14.
+
+    Wang, F. & Landau, D. Efficient, multiple-range random walk algorithm to calculate the density of states. Phys. Rev. Lett. 86 , 2050 (2001).
+
+    ADS   Google Scholar  
+    15.
+
+    Mezei, M. Adaptive umbrella sampling: self-consistent determination of the non-Boltzmann bias. J. Comput. Phys. 68 , 237–248 (1987).
+
+    ADS   MathSciNet   MATH   Google Scholar  
+    16.
+
+    Rosenblatt, M. Remarks on some nonparametric estimates of a density function. Ann. Math. Stat. 27 , 832–837 (1956).
+
+    MathSciNet   MATH   Google Scholar  
+    17.
+
+    Bussi, G., Laio, A. & Parrinello, M. Equilibrium free energies from nonequilibrium metadynamics. Phys. Rev. Lett. 96 , 090601 (2006).
+
+    ADS   Google Scholar  
+    18.
+
+    Barducci, A., Bussi, G. & Parrinello, M. Well-tempered metadynamics: a smoothly converging and tunable free-energy method. Phys. Rev. Lett. 100 , 020603 (2008).
+
+    ADS   Google Scholar  
+    19.
+
+    Spall, J. C. Introduction to Stochastic Search and Optimization (Wiley, 2003).
+    20.
+
+    Dama, J. F., Parrinello, M. & Voth, G. A. Well-tempered metadynamics converges asymptotically. Phys. Rev. Lett. 112 , 240602 (2014).
+
+    ADS   Google Scholar  
+    21.
+
+    Piana, S. & Laio, A. A bias-exchange approach to protein folding. J. Phys. Chem. B 111 , 4553–4559 (2007).
+
+    Google Scholar  
+    22.
+
+    Gil-Ley, A. & Bussi, G. Enhanced conformational sampling using replica exchange with collective-variable tempering. J. Chem. Theory Comput. 11 , 1077–1085 (2014).
+
+    Google Scholar  
+    23.
+
+    Pfaendtner, J. & Bonomi, M. Efficient sampling of high-dimensional free-energy landscapes with parallel bias metadynamics. J. Chem. Theory Comput. 11 , 5062–5067 (2015).
+
+    Google Scholar  
+    24.
+
+    Branduardi, D., Gervasio, F. L. & Parrinello, M. From A to B in free energy space. J. Chem. Phys. 126 , 054103 (2007).
+
+    ADS   Google Scholar  
+    25.
+
+    Leines, G. D. & Ensing, B. Path finding on high-dimensional free energy landscapes. Phys. Rev. Lett. 109 , 020601 (2012).
+
+    Google Scholar  
+    26.
+
+    Awasthi, S., Kapil, V. & Nair, N. Sampling free energy surfaces as slices by combining umbrella sampling and metadynamics. J. Comp. Chem. 37 , 1413–1424 (2016).
+
+    Google Scholar  
+    27.
+
+    Marinelli, F. Following easy slope paths on a free energy landscape: the case study of the Trp-cage folding mechanism. Biophys. J. 105 , 1236–1247 (2013).
+
+    ADS   Google Scholar  
+    28.
+
+    Hošek, P., Toulcová, D., Bortolato, A. & Spiwok, V. Altruistic metadynamics: multisystem biased simulation. J. Phys. Chem. B 120 , 2209–2215 (2016).
+
+    Google Scholar  
+    29.
+
+    Fu, H. et al. Zooming across the free-energy landscape: shaving barriers, and flooding valleys. J. Phys. Chem. Lett. 9 , 4738–4745 (2018).
+
+    Google Scholar  
+    30.
+
+    Darve, E. & Pohorille, A. Calculating free energies using average force. J. Chem. Phys. 115 , 9169–9183 (2001).
+
+    ADS   Google Scholar  
+    31.
+
+    Limongelli, V., Bonomi, M. & Parrinello, M. Funnel metadynamics as accurate binding free-energy method. Proc. Natl Acad. Sci. USA 110 , 6358–6363 (2013).
+
+    ADS   Google Scholar  
+    32.
+
+    Bonomi, M., Barducci, A. & Parrinello, M. Reconstructing the equilibrium Boltzmann distribution from well-tempered metadynamics. J. Comput. Chem. 30 , 1615–1621 (2009).
+
+    Google Scholar  
+    33.
+
+    Branduardi, D., Bussi, G. & Parrinello, M. Metadynamics with adaptive Gaussians. J. Chem. Theory Comput. 8 , 2247–2254 (2012).
+
+    Google Scholar  
+    34.
+
+    Tiwary, P. & Parrinello, M. A time-independent free energy estimator for metadynamics. J. Phys. Chem. B 119 , 736–742 (2014).
+
+    Google Scholar  
+    35.
+
+    Donati, L. & Keller, B. G. Girsanov reweighting for metadynamics simulations. J. Chem. Phys. 149 , 072335 (2018).
+
+    ADS   Google Scholar  
+    36.
+
+    Iannuzzi, M., Laio, A. & Parrinello, M. Efficient exploration of reactive potential energy surfaces using Car-Parrinello molecular dynamics. Phys. Rev. Lett. 90 , 238302 (2003).
+
+    ADS   Google Scholar  
+    37.
+
+    Crespo, Y., Marinelli, F., Pietrucci, F. & Laio, A. Metadynamics convergence law in a multidimensional system. Phys. Rev. E 81 , 055701 (2010).
+
+    ADS   Google Scholar  
+    38.
+
+    Spiwok, V. & Králová, B. Metadynamics in the conformational space nonlinearly dimensionally reduced by Isomap. J. Chem. Phys. 135 , 224504 (2011).
+
+    ADS   Google Scholar  
+    39.
+
+    Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths. J. Chem. Phys. 113 , 9901–9904 (2000).
+
+    ADS   Google Scholar  
+    40.
+
+    Cox, T. F. & Cox, M. A. Multidimensional Scaling (Chapman and Hall/CRC, 2000).
+    41.
+
+    Rohrdanz, M. A., Zheng, W., Maggioni, M. & Clementi, C. Determination of reaction coordinates via locally scaled diffusion map. J. Chem. Phys. 134 , 124116 (2011).
+
+    ADS   Google Scholar  
+    42.
+
+    Tribello, G. A., Ceriotti, M. & Parrinello, M. Using sketch-map coordinates to analyze and bias molecular dynamics simulations. Proc. Natl Acad. Sci. USA 109 , 5196–5201 (2012).
+
+    ADS   Google Scholar  
+    43.
+
+    Sultan, M. M. & Pande, V. S. Automated design of collective variables using supervised machine learning. J. Chem. Phys. 149 , 094106 (2018).
+
+    ADS   Google Scholar  
+    44.
+
+    Mendels, D., Piccini, G., Brotzakis, Z. F., Yang, Y. I. & Parrinello, M. Folding a small protein using harmonic linear discriminant analysis. J. Chem. Phys. 149 , 194113 (2018).
+
+    ADS   Google Scholar  
+    45.
+
+    Piccini, G. & Parrinello, M. Accurate quantum chemical free energies at affordable cost. J. Phys. Chem. Lett. 10 , 3727–3731 (2019).
+
+    Google Scholar  
+    46.
+
+    Rizzi, V., Mendels, D., Sicilia, E. & Parrinello, M. Blind search for complex chemical pathways using harmonic linear discriminant analysis. J. Chem. Theory Comput. 15 , 4507–4515 (2019).
+
+    Google Scholar  
+    47.
+
+    Vanden-Eijnden, E. Transition-path theory and path-finding algorithms for the study of rare events. Annu. Rev. Phys. Chem. 61 , 391–420 (2010).
+
+    Google Scholar  
+    48.
+
+    Peters, B., Beckham, G. T. & Trout, B. L. Extensions to the likelihood maximization approach for finding reaction coordinates. J. Chem. Phys. 127 , 034109 (2007).
+
+    ADS   Google Scholar  
+    49.
+
+    Tiwary, P. & Berne, B. Spectral gap optimization of order parameters for sampling complex molecular systems. Proc. Natl Acad. Sci. USA 113 , 2839–2844 (2016).
+
+    ADS   Google Scholar  
+    50.
+
+    M Sultan, M. & Pande, V. S. tICA-metadynamics: accelerating metadynamics by using kinetically selected collective variables. J. Chem. Theory Comput. 13 , 2440–2447 (2017).
+
+    Google Scholar  
+    51.
+
+    McCarty, J. & Parrinello, M. A variational conformational dynamics approach to the selection of collective variables in metadynamics. J. Chem. Phys. 147 , 204109 (2017).
+
+    ADS   Google Scholar  
+    52.
+
+    Piccini, G., Polino, D. & Parrinello, M. Identifying slow molecular motions in complex chemical reactions. J. Phys. Chem. Lett. 8 , 4197–4200 (2017).
+
+    Google Scholar  
+    53.
+
+    Chen, W. & Ferguson, A. L. Molecular enhanced sampling with autoencoders: on-the-fly collective variable discovery and accelerated free energy landscape exploration. J. Comput. Chem. 39 , 2079–2102 (2018).
+
+    Google Scholar  
+    54.
+
+    Wehmeyer, C. & Noé, F. Time-lagged autoencoders: deep learning of slow collective variables for molecular kinetics. J. Chem. Phys. 148 , 241703 (2018).
+
+    ADS   Google Scholar  
+    55.
+
+    Wang, Y., Ribeiro, J. M. L. & Tiwary, P. Past–future information bottleneck for sampling molecular reaction coordinate simultaneously with thermodynamics and kinetics. Nat. Commun. 10 , 3573 (2019).
+
+    ADS   Google Scholar  
+    56.
+
+    Tribello, G. A., Bonomi, M., Branduardi, D., Camilloni, C. & Bussi, G. PLUMED2: new feathers for an old bird. Comput. Phys. Comm. 185 , 604–613 (2014).
+
+    ADS   Google Scholar  
+    57.
+
+    Fiorin, G., Klein, M. L. & Hénin, J. Using collective variables to drive molecular dynamics simulations. Mol. Phys. 111 , 3345–3362 (2013).
+
+    ADS   Google Scholar  
+    58.
+
+    Sidky, H. et al. SSAGES: software suite for advanced general ensemble simulations. J. Chem. Phys. 148 , 044104 (2018).
+
+    ADS   Google Scholar  
+    59.
+
+    Grubmüller, H., Heymann, B. & Tavan, P. Ligand binding: molecular mechanics calculation of the streptavidin-biotin rupture force. Science 271 , 997–999 (1996).
+
+    ADS   Google Scholar  
+    60.
+
+    The PLUMED consortium. Promoting transparency and reproducibility in enhanced molecular simulations. Nat. Methods 16 , 670–673 (2019).
+
+    Google Scholar  
+    61.
+
+    Dama, J., Rotskoff, G., Parrinello, M. & Voth, G. Transition-tempered metadynamics: robust, convergent metadynamics via on-the-fly transition barrier estimation. J. Chem. Theory Comput. 10 , 3626–3633 (2014).
+
+    Google Scholar  
+    62.
+
+    Jourdain, B., Lelièvre, T. & Zitt, P.-A. Convergence of metadynamics: discussion of the adiabatic hypothesis. Preprint at arXix https://arxiv.org/abs/1904.08667 (2019).
+    63.
+
+    Cuendet, M. & Tuckerman, M. Free energy reconstruction from metadynamics or adiabatic free energy dynamics simulations. J. Chem. Theory Comput. 10 , 2975–2986 (2014).
+
+    Google Scholar  
+    64.
+
+    Mones, L., Bernstein, N. & Csányi, G. Exploration, sampling, and reconstruction of free energy surfaces with Gaussian process regression. J. Chem. Theory Comput. 12 , 5100–5110 (2016).
+
+    Google Scholar  
+    65.
+
+    Bussi, G., Gervasio, F. L., Laio, A. & Parrinello, M. Free-energy landscape for beta hairpin folding from combined parallel tempering and metadynamics. J. Am. Chem. Soc. 128 , 13435–13441 (2006).
+
+    Google Scholar  
+    66.
+
+    Camilloni, C., Provasi, D., Tiana, G. & Broglia, R. A. Exploring the protein G helix free-energy surface by solute tempering metadynamics. Proteins 71 , 1647–1654 (2008).
+
+    Google Scholar  
+    67.
+
+    McGovern, M. & De Pablo, J. A boundary correction algorithm for metadynamics in multiple dimensions. J. Chem. Phys. 140 , 229901 (2013).
+
+    ADS   Google Scholar  
+    68.
+
+    Harvey, M. J., Giupponi, G. & Fabritiis, G. D. ACEMD: accelerating biomolecular dynamics in the microsecond time scale. J. Chem. Theory Comput. 5 , 1632–1639 (2009).
+
+    Google Scholar  
+    69.
+
+    Case, D. A. et al. The Amber biomolecular simulation programs. J. Comput. Chem. 26 , 1668–1688 (2005).
+
+    Google Scholar  
+    70.
+
+    Hutter, J., Iannuzzi, M., Schiffmann, F. & VandeVondele, J. CP2K: atomistic simulations of condensed matter systems. Wiley Interdiscip. Rev. Comput. Mol. Sci. 4 , 15–25 (2014).
+
+    Google Scholar  
+    71.
+
+    Todorov, I. T., Smith, W., Trachenko, K. & Dove, M. T. Dl_poly_3: new dimensions in molecular dynamics simulations via massive parallelism. J. Mater. Chem. 16 , 1911–1918 (2006).
+
+    Google Scholar  
+    72.
+
+    Bowers, K. J. et al. Scalable algorithms for molecular dynamics simulations on commodity clusters. in Proc. 2006 ACM/IEEE Conf. Supercomput. 43–43 (IEEE, 2006).
+    73.
+
+    Abraham, M. J. et al. GROMACS: high performance molecular simulations through multi-level parallelism from laptops to supercomputers. SoftwareX 1 , 19–25 (2015).
+
+    ADS   Google Scholar  
+    74.
+
+    Kapil, V. et al. i-PI 2.0: a universal force engine for advanced molecular simulations. Comput. Phys. Commun. 236 , 214–223 (2019).
+
+    ADS   Google Scholar  
+    75.
+
+    Anderson, J. A., Lorenz, C. D. & Travesset, A. General purpose molecular dynamics simulations fully implemented on graphics processing units. J. Comput. Phys. 227 , 5342–5359 (2008).
+
+    ADS   MATH   Google Scholar  
+    76.
+
+    Plimpton, S. Fast parallel algorithms for short-range molecular dynamics. J. Comput. Phys. 117 , 1–19 (1995).
+
+    ADS   MATH   Google Scholar  
+    77.
+
+    Phillips, J. C. et al. Scalable molecular dynamics with NAMD. J. Comput. Chem. 26 , 1781–1802 (2005).
+
+    Google Scholar  
+    78.
+
+    Louden, P. et al. OPENMD-2.5: molecular dynamics in the open. OpenMD http://openmd.org/ (2017).
+    79.
+
+    Eastman, P. et al. OpenMM 7: rapid development of high performance algorithms for molecular dynamics. PLoS Comput. Biol. 13 , e1005659 (2017).
+
+    Google Scholar  
+    80.
+
+    Procacci, P. Hybrid MPI/OpenMP implementation of the ORAC molecular dynamics program for generalized ensemble and fast switching alchemical simulations. J. Chem. Inf. Model. 56 , 1117–1121 (2016).
+
+    Google Scholar  
+    81.
+
+    Tuckerman, M. E., Yarne, D., Samuelson, S. O., Hughes, A. L. & Martyna, G. J. Exploiting multiple levels of parallelism in molecular dynamics based calculations via modern techniques and software paradigms on distributed memory computers. Comput. Phys. Commun. 128 , 333–376 (2000).
+
+    ADS   MATH   Google Scholar  
+    82.
+
+    Giannozzi, P. et al. QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials. J. Phys. Condens. Matter 21 , 395502 (2009).
+
+    Google Scholar  
+    83.
+
+    Gygi, F. Architecture of Qbox: a scalable first-principles molecular dynamics code. IBM J. Res. Dev. 52 , 137–144 (2008).
+
+    Google Scholar  
+
+Download references
+Author information
+Affiliations
+
+    SISSA, Trieste, Italy
+
+    Giovanni Bussi & Alessandro Laio
+
+    ICTP, Trieste, Italy
+
+    Alessandro Laio
+
+Authors
+
+    Giovanni Bussi
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Alessandro Laio
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+
+Contributions
+
+Both authors contributed to all aspects of manuscript preparation, revision and editing.
+Corresponding author
+
+Correspondence to Alessandro Laio .
+Ethics declarations
+Competing interests
+
+The authors declare no competing interests.
+Additional information
+Peer review information
+
+Nature Reviews Physics thanks the anonymous reviewer(s) for their contribution to the peer review of this work.
+Publisher’s note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+Supplementary information
+Supplementary Information
+Rights and permissions
+
+Reprints and Permissions
+About this article
+Verify currency and authenticity via CrossMark
+Cite this article
+
+Bussi, G., Laio, A. Using metadynamics to explore complex free-energy landscapes. Nat Rev Phys 2, 200–212 (2020). https://doi.org/10.1038/s42254-020-0153-0
+
+Download citation
+
+    Accepted : 29 January 2020
+
+    Published : 06 March 2020
+
+    Issue Date : April 2020
+
+    DOI : https://doi.org/10.1038/s42254-020-0153-0
+
+Subjects
+
+    Computational science
+    Molecular dynamics
+
+Further reading
+
+    In Silico Engineering of Hydrate Antiagglomerant Molecules Using Bias-Exchange Metadynamics Simulations
+        Hadi Mehrabian
+         &  Bernhardt L Trout
+
+    The Journal of Physical Chemistry C (2020)
+    Polarizable embedding QM/MM: the future gold standard for complex (bio)systems?
+        Mattia Bondanza
+        , Michele Nottoli
+        , Lorenzo Cupellini
+        […]
+        , Filippo Lipparini
+         &  Benedetta Mennucci
+        -Show fewer authors
+
+    Physical Chemistry Chemical Physics (2020)
+    Influence of Calcium Binding on Conformations and Motions of Anionic Polyamino Acids. Effect of Side Chain Length
+        Dmitry Tolmachev
+        , Natalia Lukasheva
+        […]
+        , George Mamistvalov
+         &  Mikko Karttunen
+        -Show fewer authors
+
+    Polymers (2020)
+    Evidence for protein misfolding in the presence of nanoplastics
+        Oldamur Hollóczki
+
+    International Journal of Quantum Chemistry (2020)
+    Molecular spectroscopy of aqueous solutions: a theoretical perspective
+        Tommaso Giovannini
+        , Franco Egidi
+         &  Chiara Cappelli
+
+    Chemical Society Reviews (2020)
+
+Access to this article is not available.
+Change institution
+Buy or subscribe
+
+Access to this article via Hochschule München is not available.
+Access through your institution
+Change institution
+Buy or subscribe
+
+    Sections
+    Figures
+    References
+
+    Abstract
+    Key points
+    References
+    Author information
+    Ethics declarations
+    Additional information
+    Supplementary information
+    Rights and permissions
+    About this article
+    Further reading
+
+Advertisement
+
+    Fig. 1: The working principles of adaptive umbrella sampling and metadynamics.
+    Fig. 2: Three potential energy landscapes, the corresponding free energies and metadynamics trajectories.
+    Fig. 3: Three approaches for automatically finding the best CV.
+    Fig. 4: Typical architecture of a library to perform metadynamics simulations.
+    Fig. 5: Choosing the correct metadynamics variant.
+
+    Torrie, G. M. & Valleau, J. P. Nonphysical sampling distributions in Monte Carlo free-energy estimation: umbrella sampling. J. Comput. Phys. 23 , 187–199 (1977).
+
+    ADS   Google Scholar  
+
+    Laio, A. & Parrinello, M. Escaping free energy minima. Proc. Natl Acad. Sci. USA 99 , 12562–12566 (2002).
+
+    ADS   Google Scholar  
+
+    Laio, A. & Gervasio, F. L. Metadynamics: a method to simulate rare events and reconstruct the free energy in biophysics, chemistry and material science. Rep. Prog. Phys. 71 , 126601 (2008).
+
+    ADS   Google Scholar  
+
+    Barducci, A., Bonomi, M. & Parrinello, M. Metadynamics. Wiley Interdiscip. Rev. Comput. Mol. Sci. 1 , 826–843 (2011).
+
+    Google Scholar  
+
+    Sutto, L., Marsili, S. & Gervasio, F. L. New advances in metadynamics. Wiley Interdiscip. Rev. Comput. Mol. Sci. 2 , 771–779 (2012).
+
+    Google Scholar  
+
+    Baftizadeh, F., Cossio, P., Pietrucci, F. & A, L. Protein folding and ligand–enzyme binding from bias-exchange metadynamics simulations. Curr. Phys. Chem. 2 , 79–91 (2012).
+
+    Google Scholar  
+
+    Bussi, G. & Branduardi, D. Free-energy calculations with metadynamics: theory and practice. Rev. Comput. Chem. 28 , 1–49 (2015).
+
+    Google Scholar  
+
+    Valsson, O., Tiwary, P. & Parrinello, M. Enhancing important fluctuations: rare events and metadynamics from a conceptual viewpoint. Annu. Rev. Phys. Chem. 67 , 159–184 (2016).
+
+    ADS   Google Scholar  
+
+    Theodoropoulos, C., Qian, Y.-H. & Kevrekidis, I. G. Coarse stability and bifurcation analysis using time-steppers: a reaction-diffusion example. Proc. Natl Acad. Sci. USA 97 , 9840–9843 (2000).
+
+    ADS   MATH   Google Scholar  
+
+    Grubmüller, H. Predicting slow structural transitions in macromolecular systems: conformational flooding. Phys. Rev. E 52 , 2893–2906 (1995).
+
+    ADS   Google Scholar  
+
+    Glover, F. Future paths for integer programming and links to artificial intelligence. Comput. Oper. Res. 13 , 533–549 (1986).
+
+    MathSciNet   MATH   Google Scholar  
+
+    Cvijović, D. & Klinowski, J. Taboo search — an approach to the multiple minima problem. Science 267 , 664–666 (1995).
+
+    ADS   MathSciNet   MATH   Google Scholar  
+
+    Huber, T., Torda, A. E. & Van Gunsteren, W. F. Local elevation: a method for improving the searching properties of molecular dynamics simulation. J. Comput. Aided Mol. Des. 8 , 695–708 (1994).
+
+    ADS   Google Scholar  
+
+    Wang, F. & Landau, D. Efficient, multiple-range random walk algorithm to calculate the density of states. Phys. Rev. Lett. 86 , 2050 (2001).
+
+    ADS   Google Scholar  
+
+    Mezei, M. Adaptive umbrella sampling: self-consistent determination of the non-Boltzmann bias. J. Comput. Phys. 68 , 237–248 (1987).
+
+    ADS   MathSciNet   MATH   Google Scholar  
+
+    Rosenblatt, M. Remarks on some nonparametric estimates of a density function. Ann. Math. Stat. 27 , 832–837 (1956).
+
+    MathSciNet   MATH   Google Scholar  
+
+    Bussi, G., Laio, A. & Parrinello, M. Equilibrium free energies from nonequilibrium metadynamics. Phys. Rev. Lett. 96 , 090601 (2006).
+
+    ADS   Google Scholar  
+
+    Barducci, A., Bussi, G. & Parrinello, M. Well-tempered metadynamics: a smoothly converging and tunable free-energy method. Phys. Rev. Lett. 100 , 020603 (2008).
+
+    ADS   Google Scholar  
+
+    Spall, J. C. Introduction to Stochastic Search and Optimization (Wiley, 2003).
+
+    Dama, J. F., Parrinello, M. & Voth, G. A. Well-tempered metadynamics converges asymptotically. Phys. Rev. Lett. 112 , 240602 (2014).
+
+    ADS   Google Scholar  
+
+    Piana, S. & Laio, A. A bias-exchange approach to protein folding. J. Phys. Chem. B 111 , 4553–4559 (2007).
+
+    Google Scholar  
+
+    Gil-Ley, A. & Bussi, G. Enhanced conformational sampling using replica exchange with collective-variable tempering. J. Chem. Theory Comput. 11 , 1077–1085 (2014).
+
+    Google Scholar  
+
+    Pfaendtner, J. & Bonomi, M. Efficient sampling of high-dimensional free-energy landscapes with parallel bias metadynamics. J. Chem. Theory Comput. 11 , 5062–5067 (2015).
+
+    Google Scholar  
+
+    Branduardi, D., Gervasio, F. L. & Parrinello, M. From A to B in free energy space. J. Chem. Phys. 126 , 054103 (2007).
+
+    ADS   Google Scholar  
+
+    Leines, G. D. & Ensing, B. Path finding on high-dimensional free energy landscapes. Phys. Rev. Lett. 109 , 020601 (2012).
+
+    Google Scholar  
+
+    Awasthi, S., Kapil, V. & Nair, N. Sampling free energy surfaces as slices by combining umbrella sampling and metadynamics. J. Comp. Chem. 37 , 1413–1424 (2016).
+
+    Google Scholar  
+
+    Marinelli, F. Following easy slope paths on a free energy landscape: the case study of the Trp-cage folding mechanism. Biophys. J. 105 , 1236–1247 (2013).
+
+    ADS   Google Scholar  
+
+    Hošek, P., Toulcová, D., Bortolato, A. & Spiwok, V. Altruistic metadynamics: multisystem biased simulation. J. Phys. Chem. B 120 , 2209–2215 (2016).
+
+    Google Scholar  
+
+    Fu, H. et al. Zooming across the free-energy landscape: shaving barriers, and flooding valleys. J. Phys. Chem. Lett. 9 , 4738–4745 (2018).
+
+    Google Scholar  
+
+    Darve, E. & Pohorille, A. Calculating free energies using average force. J. Chem. Phys. 115 , 9169–9183 (2001).
+
+    ADS   Google Scholar  
+
+    Limongelli, V., Bonomi, M. & Parrinello, M. Funnel metadynamics as accurate binding free-energy method. Proc. Natl Acad. Sci. USA 110 , 6358–6363 (2013).
+
+    ADS   Google Scholar  
+
+    Bonomi, M., Barducci, A. & Parrinello, M. Reconstructing the equilibrium Boltzmann distribution from well-tempered metadynamics. J. Comput. Chem. 30 , 1615–1621 (2009).
+
+    Google Scholar  
+
+    Branduardi, D., Bussi, G. & Parrinello, M. Metadynamics with adaptive Gaussians. J. Chem. Theory Comput. 8 , 2247–2254 (2012).
+
+    Google Scholar  
+
+    Tiwary, P. & Parrinello, M. A time-independent free energy estimator for metadynamics. J. Phys. Chem. B 119 , 736–742 (2014).
+
+    Google Scholar  
+
+    Donati, L. & Keller, B. G. Girsanov reweighting for metadynamics simulations. J. Chem. Phys. 149 , 072335 (2018).
+
+    ADS   Google Scholar  
+
+    Iannuzzi, M., Laio, A. & Parrinello, M. Efficient exploration of reactive potential energy surfaces using Car-Parrinello molecular dynamics. Phys. Rev. Lett. 90 , 238302 (2003).
+
+    ADS   Google Scholar  
+
+    Crespo, Y., Marinelli, F., Pietrucci, F. & Laio, A. Metadynamics convergence law in a multidimensional system. Phys. Rev. E 81 , 055701 (2010).
+
+    ADS   Google Scholar  
+
+    Spiwok, V. & Králová, B. Metadynamics in the conformational space nonlinearly dimensionally reduced by Isomap. J. Chem. Phys. 135 , 224504 (2011).
+
+    ADS   Google Scholar  
+
+    Henkelman, G., Uberuaga, B. P. & Jónsson, H. A climbing image nudged elastic band method for finding saddle points and minimum energy paths. J. Chem. Phys. 113 , 9901–9904 (2000).
+
+    ADS   Google Scholar  
+
+    Cox, T. F. & Cox, M. A. Multidimensional Scaling (Chapman and Hall/CRC, 2000).
+
+    Rohrdanz, M. A., Zheng, W., Maggioni, M. & Clementi, C. Determination of reaction coordinates via locally scaled diffusion map. J. Chem. Phys. 134 , 124116 (2011).
+
+    ADS   Google Scholar  
+
+    Tribello, G. A., Ceriotti, M. & Parrinello, M. Using sketch-map coordinates to analyze and bias molecular dynamics simulations. Proc. Natl Acad. Sci. USA 109 , 5196–5201 (2012).
+
+    ADS   Google Scholar  
+
+    Sultan, M. M. & Pande, V. S. Automated design of collective variables using supervised machine learning. J. Chem. Phys. 149 , 094106 (2018).
+
+    ADS   Google Scholar  
+
+    Mendels, D., Piccini, G., Brotzakis, Z. F., Yang, Y. I. & Parrinello, M. Folding a small protein using harmonic linear discriminant analysis. J. Chem. Phys. 149 , 194113 (2018).
+
+    ADS   Google Scholar  
+
+    Piccini, G. & Parrinello, M. Accurate quantum chemical free energies at affordable cost. J. Phys. Chem. Lett. 10 , 3727–3731 (2019).
+
+    Google Scholar  
+
+    Rizzi, V., Mendels, D., Sicilia, E. & Parrinello, M. Blind search for complex chemical pathways using harmonic linear discriminant analysis. J. Chem. Theory Comput. 15 , 4507–4515 (2019).
+
+    Google Scholar  
+
+    Vanden-Eijnden, E. Transition-path theory and path-finding algorithms for the study of rare events. Annu. Rev. Phys. Chem. 61 , 391–420 (2010).
+
+    Google Scholar  
+
+    Peters, B., Beckham, G. T. & Trout, B. L. Extensions to the likelihood maximization approach for finding reaction coordinates. J. Chem. Phys. 127 , 034109 (2007).
+
+    ADS   Google Scholar  
+
+    Tiwary, P. & Berne, B. Spectral gap optimization of order parameters for sampling complex molecular systems. Proc. Natl Acad. Sci. USA 113 , 2839–2844 (2016).
+
+    ADS   Google Scholar  
+
+    M Sultan, M. & Pande, V. S. tICA-metadynamics: accelerating metadynamics by using kinetically selected collective variables. J. Chem. Theory Comput. 13 , 2440–2447 (2017).
+
+    Google Scholar  
+
+    McCarty, J. & Parrinello, M. A variational conformational dynamics approach to the selection of collective variables in metadynamics. J. Chem. Phys. 147 , 204109 (2017).
+
+    ADS   Google Scholar  
+
+    Piccini, G., Polino, D. & Parrinello, M. Identifying slow molecular motions in complex chemical reactions. J. Phys. Chem. Lett. 8 , 4197–4200 (2017).
+
+    Google Scholar  
+
+    Chen, W. & Ferguson, A. L. Molecular enhanced sampling with autoencoders: on-the-fly collective variable discovery and accelerated free energy landscape exploration. J. Comput. Chem. 39 , 2079–2102 (2018).
+
+    Google Scholar  
+
+    Wehmeyer, C. & Noé, F. Time-lagged autoencoders: deep learning of slow collective variables for molecular kinetics. J. Chem. Phys. 148 , 241703 (2018).
+
+    ADS   Google Scholar  
+
+    Wang, Y., Ribeiro, J. M. L. & Tiwary, P. Past–future information bottleneck for sampling molecular reaction coordinate simultaneously with thermodynamics and kinetics. Nat. Commun. 10 , 3573 (2019).
+
+    ADS   Google Scholar  
+
+    Tribello, G. A., Bonomi, M., Branduardi, D., Camilloni, C. & Bussi, G. PLUMED2: new feathers for an old bird. Comput. Phys. Comm. 185 , 604–613 (2014).
+
+    ADS   Google Scholar  
+
+    Fiorin, G., Klein, M. L. & Hénin, J. Using collective variables to drive molecular dynamics simulations. Mol. Phys. 111 , 3345–3362 (2013).
+
+    ADS   Google Scholar  
+
+    Sidky, H. et al. SSAGES: software suite for advanced general ensemble simulations. J. Chem. Phys. 148 , 044104 (2018).
+
+    ADS   Google Scholar  
+
+    Grubmüller, H., Heymann, B. & Tavan, P. Ligand binding: molecular mechanics calculation of the streptavidin-biotin rupture force. Science 271 , 997–999 (1996).
+
+    ADS   Google Scholar  
+
+    The PLUMED consortium. Promoting transparency and reproducibility in enhanced molecular simulations. Nat. Methods 16 , 670–673 (2019).
+
+    Google Scholar  
+
+    Dama, J., Rotskoff, G., Parrinello, M. & Voth, G. Transition-tempered metadynamics: robust, convergent metadynamics via on-the-fly transition barrier estimation. J. Chem. Theory Comput. 10 , 3626–3633 (2014).
+
+    Google Scholar  
+
+    Jourdain, B., Lelièvre, T. & Zitt, P.-A. Convergence of metadynamics: discussion of the adiabatic hypothesis. Preprint at arXix https://arxiv.org/abs/1904.08667 (2019).
+
+    Cuendet, M. & Tuckerman, M. Free energy reconstruction from metadynamics or adiabatic free energy dynamics simulations. J. Chem. Theory Comput. 10 , 2975–2986 (2014).
+
+    Google Scholar  
+
+    Mones, L., Bernstein, N. & Csányi, G. Exploration, sampling, and reconstruction of free energy surfaces with Gaussian process regression. J. Chem. Theory Comput. 12 , 5100–5110 (2016).
+
+    Google Scholar  
+
+    Bussi, G., Gervasio, F. L., Laio, A. & Parrinello, M. Free-energy landscape for beta hairpin folding from combined parallel tempering and metadynamics. J. Am. Chem. Soc. 128 , 13435–13441 (2006).
+
+    Google Scholar  
+
+    Camilloni, C., Provasi, D., Tiana, G. & Broglia, R. A. Exploring the protein G helix free-energy surface by solute tempering metadynamics. Proteins 71 , 1647–1654 (2008).
+
+    Google Scholar  
+
+    McGovern, M. & De Pablo, J. A boundary correction algorithm for metadynamics in multiple dimensions. J. Chem. Phys. 140 , 229901 (2013).
+
+    ADS   Google Scholar  
+
+    Harvey, M. J., Giupponi, G. & Fabritiis, G. D. ACEMD: accelerating biomolecular dynamics in the microsecond time scale. J. Chem. Theory Comput. 5 , 1632–1639 (2009).
+
+    Google Scholar  
+
+    Case, D. A. et al. The Amber biomolecular simulation programs. J. Comput. Chem. 26 , 1668–1688 (2005).
+
+    Google Scholar  
+
+    Hutter, J., Iannuzzi, M., Schiffmann, F. & VandeVondele, J. CP2K: atomistic simulations of condensed matter systems. Wiley Interdiscip. Rev. Comput. Mol. Sci. 4 , 15–25 (2014).
+
+    Google Scholar  
+
+    Todorov, I. T., Smith, W., Trachenko, K. & Dove, M. T. Dl_poly_3: new dimensions in molecular dynamics simulations via massive parallelism. J. Mater. Chem. 16 , 1911–1918 (2006).
+
+    Google Scholar  
+
+    Bowers, K. J. et al. Scalable algorithms for molecular dynamics simulations on commodity clusters. in Proc. 2006 ACM/IEEE Conf. Supercomput. 43–43 (IEEE, 2006).
+
+    Abraham, M. J. et al. GROMACS: high performance molecular simulations through multi-level parallelism from laptops to supercomputers. SoftwareX 1 , 19–25 (2015).
+
+    ADS   Google Scholar  
+
+    Kapil, V. et al. i-PI 2.0: a universal force engine for advanced molecular simulations. Comput. Phys. Commun. 236 , 214–223 (2019).
+
+    ADS   Google Scholar  
+
+    Anderson, J. A., Lorenz, C. D. & Travesset, A. General purpose molecular dynamics simulations fully implemented on graphics processing units. J. Comput. Phys. 227 , 5342–5359 (2008).
+
+    ADS   MATH   Google Scholar  
+
+    Plimpton, S. Fast parallel algorithms for short-range molecular dynamics. J. Comput. Phys. 117 , 1–19 (1995).
+
+    ADS   MATH   Google Scholar  
+
+    Phillips, J. C. et al. Scalable molecular dynamics with NAMD. J. Comput. Chem. 26 , 1781–1802 (2005).
+
+    Google Scholar  
+
+    Louden, P. et al. OPENMD-2.5: molecular dynamics in the open. OpenMD http://openmd.org/ (2017).
+
+    Eastman, P. et al. OpenMM 7: rapid development of high performance algorithms for molecular dynamics. PLoS Comput. Biol. 13 , e1005659 (2017).
+
+    Google Scholar  
+
+    Procacci, P. Hybrid MPI/OpenMP implementation of the ORAC molecular dynamics program for generalized ensemble and fast switching alchemical simulations. J. Chem. Inf. Model. 56 , 1117–1121 (2016).
+
+    Google Scholar  
+
+    Tuckerman, M. E., Yarne, D., Samuelson, S. O., Hughes, A. L. & Martyna, G. J. Exploiting multiple levels of parallelism in molecular dynamics based calculations via modern techniques and software paradigms on distributed memory computers. Comput. Phys. Commun. 128 , 333–376 (2000).
+
+    ADS   MATH   Google Scholar  
+
+    Giannozzi, P. et al. QUANTUM ESPRESSO: a modular and open-source software project for quantum simulations of materials. J. Phys. Condens. Matter 21 , 395502 (2009).
+
+    Google Scholar  
+
+    Gygi, F. Architecture of Qbox: a scalable first-principles molecular dynamics code. IBM J. Res. Dev. 52 , 137–144 (2008).
+
+    Google Scholar  
+
+Nature Reviews Physics ISSN 2522-5820 (online)
+nature.com sitemap
+Nature Research
+
+    About us
+    Press releases
+    Press office
+    Contact us
+
+Discover content
+
+    Journals A-Z
+    Articles by subject
+    Nano
+    Protocol Exchange
+    Nature Index
+
+Publish with us
+
+    Guide to Authors
+    Guide to Referees
+    Editorial policies
+    Open access
+    Reprints & permissions
+
+Researcher services
+
+    Research data
+    Language editing
+    Scientific editing
+    Nature Masterclasses
+    Nature Research Academies
+
+Libraries & institutions
+
+    Librarian service & tools
+    Librarian portal
+    Open research
+
+Advertising & partnerships
+
+    Advertising
+    Partnerships & Services
+    Media kits
+    Branded content
+
+Career development
+
+    Nature Careers
+    Nature Conferences
+    Nature events
+
+Regional websites
+
+    Nature China
+    Nature India
+    Nature Japan
+    Nature Korea
+    Nature Middle East
+
+Legal & Privacy
+
+    Privacy Policy
+    Use of cookies
+    Manage cookies/Do not sell my data
+    Legal notice
+    Accessibility statement
+    Terms & Conditions
+    California Privacy Statement
+
+Springer Nature
+
+© 2020 Springer Nature Limited
+Close banner Close
+Sign up for the Nature Briefing newsletter for a daily update on COVID-19 science.
+Enter your email address
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy .
+Sign up
+Get the most important science stories of the day, free in your inbox. Sign up for Nature Briefing
+Close banner Close
+Giovanni Bussi
+
+    SISSA, Trieste, Italy
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Alessandro Laio
+View ORCID ID profile
+
+    SISSA, Trieste, Italy
+    ICTP, Trieste, Italy
+    Contact Alessandro Laio
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close

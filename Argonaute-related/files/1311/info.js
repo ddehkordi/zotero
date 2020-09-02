@@ -1,0 +1,1 @@
+/**/jQuery34105279963192021735_1598978040229({"purchasable":true,"publisher":"nature","article":{"title":"Argonaute proteins: key players in RNA silencing","chapter":null,"year":2008,"journal":"Nature Reviews Molecular Cell Biology"},"purchase_type":"personal","prices":{"tier_1":899,"tier_2":2200,"tier_3":3200},"manual_enabled":null})

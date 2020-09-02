@@ -1,0 +1,1041 @@
+
+Skip to main content
+
+Advertisement
+Advertisement
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Nature
+View all Nature Research journals
+Search
+Search
+Article Search
+Search
+
+Advanced search
+Quick links
+
+    Explore articles by subject
+    Find a job
+    Guide to authors
+    Editorial policies
+
+My Account Login
+
+    Explore our content
+    Explore our content
+        Research
+        News
+        Opinion
+        Research Analysis
+        Careers
+        Books and Culture
+        Podcasts
+        Videos
+        Current Issue
+        Browse Issues
+        Browse Articles
+        Browse Collections
+        Browse Subjects
+        Sign up for alerts
+    Journal info rmation
+    Journal information
+        About the Journal
+        For Authors
+        For Referees
+        Awards
+        Subscribe
+        Submit manuscript
+
+    nature
+    articles
+    article
+
+Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes
+Download PDF
+
+    Published: 08 October 2009
+
+Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes
+
+    Yanli Wang 1 ,
+    Stefan Juranek 2 ,
+    Haitao Li 1 ,
+    Gang Sheng 1 ,
+    Greg S. Wardle 2 ,
+    […]
+    Thomas Tuschl 2 &
+    Dinshaw J. Patel 1  
+    -Show fewer authors
+
+Nature volume  461 ,  pages 754 – 761 ( 2009 ) Cite this article
+
+    841 Accesses
+
+    330 Citations
+
+    16 Altmetric
+
+    Metrics details
+
+Abstract
+
+The slicer activity of the RNA-induced silencing complex resides within its Argonaute (Ago) component, in which the PIWI domain provides the catalytic residues governing guide-strand mediated site-specific cleavage of target RNA. Here we report on structures of ternary complexes of Thermus thermophilus Ago catalytic mutants with 5′-phosphorylated 21-nucleotide guide DNA and complementary target RNAs of 12, 15 and 19 nucleotides in length, which define the molecular basis for Mg 2+ -facilitated site-specific cleavage of the target. We observe pivot-like domain movements within the Ago scaffold on proceeding from nucleation to propagation steps of guide–target duplex formation, with duplex zippering beyond one turn of the helix requiring the release of the 3′-end of the guide from the PAZ pocket. Cleavage assays on targets of various lengths supported this model, and sugar-phosphate-backbone-modified target strands showed the importance of structural and catalytic divalent metal ions observed in the crystal structures.
+
+You have full access to this article via your institution.
+Download PDF
+
+You have full access to this article via Hochschule München
+Download PDF
+Main
+
+Ago is the key component of the RNA-induced silencing complex (RISC) and has an essential role in guide-strand-mediated target RNA recognition, cleavage and product release 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 . Ago adopts a bilobal architecture, composed of amino-terminal PAZ-containing (N and PAZ) and carboxy-terminal PIWI-containing (Mid and PIWI) lobes. The PIWI domain adopts an RNase H fold 9 , 10 , 11 , in which the catalytic Asp-Asp-Asp/His residues contribute to slicer activity 11 , 12 , 13 ; the Mid domain sequesters the 5′-phosphate of the guide strand 14 , 15 ; and the PAZ domain recognizes the 2-nucleotide overhang at the 3′-end of the guide strand 16 , 17 . Ago-mediated target-RNA cleavage requires Watson–Crick pairing between guide and target, spanning both the seed segment (positions 2–8) and the cleavage site (10–11 step) as counted from the 5′-end of the guide strand 3 , 4 . Endonucleolytic cleavage is mediated by Mg 2+ cations 18 , 19 and generates fragments containing a 3′-OH for the 5′-segment and a 5′-phosphate for the 3′-segment 20 . Molecular insights into target RNA recognition and cleavage have emerged from chemical 21 , 22 , biophysical 23 and structural 5 , 24 , 25 , 26 , 27 studies, with potential application of RNA-interference-based approaches as a therapeutic modality against a range of human diseases 28 , 29 .
+
+We have previously reported on crystal structures of T. thermophilus Ago bound to 5′-phosphorylated 21-nucleotide guide DNA (binary complex) 30 , and with added 20-nucleotide target RNA (ternary complex) 31 (see Supplementary Materials for a summary of these results). A major limitation of the earlier structural study of the ternary complex 31 was that the bases of the target RNA could not be monitored owing to disordered electron density at the 10–11 cleavage site as a result of mismatch incorporation at these steps to prevent cleavage activity. The catalytic activity of the RNase H fold of the PIWI domain of T. thermophilus Ago originates in Asp residues 478, 546 and 660, and hence, in the present study, single Asp to Asn, Glu or Ala mutants were incorporated at these positions to inhibit the cleavage activity. The ternary complexes of these catalytic mutants with bound guide DNA and varying target RNA lengths were then generated with 5′-phosphorylated 21-nucleotide guide DNA and fully complementary target RNAs of varying length (12, 15 and 19 nucleotides)—conditions under which both the seed segment and the cleavage site could be potentially monitored, thereby providing insights into cleavage mechanism.
+Cleavage site in Ago ternary complexes
+
+We have solved the 2.6 Å crystal structure of the Asn 546 catalytic mutant of T. thermophilus Ago bound to 5′-phosphorylated 21-nucleotide guide DNA and a 12-nucleotide target RNA that is fully complementary along the length of the duplex ( Fig. 1a ). This is our highest resolution structure of a ternary complex to date ( Fig. 1b ; stereo view in a different perspective in Supplementary Fig. 1a ; X-ray statistics are listed in Supplementary Table 1 ), and has provided detailed insights into the alignment of the guide and target strands that span both the seed segment and the cleavage site. The guide DNA strand in red can be monitored from positions 1–12 spanning the 5′-half and for positions 20–21 at the 3′-end, whereas the target RNA strand in blue can be monitored for positions 2′–12′ ( Fig. 1b ). Both ends of the guide strand are anchored in their respective binding pockets despite formation of an 11-base-pair (bp) DNA–RNA duplex. Intermolecular contacts within the 12-nucleotide target ternary complex are highlighted in Supplementary Fig. 2 . Bases 1 and 2 are splayed, with thymine at position 1 stacked over the side chain of Arg 418, and its N3 nitrogen and O4 oxygen hydrogen-bonded to the backbone (Met 413) and the side chain (Asn 436) of the Ago scaffold ( Fig. 1c ). Base 1 is the only residue on the guide strand that makes base-specific contacts with the Ago scaffold, and this observation is consistent with the reported sorting of small RNAs in Arabidopsis Ago complexes by the 5′-terminal nucleotide 32 , 33 .
+Figure 1: Crystal structure of T. thermophilus Ago(Asn 546) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 12-nucleotide target RNA.
+figure1
+
+a , Sequence of the guide DNA–target RNA duplex. The traceable segments of the bases of the guide DNA and target RNA in the structure of the ternary complex are shown in red and blue, respectively. Disordered segments of the bases on both strands that cannot be traced are shown in grey. b , View of the 2.6 Å crystal structure of the Ago ternary complex. The Ago protein domains (N in cyan, PAZ in magenta, Mid in orange, PIWI in green) and linkers (L1 and L2 in grey) are colour-coded. The bound 21-nucleotide guide DNA (red) is traced for bases 1–12 and 20–21, whereas the bound 12-nucleotide target RNA (blue) is traced for bases 2′–12′. Backbone phosphorus atoms are yellow. Both ends of the bound guide DNA are anchored. c , Expanded view of the ternary complex highlighting the alignment of guide DNA (1–3) and target RNA (2′–3′), where the bases of the 1–2 step of the guide strand are splayed. Note the intermolecular hydrogen-bonding of the Watson–Crick edge of T1 with the backbone amide carbonyl of Met 413 and side chain of Asn 436, as well as the positioning of phosphate 1 of the guide strand in the Mid binding pocket. A Mg 2+ cation (purple) coordinates to phosphates 1 and 3 of the guide strand, as well as to an inserted carboxylate of Val 685 from the C terminus. d , Expanded view of the ternary complex highlighting the guide DNA (1–12)–target RNA (2′–12′) duplex, together with the catalytic residues (Asp 478, Asp 660 and Asn 546 mutant) of the RNase H fold of the PIWI domain. The scissile phosphate group at the 10′–11′ step of the target RNA is indicated by a red arrow. e , Expanded view highlighting the positioning of the backbone phosphate linking the 10′–11′ step (phosphorus coloured in magenta) of the target RNA relative to the catalytic residues (Asp 478, Asp 660 and Asn 546 mutant) in the ternary complex. f , Positioning of the side chain of Arg 548 relative to the guide DNA (6–12)–target RNA (6′–12′) duplex. Note the intermolecular contacts between the sugar-phosphate backbone of the guide strand and side chains of the protein in the ternary complex.
+
+PowerPoint slide
+Full size image
+
+The guide DNA–target RNA duplex spanning positions 2 to 12 ( Fig. 1d ) superpositions better with an A-form helix than with its B-form counterpart ( Supplementary Fig. 3a and b , respectively), with the scissile phosphate (10–11 step) on the target strand positioned opposite the catalytic residues (Asp 478, Asp 660 and Asn 546 mutant) of the RNase H fold of the PIWI domain ( Fig. 1d, e ). Bases 10 and 11 of the target strand stack on each other in a catalytically competent helical conformation in the ternary Ago complex ( Fig. 1f ), in contrast to the orthogonal arrangements of these bases owing to the insertion of Arg 548 between them in the binary Ago complex 30 (compare Supplementary Fig. 4a (binary) with 4b (ternary) ). Conformational changes in both the guide strand ( Supplementary Fig. 5a ) and Ago ( Supplementary Fig. 5b ) accompany the transition from binary to ternary complex formation ( Supplementary Fig. 6 and Supplementary Movie 1 ).
+Release of guide 3′-end from PAZ pocket
+
+Next we solved the 3.05 Å crystal structure of the Glu 546 catalytic mutant of T. thermophilus Ago bound to 5′-phosphorylated 21-nucleotide guide DNA and a 15-nucleotide target RNA that is fully complementary along the length of the duplex ( Fig. 2a ; stereo view in Supplementary Fig. 1b ; X-ray statistics are listed in Supplementary Table 1 ). The guide DNA strand can be monitored from positions 1–16, whereas the target RNA strand can be monitored from positions 2′–15′ ( Fig. 2b ). The 5′-phosphate of the guide strand is still anchored in the Mid pocket, but the 3′-end (positions 17–21 are disordered and cannot be traced) is released from the PAZ pocket on formation of the 14-bp duplex spanning positions 2–15 of the guide strand. The molecular basis for the release of the 3′-end of the guide strand is that the helical conformation for nucleotides 12–15 disallows the 3′-end from reaching the binding pocket in the PAZ domain.
+Figure 2: Crystal structure of T. thermophilus Ago(Glu 546) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 15-nucleotide target RNA.
+figure2
+
+a , Sequence of the guide DNA–target RNA duplex, with traceable segments colour-coded as in Fig. 1a . b , View of the 3.05 Å crystal structure of the Ago ternary complex, colour-coded as outlined in Fig. 1b . The bound 21-nucleotide guide DNA (red) is traced for bases 1–16, whereas the bound 15-nucleotide target RNA (blue) is traced for bases 2′–15′. Only the 5′-end of the guide DNA is anchored in this ternary complex. c , d , Comparison of the crystal structures of mutant Ago(Asn 546)–12-nucleotide target ( c ) and of mutant Ago(Glu 546)–15-nucleotide target ( d ) ternary complexes. The Ago protein is shown in a surface representation with domains and linkers colour-coded as in Fig. 1b . The guide DNA (red) and target RNA (blue) are shown in stick representation with backbone phosphorus atoms in yellow. e , View of the alignment of mutant Ago(Asn 546)–12-nucleotide target complex (magenta) and mutant Ago(Glu 546)–15-nucleotide target complex (silver), after superpositioning of their PIWI-containing (Mid and PIWI) modules. The yellow arrow indicates the magnitude of the conformational change on proceeding from the 12-nucleotide target to 15-nucleotide target ternary complexes. f , Conformational changes in loop 1 (residues 479–488, red arrow) and loop 2 (residues 505–516, green arrow) of the PIWI domain on proceeding from the 12-nucleotide target ternary complex (magenta) to the 15-nucleotide target ternary complex (silver). Only the DNA–RNA duplex for the 15-nucleotide target ternary complex is shown in cyan in a surface representation. Loops 1 and 2 are coloured light red (labelled L1′) and light green (labelled L2′) in the 12-nucleotide target ternary complex, and dark red (labelled L1) and dark green (labelled L2) in the 15-nucleotide target ternary complex. The β-strand involved in sliding is highlighted by a black double-edged arrow. g , Ternary complex containing 12-nucleotide target RNA. Residues 11 and 12 of the guide strand are in red, and loops L1′ and L2′ are in light red and light green, respectively. h , Ternary complex containing 15-nucleotide target RNA. Residues 11 to 15 of the guide strand are in red, and loops L1 and L2 are in dark red and dark green, respectively. Loop L1 switches to a β-turn aligned by hydrogen bonding within the turn and also with loop L2, thereby stabilizing this turn conformation. The main-chain of Glu 512 forms a hydrogen bond with the phosphate group of residue 14 of the guide DNA. The positively charged side chains of Arg 513 and Arg 486 interact with the backbone of the DNA guide strand, as indicated by blue arrows. i , Ribbon representation of the sliding of the β-strand (Gly 489 to Val 494) by one residue, and conformational transition in adjacent L1 loop on proceeding from the 12-nucleotide target RNA ternary complex (magenta) to 15-nucleotide target RNA ternary complex (silver).
+
+PowerPoint slide
+Full size image
+
+We observe conformational changes on proceeding from the ternary Ago complex with bound 12-nucleotide target ( Fig. 2c ) to its counterpart with bound 15-nucleotide target ( Fig. 2d ), and these changes can be visualized after superpositioning of the PIWI-containing (Mid and PIWI) lobe as shown by the yellow arrow in Fig. 2e (also see Supplementary Movie 2 ). These changes involve a pivotal rotation of the PAZ domain (compare PAZ domain alignments in Supplementary Fig. 7a and b ), as well as movement of loops L1 and L2 located on the nucleic-acid-interfacing surface of the PIWI domain ( Fig. 2f ).
+
+Details of intermolecular contacts between loop L1 and the guide DNA 11–12 segment in the 12-nucleotide target RNA ternary complex are shown in Fig. 2g , whereas intermolecular contacts between loops L1 and L2 and the guide DNA 11–15 segment in the 15-nucleotide target RNA ternary complex are shown in Fig. 2h . Notably, L1 changes from a loop ( Fig. 2g ) to a β-turn ( Fig. 2h ) on proceeding from the 12- to the 15-nucleotide target RNA ternary complexes, resulting in several extra hydrogen bonds within this β-turn and with loop 2, thereby stabilizing this new conformation. The conformational transitions in loops L1 and L2 are required to avoid steric clashes with the DNA guide strand ( Supplementary Fig. 8 ) on addition of three more base pairs on proceeding from the 12- to the 15-nucleotide target RNA ternary complexes. Unexpectedly, changes in the conformation of loop L1 force the attached β-strand encompassing residues 489–493, as part of a multi-stranded β-sheet, to slide by a single residue with the accompanying flip of the entire β-strand and its side chains, on proceeding from the 12- to the 15-nucleotide target ternary complex ( Fig. 2i , identified by a black double-edged arrow in Fig. 2f and Supplementary Fig. 9 ).
+
+In mechanistic terms, we favour the view that the conformational transitions in loops L1 and L2 and associated sliding and flipping of the β-strand are triggered by widening of the substrate-binding channel between the PIWI and N domains to accommodate a lengthening of the A-form duplex from 11-bp in the 12-nucleotide target RNA complex to 14-bp in the 15-nucleotide target RNA complex. Such changes not only push the PAZ domain away but also release the 3′ end of guide strand from the PAZ-binding pocket ( Figs 1b , 2b and Supplementary Fig. 7 ). Moreover, we note that sliding and flipping of the β-strand occurs with minimal perturbation of β-sheet formation (schematic in Supplementary Fig. 9 ), and flipping of the entire β-strand does not disrupt specific side-chain interactions.
+
+We have compared the structures of Ago mutant ternary complexes with 12-nucleotide ( Fig. 1b ) and 15-nucleotide ( Fig. 2b ) target RNAs reported in this study with the previously reported structure of the ternary complex of wild-type Ago with 20-nucleotide target RNA containing a pair of mismatches at the cleavage site 31 . The previous structure of the ternary complex (two molecules in the asymmetric unit) 31 and one solved recently in a different crystal form (one molecule in the asymmetric unit; X-ray crystallographic statistics in Supplementary Table 2 ) in which segment 2–9 is fully paired and both ends of the guide strand are anchored, are most similar to the ternary complex with 12-nucleotide target RNA in the present study, in which segment 2–12 is fully paired and both ends of the guide strand are also anchored (comparison outlined in Supplementary Fig. 10a, b ).
+
+Our studies resolve a mechanistic issue related to guide-strand-mediated recognition and cleavage of target RNA within Ago complexes. Several groups have proposed a ‘two-state’ model in which the guide strand is anchored at both of its ends during the nucleation step of target recognition, but its 3′-end is released from the PAZ pocket owing to topological constraints, after propagation of the duplex towards the 3′-end of the guide strand 4 , 11 , 34 . An alternative ‘fixed-end’ model proposed that both ends of the guide strand remain anchored during the nucleation and the propagation steps of RNA recognition 34 . Our results support a two-state mechanism for the system under study, given that our structures demonstrate that both ends of the guide strand are anchored in a ternary complex containing one turn of the A-form helix (12-nucleotide target RNA) spanning the seed segment and cleavage site ( Fig. 1b ), but the 3′-end is released from the PAZ pocket on extending this duplex by three more base pairs (15-nucleotide target RNA) towards the 3′-end of the guide strand ( Fig. 2b ).
+N domain blocks guide–target pairing beyond position 16
+
+The 2.8 Å crystal structure of the Asn 478 catalytic mutant of T. thermophilus Ago bound to 5′-phosphorylated 21-nucleotide guide DNA and a 19-nucleotide target RNA (sequence in Fig. 3a , structure in Fig. 3b , stereo view in Supplementary Fig. 1c ; X-ray statistics are listed in Supplementary Table 1 ) is similar to the Ago(Glu 546) catalytic mutant ternary complex with 15-nucleotide target RNA ( Fig. 2b ), except that one extra base pair can be traced, allowing monitoring of 15-bp of guide–target duplex spanning positions 2–16 of the guide strand (stereo electron density maps of the guide and target strands are shown in Supplementary Fig. 11 ). Intermolecular contacts within the 19-nucleotide target ternary complex are highlighted in Supplementary Fig. 12 ). Furthermore, the sugar-phosphate backbone of the target strand is intact at the 10–11 step, and on either side of it, for both 15- and 19-nucleotide target ternary complexes (see F o  -  F c omit maps contoured at 3.7σ in Supplementary Fig. 13a and b , respectively).
+Figure 3: Crystal structure of T. thermophilus Ago(Asn 478) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 19-nucleotide target RNA and identification of Mg 2+ binding sites within the catalytic pocket of the wild-type Ago complex.
+figure3
+
+a , Sequence of the guide DNA-target RNA duplex, with traceable segments colour-coded as in Fig. 1a . b , View of the 2.8 Å crystal structure of the ternary complex, colour-coded as outlined in Fig. 1b . The bound 21-nucleotide guide DNA (red) is traced for bases 1–16, whereas the bound 19-nucleotide target RNA (blue) is traced for bases 2′–16′. Only the 5′-end of the guide strand is anchored in this ternary complex. c , Expanded view of the 19-nucleotide target ternary complex highlighting blocking of propagation of the guide DNA–target RNA duplex beyond pair 16 by the N domain. Base 16 of the guide strand stacks over the aromatic ring of Tyr 43, whereas base 16′ of the target strand stacks over Pro 44. d , Intermolecular hydrogen-bonding contacts between the sugar-phosphate backbone of the 10′–13′ target RNA segment and backbone and side chains of the PIWI domain in the 19-nucleotide target ternary complex. e , f , F o  -  F c omit maps (blue colour, contoured at 3.5σ) of the 9′–12′ segment of bound RNA and catalytic Asp 478, Asp 546 and Asp 660 residues in the 3.3 Å structures of the ternary complexes in 50 mM Mg 2+ ( e , space group P 4 3 2 1 2, one molecule in the asymmetric unit) and in 80 mM Mg 2+ ( f , space group P 2 1 2 1 2 1 , two molecules in asymmetric unit). Bound Mg 2+ cation(s) were identified in omit maps contoured in purple at 6.0σ as outlined in e and f , based on coordination to several oxygen atoms in an approximate octahedral geometry. One bound Mg 2+ cation can be assigned in the ternary complex in 50 mM Mg 2+ in e , and two bound Mg 2+ cations can be assigned in the ternary complex in 80 mM Mg 2+ in f .
+
+PowerPoint slide
+Full size image
+
+An unexpected mechanistic insight to emerge from our structural studies of the three ternary Ago complexes outlined earlier is that the guide DNA–target RNA duplex retains the A-form duplex architecture spanning the seed segment, the cleavage site and observable elements towards the 3′-end of the guide strand (up to position 16), and it is solely the Ago scaffold that adjusts by pivot-like domain movements, to relieve the topological stress associated with zippering up the RNA target through pairing with its guide-strand template. A second unanticipated observation is that the N domain blocks propagation of the guide DNA–target RNA duplex beyond position 16 in the 19-nucleotide target ternary complex ( Fig. 3c ), with the base at position 16 of the guide strand stacking on the aromatic ring of Tyr 43, and the base at 16′ of the target strand stacked over the Pro 44 ring. Thus, base pairing is disrupted for steps 17, 18 and 19, with anticipated trajectories for the separated guide and target strands schematized in Supplementary Fig. 14 .
+
+The sugar-phosphate backbone spanning the seed segment of the guide but not the target strand is hydrogen-bonded to the protein (see Supplementary Movie 3 ). We also note that the sugar-phosphate backbone of the target RNA spanning the 10′–13′ segment forms intermolecular hydrogen bonds with the Ago scaffold in the 12-nucleotide ( Supplementary Fig. 15a ), 15-nucleotide ( Supplementary Fig. 15b ) and 19-nucleotide ( Fig. 3d ) target ternary complexes, establishing the potential for photochemically facilitated cross links between this segment of the target RNA and its spatially identified proximal sites on the protein 35 .
+A pair of Mg 2+ cations mediates cleavage chemistry
+
+The PIWI domain of Ago adopts an RNase H fold 9 , 10 , 11 , 30 , 31 , with catalytic Asp 478, Asp 546 and Asp 660 residues lining the active site of the T. thermophilus enzyme. Two Mg 2+ cations have been shown to facilitate RNA hydrolysis during catalytic cleavage by RNase-H-containing nucleases, with cation A assisting nucleophilic attack by positioning and activating a water molecule, and cation B stabilizing the transition state and leaving group 36 , 37 . Because catalytic mutations could induce distortions of the optimal geometry for coordination to divalent cations, we attempted to identify bound Mg 2+ cation(s) in the catalytic pocket of the ternary complex of wild-type T. thermophilus Ago with 19-nucleotide target RNA, that is fully complementary to positions 2–19 of the guide strand ( Fig. 3a ).
+
+Crystals of the Ago ternary complex were grown as a function of Mg 2+ concentration, with 3.3 Å data sets collected for crystals in 50 mM Mg 2+ (space group P 4 3 2 1 2, one molecule in the asymmetric unit) and 80 mM Mg 2+ (space group P 2 1 2 1 2 1 , two molecules in asymmetric unit) solution (X-ray statistics listed in Supplementary Table 3 ). Gel electrophoresis of the crystals established that the target RNA was not cleaved in either complex, presumably because T. thermophilus Ago-mediated cleavage is optimal at higher temperatures and has a marked preference for Mn 2+ over Mg 2+ (ref. 11 ). The F o  - F c omit maps (blue colour, contoured at 3.5σ) of the target strand residues 9′–12′ and catalytic Asp residues for the Ago ternary structures in 50 mM Mg 2+ and 80 mM Mg 2+ are shown in Fig. 3e and f , respectively. A single bound Mg 2+ , positioned towards the leaving group side of the scissile phosphate (cation B) can be identified in the structure in 50 mM Mg 2+ ( Fig. 3e , omit map contoured in purple at 6.0σ), with an intact target RNA readily traceable for the 9′–12′ segment. A pair of Mg 2+ cations separated by 3.9 Å, which coordinate the hydrolysis of the scissile phosphate, were identified in the structure in 80 mM Mg 2+ ( Fig. 3f ). The assignment of the extra density to Mg 2+ site(s) at 3.3 Å resolution is based on coordination of the divalent cation(s) to several oxygen atoms in an approximate octahedral geometry (stereo views in Supplementary Fig. 16a, b ). Of the three catalytic Asp residues lining the catalytic pocket, only Asp 478 coordinates to both Mg 2+ cations ( Fig. 3f and Supplementary Fig. 16b ). The structures of the catalytic residues, Mg 2+ sites and RNA backbone for B. halodurans RNase H (1.85 Å) and T. thermophilus Ago (3.3 Å) complexes are superpositioned in stereo for comparative purposes in Supplementary Fig. 17 . Given that the crystals of the ternary complexes grown from both 50 and 80 mM Mg 2+ diffract to 3.3 Å resolution, it is at present not possible to identify the position of the water molecule that would participate and be positioned for in-line attack on the scissile phosphate.
+
+We observe detectable conformational changes after superpositioning of the single and the pair of Mg 2+ -bound ternary complex structures through their PIWI-containing lobes. These changes are restricted to the PAZ domain ( Supplementary Fig. 18a ) and the target RNA strand ( Supplementary Fig. 18b ). The catalytic residues are optimally positioned for cleavage in the structure of the ternary complex with a pair of Mg 2+ cations.
+
+Thus, the Ago protein, capitalizing on the RNase H fold of its PIWI domain 9 , 10 , 11 , uses three catalytic Asp residues and two Mg 2+ cations to facilitate site-specific cleavage of RNA targets, yielding products containing 5′-phosphate and 3′-OH ends 20 , a feature in common with members of the retroviral integrase superfamily 37 .
+Analysis of the catalytic activity of T. thermophilus Ago
+
+Target RNA cleaving bacterial complexes are most effectively reconstituted using single-stranded guide DNA rather than RNA 11 , 15 , 30 , 31 . To explore whether DNA might also function as a target, we subjected chemically synthesized DNA and RNA targets ( Supplementary Table 4 ) to DNA-guided Ago cleavage reactions. DNA is resistant to hydrolysis by divalent metal ions and high temperature incubation, thereby yielding a clearer picture of target cleavage. T. thermophilus Ago loaded with guide DNA derived from luciferase sequence studied previously 30 , 31 cleaved DNA as well as RNA targets; however, several unexpected minor cleavage products were also observed ( Supplementary Fig. 19 ). These side products resulted from partial self-complementarity of the guide DNA, leading to cleavage of guide DNA during the Ago loading process and acceptance of the shorter cleavage products as guide DNAs. We therefore tested new guide and target sequence pairs, identical to the microRNA let-7 sequence selected for crystallography. The let-7 guide and target molecules yielded a single cleavage band, with DNA being a better substrate than RNA ( Supplementary Fig. 20a ). Target DNA cleavage occurred in the presence of Mg 2+ or Mn 2+ , but not Ca 2+ ( Supplementary Fig. 20b ), supporting single and multiple turnover ( Supplementary Fig. 20c ). Cleavage products started to accumulate after a short (about 2 min) lag phase, at an approximate rate constant of 0.1 min -1 under single turnover (0.5 μM target) and 0.2–0.4 min -1 under multiple turnover (5 μM target) conditions ( Supplementary Fig. 20c ). These rate constants indicate that our cleavage conditions are approaching substrate saturation and that product release is not rate limiting. We also included cleavage experiments using mutant Ago proteins that were used for the crystal structures ( Figs 1 , 2 , 3 ) and tested for DNA-guided RNA ( Supplementary Fig. 21a ) or DNA ( Supplementary Fig. 21b ) target cleavage. Of the mutant Agos, only the Asn 546 mutant showed some residual activity, and product formation was reduced >500-fold.
+Minimal target DNA requirements
+
+Previously, we showed that luciferase guide DNA strands as short as 9 nucleotides promoted target RNA cleavage; the minimal target length was not addressed 31 . We first shortened the let-7 DNA target ( Fig. 4a ) from its 5′ end ( Fig. 4b ). Truncation of the target to 16 nucleotides did not alter cleavage activity, but 15- and 14-nucleotide targets showed 120- and 400-fold reduced cleavage rates, respectively, and a 12-nucleotide target was not cleaved. This indicates that residues 17′ and higher do not contribute to cleavage, and was further supported by our finding that 21- or 24-nucleotide DNA targets, in which regions 17′–21′ or 17′–24′ were unpaired with same size guides, showed similar activity compared to their fully paired versions ( Supplementary Fig. 22 ).
+Figure 4: Effect of complementarity and length on target DNA cleavage by T. thermophilus Ago.
+figure4
+
+Cleavage reactions were performed as described in the Methods, and products were resolved on denaturing polyacrylamide gels; for DNA sequences, see Supplementary Table 4 . a , Schematic of the reference DNA duplex utilized for length variation experiments; the cleavage site is indicated by an arrow, the position of the 32 P label by an asterisk. b , Shortening of the target DNA from its 5′ end. Alterations of the target DNA and corresponding paired structure are illustrated to the left. Target DNA cleavage was performed at 65 °C rather than 75 °C to facilitate hybridization of shortened targets. nt, nucleotides. c , Positional variation of 15-nucleotide target DNAs. For labelling and reaction conditions, see b .
+
+PowerPoint slide
+Full size image
+
+To examine the importance of the 3′ end of the target, we tested 15-nucleotide DNA target strands displaced in 1-nucleotide steps relative to the let-7 target ( Fig. 4c ). DNA targets covering 2′–16′, 3′–17′ and 4′–18′ showed cleavage activity similar or better than 21-nucleotide-long targets, but 100- and 500-fold reduced rates were obtained for targets covering 5′–19′ and 6′–20′. These experiments indicate that positions 1′ to 3′ were dispensable for target cleavage.
+
+In summary, positions 4′ to 16′ need to be paired to facilitate efficient target DNA cleavage when presented to T. thermophilus Ago loaded with 21-nucleotide guide DNA. On the other hand, guide DNA as short as 9 nucleotides promoted T. thermophilus Ago cleavage of target RNA, indicating that base-pairing involving residues 10′ to 16′ per se is not essential. Short guides, in contrast to 21-nucleotide guides, are unable to occupy the PAZ domain with their 3′ ends. Therefore, we speculate that transitioning of the Ago ternary complex into a cleavage-active conformation requires either the release of the guide 3′-end PAZ interaction or its initial absence as seen for short guide strands. Release of the PAZ guide 3′-end interactions is driven by base-pairing including position 16′ of a target.
+
+It may seem surprising that the Ago conformation of the 15- and 19-nucleotide target-RNA-containing structures were similar. However, the thermodynamic stability of DNA–RNA duplexes is different from DNA–DNA duplexes 38 , and fewer but more stable base pairs may facilitate the switch to the active conformation. In support of this view, we observed that the cleavage activity for the 15-nucleotide (positions 1′–15′) and a 16-nucleotide (positions 1′–16′) target RNAs ( Supplementary Fig. 23 ) only differed by 1.4-fold and was comparable to that of the longer target RNA ( Supplementary Fig. 21 ).
+
+Our crystal structures also indicated that base pairs involving positions 17′ or higher could not form owing to steric clashes with the N-terminal domain. To test whether propagation of the duplex beyond position 16′ could contribute to catalysis, we tested Ago deletion mutants del(1–106) and del(1–177) but found that they lost all activity ( Supplementary Fig. 21a, b ). This suggests that the N domain also has a crucial involvement in transitioning or stabilizing the active conformation of the ternary complex, and could possibly even affect other steps including loading of the guide DNA, which were not tested.
+Target DNA sugar-phosphate backbone role during cleavage
+
+To assess the contribution of sugar and phosphate residues during target DNA recognition and cleavage, we introduced 2′-hydroxyl (OH) and 2′-methoxy (Ome) modifications at positions 9′, 10′ or 11′, as well as 2′-fluoro (F) at positions 10′ or 11′ ( Fig. 5a , Supplementary Fig. 24 and Supplementary Table 4 ). OH, Ome and F 2′-modified ribonucleosides favour the A-helical C3′-endo ribose conformation, whereas deoxynucleotides are preferable in the B-helical C2′-endo conformation 39 , and therefore stabilize double-helical structures. The most profound effects on cleavage were shown by 2′-substitutions at residue 11′, which are immediately adjacent to the cleaved phosphodiester bond. The 2′-F substitution enhanced the single ( Fig. 5a ) and multiple ( Supplementary Fig. 24 ) turnover cleavage rate by approximately 4- and 6-fold, respectively, compared to 2′-H, presumably because the electronegative 2′-F group is able to stabilize the developing negative charge of the 3′ oxygen leaving group during the transition state. The cleavage rate was reduced twofold by 2′-OH at residue 11′, and 2′-Ome completely abrogated cleavage, presumably by affecting the hydration pattern optimal for stabilization of the transition state. Also, there is no evidence for hydrogen bonding of the 2′ residue to neighbouring nucleotides or amino-acid side chains. Taken together, the drastic effects on reaction rates by 2′ modifications at the 11′ position cannot be rationalized by simple differences in sugar conformation, but by a combination of electronic and steric effects differentially affecting the transition state. Modifications of the 2′ position one nucleotide removed from the cleavage site showed less or no effect; in contrast, position 9′ showed an unanticipated threefold reduction in rate for 2′-OH and 2′-Ome ( Fig. 5a ).
+Figure 5: Effect of sugar-phosphate backbone modifications on target DNA cleavage by T. thermophilus Ago.
+figure5
+
+Cleavage experiments were performed as described in Methods. a , 2′-fluoro-, 2′-methoxy- and 2′-hydroxyl-substitutions of single 2′-deoxyribose residues of the target DNA strand at and near the cleavage site. The control target (unmod.) was the unmodified oligodeoxynucleotide. b , Phosphorothioate modification of the target DNA. The phosphate configuration ( R P or S P ) of the phosphorothioate diastereomers is indicated. Cleavage assays were performed in the presence of either Mg 2+ or Mn 2+ cations. Note that the experiment for the 11′–12′ isomers was a different experiment, in which overall reaction rates were slower. For the complete experiment see Supplementary Fig. 25 . Sequences of oligonucleotides are in Supplementary Table 4 . c , Structure of the cleavage site modelling the attack of the hydroxyl nucleophile. Phosphate oxygen and active site carboxylate oxygens coordinated to metal ions A and B (purple spheres), with distances less than 2.5 Å shown as blue dashed lines. The coordination of the carboxylate oxygen from Asp 546 to metal ion B is hidden in the projection. The phosphate oxygens and 2′ residues sensitive to modification are shown as yellow and green spheres, respectively; R denotes 2′-H, -OH, -F or -Ome. Red arrows indicate the attack of the hydroxyl nucleophile modelled to be directly coordinated by metal ion A, and the stabilization of the developing negative charge of the 3′ oxyanion leaving group by metal ion B.
+
+PowerPoint slide
+Full size image
+
+To probe the role of phosphate oxygens, which can coordinate structurally or catalytically important divalent metal ions 40 , we synthesized the mixed phosphorothioate diastereomers located between residues 8′ and 9′, 9′ and 10′, 10′ and 11′, or 11′ and 12′, and purified by reverse-phase high-performance liquid chromatography (HPLC) the S P form to >85%, and the R P form to >97% purity. Cleavage reactions were performed in the presence of either 5 mM Mg 2+ , which preferably coordinates to oxygen, or 5 mM Mn 2+ , which preferably coordinates to sulphur. Phosphorothioate substitution at the cleavage site, positions 10′–11′, showed the most profound effects ( Fig. 5b ). In Mg 2+ -containing buffer, the S P form was inactive and the R P form was reduced 200-fold in single-turnover cleavage rates. The loss of activity of the R P form was rescued by Mn 2+ , yielding a less than twofold reduction compared to 2′-H; however, the S P form remained inactive. Phosphorothioate substitutions more distant to the cleavage site either had no effect ( R P and S P at positions 8′–9′, S P at positions 9′–10′ and R P at positions 11′–12′), or were reduced by 15-fold and by more than 80-fold for R P at positions 9′–10′ and S P at positions 11′–12′, respectively, and rescued by Mn 2+ to less than twofold and more than 20-fold, respectively. Non-bridging phosphate oxygens that are sensitive to sulphur substitution and responsive to Mn 2+ rescue are believed to directly coordinate to Mg 2+ , and the interaction stabilizes ground and transition states of the cleavage reaction to a similar degree. A phosphate oxygen sensitive to phosphorothioate substitution, but without metal ion rescue feature, such as the pro- S P oxygen at the cleavage site, probably differentially stabilizes the transition state versus the ground state. Substituting the 10′–11′ pro- S P oxygen by sulphur increases the bond length by about 0.6 Å—distance sufficient to perturb the complex network of interactions coordinated at this phosphate oxygen ( Fig. 5c ). The pro- S P oxygen is coordinated to metal ions A and B, with A positioning the attacking hydroxyl ion nucleophile and B stabilizing the leaving 3′ oxyanion. The importance of stabilizing the leaving group was also documented earlier by the effects of modifications at the adjacent 2′ position. In contrast, the pro- R P oxygen at the cleavage site is only coordinated to metal ion A, and the sulphur substitution was rescued with Mn 2+ , indicating more flexibility for positioning the nucleophile by metal ion A.
+Structural overview and functional implications
+
+Our current structures of ternary complexes with catalytic mutants of T. thermophilus Ago have defined the positioning of the guide DNA–target RNA A-form duplex relative to the catalytic Asp residues of the RNase H fold of the PIWI domain, thereby establishing the molecular basis for site-specific cleavage at the phosphate bridging the 10′–11′ step of the target strand. Further structural studies of ternary complexes with wild-type Ago have identified two Mg 2+ cations within the catalytic pocket, located on either side of the cleavable phosphate, thereby positioned to mediate the cleavage chemistry. Both ends of the guide strand are anchored in the ternary complex composed of one turn of the DNA–RNA duplex spanning the seed segment and cleavage site, but consistent with a two-state model, the 3′-end is released from the PAZ pocket after propagation of the guide–target duplex by three additional base pairs. Notably, the guide DNA and target RNA form a regular A-form helix spanning a maximum of 15 base pairs (positions 2–16), with the Ago scaffold undergoing pivot-like domain movements as the target RNA zippers up by pairing with its guide template.
+
+The kinetic effects of target site phosphorothioate substitution and 2′ modification during Ago-mediated DNA cleavage are rationalized by the crystal structure, and consistent with the mechanism of RNase H cleavage studied in other systems 37 . The absence of amino-acid side chains able to interrogate whether the target presented at the active site is RNA or DNA might suggest that DNA could be a more probable target of this bacterial Ago protein, as seen for other members of the retroviral integrase superfamily in which Ago proteins belong 37 .
+Methods Summary
+
+Wild-type and mutant T. thermophilus Ago proteins were overexpressed from Escherichia coli and purified by chromatography as described previously 30 . Crystals were obtained by the hanging-drop or sitting-drop vapour diffusion. The ternary Ago complex was generated in a stepwise manner by initially mixing the protein with 5′-phosphorylated 21-nucleotide guide DNA, followed by addition of different length target RNAs. All wild-type and mutant Ago complex structures were determined by molecular replacement using the domains of the binary Ago complex structure (Protein Data Bank accession code 3DLH) 30 as search models. Cleavage assays were undertaken with let-7 guide and target oligonucleotides. Details of all crystallographic and biochemical procedures are listed in Methods.
+Online Methods
+Crystallization and data collection
+
+Wild-type and mutant T. thermophilus Ago were prepared as described previously 30 . Oligodeoxynucleotides were purchased from Invitrogen. RNA oligonucleotides were purchased from Dharmacon. For crystallization, T. thermophilus Ago was mixed with 5′-phosphorylated 21-nucleotide guide DNA at a 1:1.2 molar ratio, followed by the addition of different length target RNAs at a 1:1 molar ratio to the binary mixture, to form the ternary complex. All crystals were grown at 35 °C.
+
+The mutant Ago protein complexes were crystallized by sitting-drop vapour diffusion method. Crystals of catalytic mutant Ago(Asn 546) complexed with 12-nucleotide target RNA were grown in a reservoir containing 2.5 mM spermine, 10 mM MgCl 2 , 5 mM CaCl 2 , 50 mM sodium cacodylate, pH 6.0, 10% (v/v) isopropanol. The crystals belong to space group C 2, and there is one Ago complex in the asymmetric unit. Crystals of catalytic mutant Ago(Glu 546) complexed with 15-nucleotide target RNA were grown in a reservoir containing 1.3 M ammonium tartrate dibasic and 0.1 M Bis-Tris, pH 7.0. The crystals belong to space group P 4 3 2 1 2, and there is one Ago complex in the asymmetric unit. Crystals of the catalytic mutant Ago(Asn 478) complexed with 19-nucleotide target RNA were obtained in a reservoir containing 1.0 M succinic acid, 0.1 M HEPES, pH 7.0, 1% (w/v) polyethylene glycol monomethyl ether 2,000. The crystals belong to space group P 2 1 2 1 2 1 , and there are two Ago complexes in the asymmetric unit.
+
+Crystals of wild-type Ago complexed with 19-nucleotide target RNA with one bound divalent cation in the catalytic pocket were obtained with hanging-drop vapour diffusion method. The reservoir solution contained 50 mM MgCl 2 , 1.0 M sodium tartrate, 50 mM Tris-HCl, pH 7.0. The crystals belong to space group P 4 3 2 1 2, and there is one Ago complex in the asymmetric unit. With additional 30 mM MgCl 2 in both the reservoir and Ago protein, we obtained wild-type Ago complexed with 19-nucleotide target RNA and two bound divalent cations in the catalytic pocket. These crystals belong to space group P 2 1 2 1 2 1 , and there are two Ago complexes in the asymmetric unit.
+
+Crystals of a second crystal form of wide-type Ago complexed with 20-nucleotide RNA target containing adjacent mismatches at the 10–11 step was grown under the same conditions as described previously 31 .
+
+Diffraction data were collected on beamline NE-CAT ID-24C at the Advanced Photon Source (APS), Argonne National Laboratory and beamline X-29 at the Brookhaven National Laboratory. All data sets were integrated and scaled with the HKL2000 suite 41 and data processing statistics are summarized in Supplementary Tables 1–3 .
+Structure determination and refinement
+
+The structures of the complexes were solved by molecular replacement with the program PHASER 42 . The domains of the Ago 21-nucleotide guide DNA binary complex structure 30 without the linkers were used as search models. Model building was done using COOT 43 , and refinement was done with CNS 44 and PHENIX 45 . The final figures were created with Pymol ( http://pymol.sourceforget.net/ ). The refinement statistics for all the Ago mutants and wild-type complexes are summarized in Supplementary Tables 1–3 .
+Oligonucleotides and separation of isomers
+
+Phosphorothioate-modified and unmodified oligodeoxynucleotides were obtained from Integrated DNA technologies. R P and S P diastereomers were separated by HPLC using a Supelco Discovery C18 column (bonded phase silica 5 μm particle, 250 × 4.6 mm) following the general method described previously 46 : buffer A was 0.1 M triethylammonium bicarbonate (TEAB, pH 7.5); buffer B was 40% acetonitrile in 0.1 M TEAB; flow rate was 1 ml min -1 . For the preparative scale ∼ 20 optical density units (ODUs) (260 nm) of oligodeoxynucleotide (that is, 20 μl of a 1 mM stock solution) were loaded on the column. Diastereomers of positions 8′–9′, 10′–11′ and 11′–12′ were separated using a two-step gradient, 0–20% B in 2 min followed by 20–40% B in 40 min (0.5% change per min). The diastereomers of positions 9′–10′ were more difficult to separate and the second step gradient was changed to 20–40% B in 80 min (0.25% change per min). Peak 1 was shown to be 97% pure by analytical HPLC (same conditions as preparative run, 0.3 ODUs injected). Peak 2 was shown to be 85% pure ( Supplementary Fig. 26 ). Dithiothreitol (DTT) was added to the collected peak fractions (1 µl 100 mM DTT to about 2 ml fraction) before dry down to minimize oxidation of the phosphorothioate. Co-evaporation with methanol was repeated three times to remove residual TEAB buffer. The dried-down material was resuspended in 50 μl water and ethanol precipitated to remove DTT. In each case peak 1 is the R P form and peak 2 is the S P form, consistent with ref. 47 . The identity of the purified diastereomers was confirmed by snake venom phosphodiesterase/alkaline phosphatase treatment and subsequent HPLC; the S P -configured dinucleotide was more resistant to phosphodiesterase compared to the R P -configured dinucleotide 48 ( Supplementary Fig. 27 ). HPLC for separation of nucleosides and dinucleotide phosphorothioates used buffer A as 0.1 M triethylammonium acetate in 3% acetonitrile, and buffer B as 90% aqueous acetonitrile. The elution was performed using a stepwise gradient starting at 0% B for 15.5 min, followed by 19.5 min of 10% B and 30 min of 100% B at a flow rate of 0.5 ml min -1 , using the same HPLC column as indicated earlier. The first four peaks are digested monomers, consistent for each oligodeoxynucleotide. Later peaks (after 30 min) are undigested dimers along with some baseline noise. Elution times of these later peaks depended on the dimer sequence and phosphorothioate configuration. In each case the R P form was more digested than the S P form ( Supplementary Fig. 27 ).
+Cleavage activity assay of T. thermophilus Ago
+
+Recombinant T. thermophilus Ago (0.5 μM final concentration) was incubated with a reaction mixture containing 10 mM HEPES-KOH, pH 7.5, 100 mM NaCl, 0.5 μM guide strand, and 5 mM of CaCl 2 , MgCl 2 or MnCl 2 for 30 min at 55 °C in a volume of 10 μl. Then, 5′- 32 P-labelled DNA target was added to obtain the indicated final concentrations. For single turnover conditions (0.5 μM target strand) or multiple turnover conditions (5 μM target strand), unlabelled DNA target was spiked with radioactive target at a concentration of approximately 0.01 μM. The incubation was continued at 75 °C in a total volume of 15 μl. The reaction was stopped by the addition of 15 μl Stop solution (95% formamide, 50 mM EDTA and 0.02% bromophenol blue). The cleavage products were resolved on a 12% denaturing polyacrylamide gel, and radioactivity was monitored by phosphoimaging.
+Accession codes
+Primary accessions
+Protein Data Bank
+
+    3HJF
+
+    3HK2
+
+    3HM9
+
+    3HO1
+
+    3HVR
+
+    3HXM
+
+Data deposits
+
+The structures of ternary complexes of T. thermophilus Ago have been submitted to the Protein Data Bank. The accession codes are: 3HO1 (mutant Ago(Asn 546)–12-nucleotide target RNA), 3HJF (mutant Ago(Glu 546)–15-nucleotide target RNA), 3HK2 (mutant Ago(Asn 478)–19-nucleotide target RNA), 3HM9 (wild-type Ago–19-nucleotide target RNA, 50mMMg), 3HVR (wild-type Ago–19-nucleotide target RNA, 80mM Mg), and 3HXM (second crystal form of wild-type Ago–20-nucleotide target RNA containing twomismatches 31 ).
+References
+
+    1
+
+    Dykxhoorn, D. M., Novina, C. D. & Sharp, P. A. Killing the messenger: short RNAs that silence gene expression. Nature Rev. Mol. Cell Biol. 4 , 457–467 (2003)
+
+    CAS   Article   Google Scholar  
+    2
+
+    Baulcombe, D. RNA silencing in plants. Nature 431 , 356–363 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+    3
+
+    Meister, G. & Tuschl, T. Mechanisms of gene silencing by double-stranded RNA. Nature 431 , 343–349 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+    4
+
+    Tomari, Y. & Zamore, P. D. Perspective: machines for RNAi. Genes Dev. 19 , 517–529 (2005)
+
+    CAS   Article   Google Scholar  
+    5
+
+    Filipowicz, W., Jaskiewicz, L., Kolb, F. A. & Pillai, R. S. Post-transcriptional gene silencing by siRNAs and miRNAs. Curr. Opin. Struct. Biol. 15 , 331–341 (2005)
+
+    CAS   Article   Google Scholar  
+    6
+
+    Hutvagner, G. & Simard, M. J. Argonaute proteins: key players in RNA silencing. Nature Rev. Mol. Cell Biol. 9 , 22–32 (2008)
+
+    CAS   Article   Google Scholar  
+    7
+
+    Kim, V. N., Han, J. & Siomi, M. C. Biogenesis of small RNAs in animals. Nature Rev. Mol. Cell Biol. 10 , 126–139 (2009)
+
+    CAS   Article   Google Scholar  
+    8
+
+    Carthew, R. W. & Sontheimer, E. J. Origins and mechanisms of miRNAs and siRNAs. Cell 136 , 642–655 (2009)
+
+    CAS   Article   Google Scholar  
+    9
+
+    Song, J. J., Smith, S. K., Hannon, G. J. & Joshua-Tor, L. Crystal structure of argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+    10
+
+    Parker, J. S., Roe, S. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004)
+
+    CAS   Article   Google Scholar  
+    11
+
+    Yuan, Y. R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005)
+
+    CAS   Article   Google Scholar  
+    12
+
+    Liu, J. et al. Argonaute2 is the catalytic engine of RNAi. Science 305 , 1437–1441 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+    13
+
+    Rivas, F. V. et al. Purified Ago2 and an siRNA form recombinant human RISC. Nature Struct. Biol. 12 , 340–349 (2005)
+
+    CAS   Article   Google Scholar  
+    14
+
+    Parker, J. S., Roe, S. M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005)
+
+    ADS   CAS   Article   Google Scholar  
+    15
+
+    Ma, J.-B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A. fulgidus Piwi protein. Nature 434 , 666–670 (2005)
+
+    ADS   CAS   Article   Google Scholar  
+    16
+
+    Ma, J.-B., Ye, K. & Patel, D. J. Structural basis for overhang-specific small interfering RNA recognition by the Paz domain. Nature 429 , 318–322 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+    17
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 Paz domain. Nature Struct. Biol. 11 , 576–577 (2004)
+
+    CAS   Article   Google Scholar  
+    18
+
+    Martinez, J. & Tuschl, T. RISC is a 5′-phosphomonoester-producing RNA endonuclease. Genes Dev. 18 , 975–980 (2004)
+
+    CAS   Article   Google Scholar  
+    19
+
+    Schwarz, D. S., Tomari, Y. & Zamore, P. D. The RNA-induced silencing complex is a Mg 2+ -dependent endonuclease. Curr. Biol. 14 , 787–791 (2004)
+
+    CAS   Article   Google Scholar  
+    20
+
+    Elbashir, S. M., Lendeckel, W. & Tuschl, T. RNA interference is mediated by 21- and 22-nucleotide RNAs. Genes Dev. 15 , 188–200 (2001)
+
+    CAS   Article   Google Scholar  
+    21
+
+    Ameres, S. L., Martinez, J. & Schroeder, R. Molecular basis for target RNA recognition and cleavage by human RISC. Cell 130 , 101–112 (2007)
+
+    CAS   Article   Google Scholar  
+    22
+
+    Rana, T. M. Illuminating the silence: understanding the structure and function of small RNAs. Nature Rev. Mol. Cell Biol. 8 , 23–36 (2007)
+
+    CAS   Article   Google Scholar  
+    23
+
+    Parker, J. S. et al. Enhancement of the seed-target recognition step in RNA silencing by a PIWI/MID domain protein. Mol. Cell 33 , 204–214 (2009)
+
+    CAS   Article   Google Scholar  
+    24
+
+    Parker, J. S. & Barford, D. Argonaute: a scaffold for the function of short regulatory RNAs. Trends Biochem. Sci. 31 , 622–630 (2006)
+
+    CAS   Article   Google Scholar  
+    25
+
+    Patel, D. J. et al. Structural biology of RNA silencing and its functional implications. Cold Spring Harb. Symp. Quant. Biol. 71 , 81–93 (2006)
+
+    CAS   Article   Google Scholar  
+    26
+
+    Tolia, N. H. & Joshua-Tor, L. Slicer and the argonautes. Nature Chem. Biol. 3 , 36–43 (2007)
+
+    ADS   CAS   Article   Google Scholar  
+    27
+
+    Jinek, M. & Doudna, J. A three-dimensional view of the molecular machinery of RNA interference. Nature 457 , 405–412 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+    28
+
+    de Fougerolles, A., Vornlocher, H.-P., Maraganore, L. & Lieberman, J. Interfering with disease: a progress report on siRNA-based therapeutics. Nature Rev. Drug Discov. 6 , 443–453 (2007)
+
+    CAS   Article   Google Scholar  
+    29
+
+    Castanotto, D. & Rossi, J. J. The promises and pitfalls of RNA-interference based therapeutics. Nature 457 , 426–433 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+    30
+
+    Wang, Y. et al. Structure of the guide-strand-containing argonaute silencing complex. Nature 456 , 209–213 (2008)
+
+    ADS   CAS   Article   Google Scholar  
+    31
+
+    Wang, Y. et al. Structure of an argonaute silencing complex with a seed-containing guide DNA and target RNA duplex. Nature 456 , 921–926 (2008)
+
+    ADS   CAS   Article   Google Scholar  
+    32
+
+    Mi, S. et al. Sorting of small RNAs into Arabidopsis argonaute complexes is directed by the 5′-terminal nucleotide. Cell 133 , 116–127 (2008)
+
+    CAS   Article   Google Scholar  
+    33
+
+    Montgomery, T. A. et al. Specificity of ARGONAUTE7-miR390 interaction and dual functionality in TAS3 trans -acting siRNA formation. Cell 133 , 128–141 (2008)
+
+    CAS   Article   Google Scholar  
+    34
+
+    Filipowicz, W. The nuts and bolts of the RISC machine. Cell 122 , 17–20 (2005)
+
+    CAS   Article   Google Scholar  
+    35
+
+    Chi, S. W., Zang, J. B., Mele, A. & Darnell, R. B. Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps. Nature 460 , 479–486 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+    36
+
+    Nowotny, M., Gaidamakov, S. A., Crouch, R. J. & Yang, W. Crystal structures of RNase H bound to an RNA/DNA hybrid: Substrate specificity and metal-dependent catalysis. Cell 121 , 1005–1016 (2005)
+
+    CAS   Article   Google Scholar  
+    37
+
+    Nowotny, M. Retroviral integrase superfamily: the structural perspective. EMBO Rep. 10 , 144–151 (2009)
+
+    CAS   Article   Google Scholar  
+    38
+
+    Turner, D. H. Thermodynamics of base pairing. Curr. Opin. Struct. Biol. 6 , 299–304 (1996)
+
+    MathSciNet   CAS   Article   Google Scholar  
+    39
+
+    Freier, S. M. & Altmann, K. H. The ups and downs of nucleic acid duplex stability: structure-stability studies on chemically-modified DNA:RNA duplexes. Nucleic Acids Res. 25 , 4429–4443 (1997)
+
+    CAS   Article   Google Scholar  
+    40
+
+    Verma, S. & Eckstein, F. Modified oligonucleotides: synthesis and strategy for users. Annu. Rev. Biochem. 67 , 99–134 (1998)
+
+    CAS   Article   Google Scholar  
+    41
+
+    Otwinowski, Z. & Minor, W. Processing of X-ray diffraction data collected in oscillation mode. Meth. Enzymol. 276 , 307–326 (1997)
+
+    CAS   Article   Google Scholar  
+    42
+
+    McCoy, A. J. et al. Phaser crystallographic software. J. Appl. Crystallogr. 40 , 658–674 (2007)
+
+    CAS   Article   Google Scholar  
+    43
+
+    Emsley, P. & Cowtan, K. Coot: model-building tools for molecular graphics. Acta Crystallogr. D 60 , 2126–2132 (2004)
+
+    Article   Google Scholar  
+    44
+
+    Brünger, A. T. et al. Crystallography & NMR system: A new software suite for macromolecular structure determination. Acta Crystallogr. D 54 , 905–921 (1998)
+
+    Article   Google Scholar  
+    45
+
+    Adams, P. D. et al. PHENIX: building new software for automated crystallographic structure determination. Acta Crystallogr. D 58 , 1948–1954 (2002)
+
+    Article   Google Scholar  
+    46
+
+    Tonelli, M. et al. Dynamic NMR structures of [RP]- and [SP]-phosphorothioated DNA-RNA hybrids: is flexibility required for RNase H recognition? Biophys. J. 85 , 2525–2538 (2003)
+
+    ADS   CAS   Article   Google Scholar  
+    47
+
+    Thorogood, H., Grasby, J. A. & Connolly, B. A. Influence of the phosphate backbone on the recognition and hydrolysis of DNA by the EcoRV restriction endonuclease. A study using oligodeoxynucleotide phosphorothioates. J. Biol. Chem. 271 , 8855–8862 (1996)
+
+    CAS   Article   Google Scholar  
+    48
+
+    Burgers, P. M. & Eckstein, F. Absolute configuration of the diastereomers of adenosine 5′-O-(1-thiotriphosphate): consequences for the stereochemistry of polymerization by DNA-dependent RNA polymerase from Escherichia coli . Proc. Natl Acad. Sci. USA 75 , 4798–4800 (1978)
+
+    ADS   CAS   Article   Google Scholar  
+
+Download references
+Acknowledgements
+
+The research was supported by funds from the National Institutes of Health (NIH) and the Starr Foundation to D.J.P., and from the NIH, Starr Foundation and the Howard Hughes Medical Institute (HHMI) to T.T. We would like to thank the staff of NE-CAT beam lines at the Advanced Photon Source (APS), Argonne National Laboratory, and the X-29 beamline at the Brookhaven National Laboratory, supported by the US Department of Energy, for assistance with data collection. We thank Z. Wang for assistance with X-ray data collection at the APS.
+
+Author Contributions Y.W. and G.S. expressed and purified wild-type T. thermophilus Ago and its catalytic mutants, and also grew crystals of the various ternary complexes. H.L. collected X-ray diffraction data on the various NE-CAT beam lines, and Y.W. solved the structures of these ternary complexes. D.J.P. supervised the structural studies. S.J. was responsible for the cleavage assays on Ago with modified DNA and RNA target strands, and G.S.W. purified the phosphorothioate diastereomers and quality controlled oligonucleotides, under the supervision of T.T. D.J.P. and T.T. were primarily responsible for writing the structural and biochemical contents of the paper, respectively, and all authors read and approved the submitted manuscript.
+Author information
+Affiliations
+
+    Structural Biology Program, Memorial-Sloan Kettering Cancer Center, New York, New York 10065, USA
+
+    Yanli Wang, Haitao Li, Gang Sheng & Dinshaw J. Patel
+
+    Howard Hughes Medical Institute, Laboratory of RNA Molecular Biology, The Rockefeller University, New York, New York 10065, USA
+
+    Stefan Juranek, Greg S. Wardle & Thomas Tuschl
+
+Authors
+
+    Yanli Wang
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Stefan Juranek
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Haitao Li
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Gang Sheng
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Greg S. Wardle
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Thomas Tuschl
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Dinshaw J. Patel
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+
+Corresponding authors
+
+Correspondence to Thomas Tuschl or Dinshaw J. Patel .
+Ethics declarations
+Competing interests
+
+[COMPETING INTERESTS: T.T. is a cofounder and scientific advisor to Alnylam Pharmaceuticals and an advisor to Regulus Therapeutics.]
+Supplementary information
+Supplementary Information
+
+This file contains Supplementary Notes, Supplementary Tables 1-4 and Supplementary Figures 1-27 with Legends. (PDF 10468 kb)
+Supplementary Movie 1
+
+This movie shows interconversion between Ago binary complex containing guide DNA (in red) and Ago ternary complex containing added 12-nucleotide target RNA (in blue). (AVI 3932 kb)
+Supplementary Movie 2
+
+This movie shows interconversion between Ago ternary complexes containing guide DNA (in red) and added 12- and 15-nucleotide target RNAs (in blue). (AVI 3704 kb)
+Supplementary Movie 3
+
+This movie shows rotation of Ago ternary complex structure containing guide DNA (in red) and 19-nucleotide target RNA (in blue). (AVI 13088 kb)
+PowerPoint slides
+PowerPoint slide for Fig. 1
+PowerPoint slide for Fig. 2
+PowerPoint slide for Fig. 3
+PowerPoint slide for Fig. 4
+PowerPoint slide for Fig. 5
+Rights and permissions
+
+Reprints and Permissions
+About this article
+Cite this article
+
+Wang, Y., Juranek, S., Li, H. et al. Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes. Nature 461, 754–761 (2009). https://doi.org/10.1038/nature08434
+
+Download citation
+
+    Received : 07 May 2009
+
+    Accepted : 18 August 2009
+
+    Issue Date : 08 October 2009
+
+    DOI : https://doi.org/10.1038/nature08434
+
+Share this article
+
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Further reading
+
+    Assessment of the function of gonad-specific PmAgo4 in viral replication and spermatogenesis in Penaeus monodon
+        Teerapong Ho
+        , Sakol Panyim
+         &  Apinunt Udomkit
+
+    Developmental & Comparative Immunology (2021)
+    Genome-wide DNA sampling by Ago nuclease from the cyanobacterium Synechococcus elongatus
+        Anna Olina
+        , Anton Kuzmenko
+        , Maria Ninova
+        , Alexei A. Aravin
+        […]
+        , Andrey Kulbachinskiy
+         &  Daria Esyunina
+        -Show fewer authors
+
+    RNA Biology (2020)
+    Dual miRNases for Triple Incision of miRNA Target: Design Concept and Catalytic Performance
+        Olga Patutina
+        , Daria Chiglintseva
+        , Elena Bichenkova
+        , Svetlana Gaponova
+        , Nadezhda Mironova
+        […]
+        , Valentin Vlassov
+         &  Marina Zenkova
+        -Show fewer authors
+
+    Molecules (2020)
+    Differential Expression of miRNAs and Behavioral Change in the Cuprizone-Induced Demyelination Mouse Model
+        Han
+        , Kang
+        , Jeon
+        , Lee
+        , Park
+        , Song
+        , Min
+        , Yoo
+        […]
+        , Lee
+         &  Lee
+        -Show fewer authors
+
+    International Journal of Molecular Sciences (2020)
+    Chimeric siRNAs with chemically modified pentofuranose and hexopyranose nucleotides: altritol-nucleotide (ANA) containing GalNAc–siRNA conjugates: in vitro and in vivo RNAi activity and resistance to 5′-exonuclease
+        Pawan Kumar
+        , Rohan Degaonkar
+        , Dale C Guenther
+        , Mikhail Abramov
+        , Guy Schepers
+        , Marie Capobianco
+        , Yongfeng Jiang
+        , Joel Harp
+        , Charalambos Kaittanis
+        , Maja M Janas
+        , Adam Castoreno
+        , Ivan Zlatev
+        , Mark K Schlegel
+        , Piet Herdewijn
+        […]
+        , Martin Egli
+         &  Muthiah Manoharan
+        -Show fewer authors
+
+    Nucleic Acids Research (2020)
+
+Comments
+
+By submitting a comment you agree to abide by our Terms and Community Guidelines . If you find something abusive or that does not comply with our terms or guidelines please flag it as inappropriate.
+
+You have full access to this article via your institution.
+Download PDF
+
+You have full access to this article via Hochschule München
+Download PDF
+Editorial Summary
+How Argonaute slices mRNA
+
+One of the means by which RNA silencing downregulates gene expression is through small RNA-directed cleavage of a complementary mRNA. Argonaute family proteins are essential regulators of gene expression in plants and animals. They act by binding to single-stranded guide RNA molecules to form RISC complexes that catalyse splitting of the mRNA just where the sequence is complementary to the Argonaute-bound RNA. The crystal structure of several Thermus thermophilus Argonaute proteins mutated to inhibit cleavage activity have now been determined, in complex with a guide RNA and target RNAs of different lengths. Comparison of the various structures reveals conformational changes as the guide and target RNAs pair and suggests a mechanism for cleavage involving three aspartates and two Mg 2+ ions.
+show all
+Associated Content
+
+Nature | News & Views
+Tracing Argonaute binding
+
+    Samir Bouasker
+     &  Martin J. Simard
+
+    Sections
+    Figures
+    References
+
+    Abstract
+    Main
+    Cleavage site in Ago ternary complexes
+    Release of guide 3′-end from PAZ pocket
+    N domain blocks guide–target pairing beyond position 16
+    A pair of Mg 2+ cations mediates cleavage chemistry
+    Analysis of the catalytic activity of T. thermophilus Ago
+    Minimal target DNA requirements
+    Target DNA sugar-phosphate backbone role during cleavage
+    Structural overview and functional implications
+    Methods Summary
+    Online Methods
+    Accession codes
+    References
+    Acknowledgements
+    Author information
+    Ethics declarations
+    Supplementary information
+    PowerPoint slides
+    Rights and permissions
+    About this article
+    Further reading
+    Comments
+
+Advertisement
+
+    Figure 1: Crystal structure of T. thermophilus Ago(Asn 546) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 12-nucleotide target RNA. figure1
+
+    View in article Full size image
+    Figure 2: Crystal structure of T. thermophilus Ago(Glu 546) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 15-nucleotide target RNA. figure2
+
+    View in article Full size image
+    Figure 3: Crystal structure of T. thermophilus Ago(Asn 478) catalytic mutant bound to 5′-phosphorylated 21-nucleotide guide DNA and 19-nucleotide target RNA and identification of Mg 2+ binding sites within the catalytic pocket of the wild-type Ago complex. figure3
+
+    View in article Full size image
+    Figure 4: Effect of complementarity and length on target DNA cleavage by T. thermophilus Ago. figure4
+
+    View in article Full size image
+    Figure 5: Effect of sugar-phosphate backbone modifications on target DNA cleavage by T. thermophilus Ago. figure5
+
+    View in article Full size image
+
+    Dykxhoorn, D. M., Novina, C. D. & Sharp, P. A. Killing the messenger: short RNAs that silence gene expression. Nature Rev. Mol. Cell Biol. 4 , 457–467 (2003)
+
+    CAS   Article   Google Scholar  
+
+    Baulcombe, D. RNA silencing in plants. Nature 431 , 356–363 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Meister, G. & Tuschl, T. Mechanisms of gene silencing by double-stranded RNA. Nature 431 , 343–349 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Tomari, Y. & Zamore, P. D. Perspective: machines for RNAi. Genes Dev. 19 , 517–529 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Filipowicz, W., Jaskiewicz, L., Kolb, F. A. & Pillai, R. S. Post-transcriptional gene silencing by siRNAs and miRNAs. Curr. Opin. Struct. Biol. 15 , 331–341 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Hutvagner, G. & Simard, M. J. Argonaute proteins: key players in RNA silencing. Nature Rev. Mol. Cell Biol. 9 , 22–32 (2008)
+
+    CAS   Article   Google Scholar  
+
+    Kim, V. N., Han, J. & Siomi, M. C. Biogenesis of small RNAs in animals. Nature Rev. Mol. Cell Biol. 10 , 126–139 (2009)
+
+    CAS   Article   Google Scholar  
+
+    Carthew, R. W. & Sontheimer, E. J. Origins and mechanisms of miRNAs and siRNAs. Cell 136 , 642–655 (2009)
+
+    CAS   Article   Google Scholar  
+
+    Song, J. J., Smith, S. K., Hannon, G. J. & Joshua-Tor, L. Crystal structure of argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Parker, J. S., Roe, S. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004)
+
+    CAS   Article   Google Scholar  
+
+    Yuan, Y. R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Liu, J. et al. Argonaute2 is the catalytic engine of RNAi. Science 305 , 1437–1441 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Rivas, F. V. et al. Purified Ago2 and an siRNA form recombinant human RISC. Nature Struct. Biol. 12 , 340–349 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Parker, J. S., Roe, S. M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Ma, J.-B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A. fulgidus Piwi protein. Nature 434 , 666–670 (2005)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Ma, J.-B., Ye, K. & Patel, D. J. Structural basis for overhang-specific small interfering RNA recognition by the Paz domain. Nature 429 , 318–322 (2004)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 Paz domain. Nature Struct. Biol. 11 , 576–577 (2004)
+
+    CAS   Article   Google Scholar  
+
+    Martinez, J. & Tuschl, T. RISC is a 5′-phosphomonoester-producing RNA endonuclease. Genes Dev. 18 , 975–980 (2004)
+
+    CAS   Article   Google Scholar  
+
+    Schwarz, D. S., Tomari, Y. & Zamore, P. D. The RNA-induced silencing complex is a Mg 2+ -dependent endonuclease. Curr. Biol. 14 , 787–791 (2004)
+
+    CAS   Article   Google Scholar  
+
+    Elbashir, S. M., Lendeckel, W. & Tuschl, T. RNA interference is mediated by 21- and 22-nucleotide RNAs. Genes Dev. 15 , 188–200 (2001)
+
+    CAS   Article   Google Scholar  
+
+    Ameres, S. L., Martinez, J. & Schroeder, R. Molecular basis for target RNA recognition and cleavage by human RISC. Cell 130 , 101–112 (2007)
+
+    CAS   Article   Google Scholar  
+
+    Rana, T. M. Illuminating the silence: understanding the structure and function of small RNAs. Nature Rev. Mol. Cell Biol. 8 , 23–36 (2007)
+
+    CAS   Article   Google Scholar  
+
+    Parker, J. S. et al. Enhancement of the seed-target recognition step in RNA silencing by a PIWI/MID domain protein. Mol. Cell 33 , 204–214 (2009)
+
+    CAS   Article   Google Scholar  
+
+    Parker, J. S. & Barford, D. Argonaute: a scaffold for the function of short regulatory RNAs. Trends Biochem. Sci. 31 , 622–630 (2006)
+
+    CAS   Article   Google Scholar  
+
+    Patel, D. J. et al. Structural biology of RNA silencing and its functional implications. Cold Spring Harb. Symp. Quant. Biol. 71 , 81–93 (2006)
+
+    CAS   Article   Google Scholar  
+
+    Tolia, N. H. & Joshua-Tor, L. Slicer and the argonautes. Nature Chem. Biol. 3 , 36–43 (2007)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Jinek, M. & Doudna, J. A three-dimensional view of the molecular machinery of RNA interference. Nature 457 , 405–412 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+
+    de Fougerolles, A., Vornlocher, H.-P., Maraganore, L. & Lieberman, J. Interfering with disease: a progress report on siRNA-based therapeutics. Nature Rev. Drug Discov. 6 , 443–453 (2007)
+
+    CAS   Article   Google Scholar  
+
+    Castanotto, D. & Rossi, J. J. The promises and pitfalls of RNA-interference based therapeutics. Nature 457 , 426–433 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Wang, Y. et al. Structure of the guide-strand-containing argonaute silencing complex. Nature 456 , 209–213 (2008)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Wang, Y. et al. Structure of an argonaute silencing complex with a seed-containing guide DNA and target RNA duplex. Nature 456 , 921–926 (2008)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Mi, S. et al. Sorting of small RNAs into Arabidopsis argonaute complexes is directed by the 5′-terminal nucleotide. Cell 133 , 116–127 (2008)
+
+    CAS   Article   Google Scholar  
+
+    Montgomery, T. A. et al. Specificity of ARGONAUTE7-miR390 interaction and dual functionality in TAS3 trans -acting siRNA formation. Cell 133 , 128–141 (2008)
+
+    CAS   Article   Google Scholar  
+
+    Filipowicz, W. The nuts and bolts of the RISC machine. Cell 122 , 17–20 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Chi, S. W., Zang, J. B., Mele, A. & Darnell, R. B. Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps. Nature 460 , 479–486 (2009)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Nowotny, M., Gaidamakov, S. A., Crouch, R. J. & Yang, W. Crystal structures of RNase H bound to an RNA/DNA hybrid: Substrate specificity and metal-dependent catalysis. Cell 121 , 1005–1016 (2005)
+
+    CAS   Article   Google Scholar  
+
+    Nowotny, M. Retroviral integrase superfamily: the structural perspective. EMBO Rep. 10 , 144–151 (2009)
+
+    CAS   Article   Google Scholar  
+
+    Turner, D. H. Thermodynamics of base pairing. Curr. Opin. Struct. Biol. 6 , 299–304 (1996)
+
+    MathSciNet   CAS   Article   Google Scholar  
+
+    Freier, S. M. & Altmann, K. H. The ups and downs of nucleic acid duplex stability: structure-stability studies on chemically-modified DNA:RNA duplexes. Nucleic Acids Res. 25 , 4429–4443 (1997)
+
+    CAS   Article   Google Scholar  
+
+    Verma, S. & Eckstein, F. Modified oligonucleotides: synthesis and strategy for users. Annu. Rev. Biochem. 67 , 99–134 (1998)
+
+    CAS   Article   Google Scholar  
+
+    Otwinowski, Z. & Minor, W. Processing of X-ray diffraction data collected in oscillation mode. Meth. Enzymol. 276 , 307–326 (1997)
+
+    CAS   Article   Google Scholar  
+
+    McCoy, A. J. et al. Phaser crystallographic software. J. Appl. Crystallogr. 40 , 658–674 (2007)
+
+    CAS   Article   Google Scholar  
+
+    Emsley, P. & Cowtan, K. Coot: model-building tools for molecular graphics. Acta Crystallogr. D 60 , 2126–2132 (2004)
+
+    Article   Google Scholar  
+
+    Brünger, A. T. et al. Crystallography & NMR system: A new software suite for macromolecular structure determination. Acta Crystallogr. D 54 , 905–921 (1998)
+
+    Article   Google Scholar  
+
+    Adams, P. D. et al. PHENIX: building new software for automated crystallographic structure determination. Acta Crystallogr. D 58 , 1948–1954 (2002)
+
+    Article   Google Scholar  
+
+    Tonelli, M. et al. Dynamic NMR structures of [RP]- and [SP]-phosphorothioated DNA-RNA hybrids: is flexibility required for RNase H recognition? Biophys. J. 85 , 2525–2538 (2003)
+
+    ADS   CAS   Article   Google Scholar  
+
+    Thorogood, H., Grasby, J. A. & Connolly, B. A. Influence of the phosphate backbone on the recognition and hydrolysis of DNA by the EcoRV restriction endonuclease. A study using oligodeoxynucleotide phosphorothioates. J. Biol. Chem. 271 , 8855–8862 (1996)
+
+    CAS   Article   Google Scholar  
+
+    Burgers, P. M. & Eckstein, F. Absolute configuration of the diastereomers of adenosine 5′-O-(1-thiotriphosphate): consequences for the stereochemistry of polymerization by DNA-dependent RNA polymerase from Escherichia coli . Proc. Natl Acad. Sci. USA 75 , 4798–4800 (1978)
+
+    ADS   CAS   Article   Google Scholar  
+
+Nature ISSN 1476-4687 (online)
+nature.com sitemap
+Nature Research
+
+    About us
+    Press releases
+    Press office
+    Contact us
+
+Discover content
+
+    Journals A-Z
+    Articles by subject
+    Nano
+    Protocol Exchange
+    Nature Index
+
+Publish with us
+
+    Guide to Authors
+    Guide to Referees
+    Editorial policies
+    Open access
+    Reprints & permissions
+
+Researcher services
+
+    Research data
+    Language editing
+    Scientific editing
+    Nature Masterclasses
+    Nature Research Academies
+
+Libraries & institutions
+
+    Librarian service & tools
+    Librarian portal
+    Open research
+
+Advertising & partnerships
+
+    Advertising
+    Partnerships & Services
+    Media kits
+    Branded content
+
+Career development
+
+    Nature Careers
+    Nature Conferences
+    Nature events
+
+Regional websites
+
+    Nature China
+    Nature India
+    Nature Japan
+    Nature Korea
+    Nature Middle East
+
+Legal & Privacy
+
+    Privacy Policy
+    Use of cookies
+    Manage cookies/Do not sell my data
+    Legal notice
+    Accessibility statement
+    Terms & Conditions
+    California Privacy Statement
+
+Springer Nature
+
+© 2020 Springer Nature Limited
+Close banner Close
+Sign up for the Nature Briefing newsletter for a daily update on COVID-19 science.
+Enter your email address
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy .
+Sign up
+Get the most important science stories of the day, free in your inbox. Sign up for Nature Briefing
+Close banner Close
+Yanli Wang
+
+    Structural Biology Program, Memorial-Sloan Kettering Cancer Center, New York, New York 10065, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Stefan Juranek
+
+    Howard Hughes Medical Institute, Laboratory of RNA Molecular Biology, The Rockefeller University, New York, New York 10065, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Haitao Li
+
+    Structural Biology Program, Memorial-Sloan Kettering Cancer Center, New York, New York 10065, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Gang Sheng
+
+    Structural Biology Program, Memorial-Sloan Kettering Cancer Center, New York, New York 10065, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Greg S. Wardle
+
+    Howard Hughes Medical Institute, Laboratory of RNA Molecular Biology, The Rockefeller University, New York, New York 10065, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Thomas Tuschl
+
+    Howard Hughes Medical Institute, Laboratory of RNA Molecular Biology, The Rockefeller University, New York, New York 10065, USA
+    Contact Thomas Tuschl
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Dinshaw J. Patel
+
+    Structural Biology Program, Memorial-Sloan Kettering Cancer Center, New York, New York 10065, USA
+    Contact Dinshaw J. Patel
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close

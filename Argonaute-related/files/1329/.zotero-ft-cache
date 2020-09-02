@@ -1,0 +1,356 @@
+
+Skip to main content
+
+    Submit
+    About
+        Editorial Board
+        PNAS Staff
+        FAQ
+        Accessibility Statement
+        Rights and Permissions
+        Site Map
+    Contact
+    Journal Club
+    Subscribe
+        Subscription Rates
+        Subscriptions FAQ
+        Open Access
+        Recommend PNAS to Your Librarian
+
+    Log in
+    My Cart
+
+    Main menu
+    User menu
+    Search
+
+Main menu
+
+    Home
+    Articles
+        Current
+        Latest Articles
+        Special Features
+        Colloquia
+        Collected Articles
+        PNAS Classics
+        Archive
+    Front Matter
+    News
+        For the Press
+        Highlights from Latest Articles
+        PNAS in the News
+    Podcasts
+    Authors
+        Information for Authors
+        Editorial and Journal Policies
+        Submission Procedures
+        Fees and Licenses
+
+    Submit
+    About
+        Editorial Board
+        PNAS Staff
+        FAQ
+        Accessibility Statement
+        Rights and Permissions
+        Site Map
+    Contact
+    Journal Club
+    Subscribe
+        Subscription Rates
+        Subscriptions FAQ
+        Open Access
+        Recommend PNAS to Your Librarian
+
+User menu
+
+    Log in
+    My Cart
+
+Search
+Search for this keyword
+Search
+
+    Advanced search
+
+Home
+Home
+Search for this keyword
+Search
+
+Advanced Search
+
+    Home
+    Articles
+        Current
+        Latest Articles
+        Special Features
+        Colloquia
+        Collected Articles
+        PNAS Classics
+        Archive
+    Front Matter
+    News
+        For the Press
+        Highlights from Latest Articles
+        PNAS in the News
+    Podcasts
+    Authors
+        Information for Authors
+        Editorial and Journal Policies
+        Submission Procedures
+        Fees and Licenses
+
+New Research In
+Physical Sciences
+Featured Portals
+
+    Physics
+    Chemistry
+    Sustainability Science
+
+Articles by Topic
+
+    Applied Mathematics
+    Applied Physical Sciences
+    Astronomy
+    Computer Sciences
+    Earth, Atmospheric, and Planetary Sciences
+    Engineering
+    Environmental Sciences
+    Mathematics
+    Statistics
+
+Social Sciences
+Featured Portals
+
+    Anthropology
+    Sustainability Science
+
+Articles by Topic
+
+    Economic Sciences
+    Environmental Sciences
+    Political Sciences
+    Psychological and Cognitive Sciences
+    Social Sciences
+
+Biological Sciences
+Featured Portals
+
+    Sustainability Science
+
+Articles by Topic
+
+    Agricultural Sciences
+    Anthropology
+    Applied Biological Sciences
+    Biochemistry
+    Biophysics and Computational Biology
+    Cell Biology
+    Developmental Biology
+    Ecology
+    Environmental Sciences
+    Evolution
+    Genetics
+    Immunology and Inflammation
+    Medical Sciences
+    Microbiology
+    Neuroscience
+    Pharmacology
+    Physiology
+    Plant Biology
+    Population Biology
+    Psychological and Cognitive Sciences
+    Sustainability Science
+    Systems Biology
+
+Research Article
+Using sketch-map coordinates to analyze and bias molecular dynamics simulations
+Gareth A. Tribello , Michele Ceriotti , and Michele Parrinello
+PNAS April 3, 2012 109 (14) 5196-5201; https://doi.org/10.1073/pnas.1201152109
+Gareth A. Tribello
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+
+Michele Ceriotti
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+    For correspondence: michele.ceriotti@chem.ox.ac.uk parrinello@phys.chem.ethz.ch
+
+Michele Parrinello
+
+    Find this author on Google Scholar
+    Find this author on PubMed
+    Search for this author on this site
+    For correspondence: michele.ceriotti@chem.ox.ac.uk parrinello@phys.chem.ethz.ch
+
+    Contributed by Michele Parrinello, January 24, 2012 (sent for review December 16, 2011)
+
+    Article
+    Figures & SI
+    Info & Metrics
+    PDF
+
+Loading
+Abstract
+
+When examining complex problems, such as the folding of proteins, coarse grained descriptions of the system drive our investigation and help us to rationalize the results. Oftentimes collective variables (CVs), derived through some chemical intuition about the process of interest, serve this purpose. Because finding these CVs is the most difficult part of any investigation, we recently developed a dimensionality reduction algorithm, sketch-map, that can be used to build a low-dimensional map of a phase space of high-dimensionality. In this paper we discuss how these machine-generated CVs can be used to accelerate the exploration of phase space and to reconstruct free-energy landscapes. To do so, we develop a formalism in which high-dimensional configurations are no longer represented by low-dimensional position vectors. Instead, for each configuration we calculate a probability distribution, which has a domain that encompasses the entirety of the low-dimensional space. To construct a biasing potential, we exploit an analogy with metadynamics and use the trajectory to adaptively construct a repulsive, history-dependent bias from the distributions that correspond to the previously visited configurations. This potential forces the system to explore more of phase space by making it desirable to adopt configurations whose distributions do not overlap with the bias. We apply this algorithm to a small model protein and succeed in reproducing the free-energy surface that we obtain from a parallel tempering calculation.
+Footnotes
+
+    ↵ 1 To whom correspondence may be addressed. E-mail: michele.ceriotti@chem.ox.ac.uk or parrinello@phys.chem.ethz.ch .
+
+    Author contributions: G.A.T., M.C., and M.P. designed research, performed research, analyzed data, and wrote the paper.
+
+    The authors declare no conflict of interest.
+
+    This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.1073/pnas.1201152109/-/DCSupplemental .
+
+View Full Text
+Previous Next
+Back to top
+Article Alerts
+Email Article
+Citation Tools
+Request Permissions
+Share
+Biased MD with sketch-map coordinates
+Gareth A. Tribello , Michele Ceriotti , Michele Parrinello
+Proceedings of the National Academy of Sciences Apr 2012, 109 (14) 5196-5201; DOI: 10.1073/pnas.1201152109
+Share This Article: Copy
+del.icio.us logo Digg logo Reddit logo Twitter logo CiteULike logo Facebook logo Google logo Mendeley logo
+
+    Tweet Widget
+    Mendeley logo Mendeley
+
+Proceedings of the National Academy of Sciences: 109 (14)
+Table of Contents
+
+Submit
+Sign up for the PNAS Highlights newsletter—the top stories in science, free to your inbox twice a month:
+Sign up for Article Alerts
+Sign up
+Article Classifications
+
+    Physical Sciences
+    Physics
+
+Jump to section
+
+    Article
+        Abstract
+        Background
+        Enhanced Sampling Algorithm
+        Results
+        Conclusions
+        Materials and Methods
+        Acknowledgments
+        Footnotes
+        References
+    Figures & SI
+    Info & Metrics
+    PDF
+
+You May Also be Interested in
+Transitions tied to early farming
+Clark Larsen describes the costs of urban life in a Neolithic city.
+Listen
+Past Podcasts Subscribe
+Opinion: Priorities for governing large-scale infrastructure in the tropics
+We need a new agenda that emphasizes the flourishing of humans and environments, involves affected populations, and addresses equity implications.
+Images credit: Carissa Brown (Memorial University of Newfoundland, St. John’s, NL, Canada).
+News Feature: Foreseeing fires
+To better predict wildfires, researchers are building models that better account for the vegetation that fans the flames.
+Image credit: Carissa Brown (Memorial University of Newfoundland, St. John’s, NL, Canada).
+Image credit: Bryan Christie Design.
+How reptiles adapted to marine life
+The inner ear vestibular system of marine reptiles and cetaceans adapted in similar ways to open-ocean swimming, a study finds.
+Image credit: Bryan Christie Design.
+Image credit: NASA, ESA, P. Kalas, J. Graham, E. Chiang, E. Kite (University of California, Berkeley), M. Clampin (NASA Goddard Space Flight Center), M. Fitzgerald (Lawrence Livermore National Laboratory), and K. Stapelfeldt and J. Krist (NASA Jet Propulsion Laboratory).
+Asteroid collision in neighboring star system
+Researchers report observations of an asteroid collision around the star Fomalhaut.
+Image credit: NASA, ESA, P. Kalas, J. Graham, E. Chiang, E. Kite (University of California, Berkeley), M. Clampin (NASA Goddard Space Flight Center), M. Fitzgerald (Lawrence Livermore National Laboratory), and K. Stapelfeldt and J. Krist (NASA Jet Propulsion Laboratory).
+Similar Articles
+Site Logo
+Powered by HighWire
+
+    Submit Manuscript
+    Twitter
+    Facebook
+    RSS Feeds
+    Email Alerts
+
+Articles
+
+    Current Issue
+    Latest Articles
+    Archive
+
+PNAS Portals
+
+    Classics
+    Front Matter
+    Teaching Resources
+    Anthropology
+    Chemistry
+    Physics
+    Sustainability Science
+
+Information
+
+    Authors
+    Editorial Board
+    Reviewers
+    Press
+    Site Map
+    PNAS Updates
+
+Feedback      Privacy/Legal
+
+Copyright © 2020 National Academy of Sciences. Online ISSN 1091-6490
+Alerts for this Article close
+User Name *
+Password *
+Submit
+Email this Article close
+
+Thank you for your interest in spreading the word on PNAS.
+
+NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.
+Your Email *
+Your Name *
+Send To *
+Enter multiple addresses on separate lines or separate them with commas.
+You are going to email the following Using sketch-map coordinates to analyze and bias molecular dynamics simulations
+Message Subject (Your Name) has sent you a message from PNAS
+Message Body (Your Name) thought you would like to see the PNAS web site.
+Your Personal Message
+CAPTCHA
+This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
+Send Message
+Citation Tools close
+Biased MD with sketch-map coordinates
+Gareth A. Tribello , Michele Ceriotti , Michele Parrinello
+Proceedings of the National Academy of Sciences Apr 2012, 109 (14) 5196-5201; DOI: 10.1073/pnas.1201152109
+Citation Manager Formats
+
+    BibTeX
+    Bookends
+    EasyBib
+    EndNote (tagged)
+    EndNote 8 (xml)
+    Medlars
+    Mendeley
+    Papers
+    RefWorks Tagged
+    Ref Manager
+    RIS
+    Zotero
+
+We use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies.
+Continue Find out more

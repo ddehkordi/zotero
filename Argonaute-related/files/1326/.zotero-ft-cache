@@ -1,0 +1,1466 @@
+
+Skip to main content
+
+Advertisement
+Advertisement
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Nature Structural & Molecular Biology
+View all Nature Research journals
+Search
+Search
+Article Search
+Search
+
+Advanced search
+Quick links
+
+    Explore articles by subject
+    Find a job
+    Guide to authors
+    Editorial policies
+
+My Account Login
+
+    Explore our content
+    Explore our content
+        News & Comment
+        Research
+        Current Issue
+        Browse Issues
+        Browse Articles
+        Browse Collections
+        Sign up for alerts
+    Journal info rmation
+    Journal information
+        About the Journal
+        For Authors
+        For Reviewers
+        Posters
+        Web Feeds
+        Submit manuscript
+
+    nature
+    nature structural & molecular biology
+    review articles
+    article
+
+The evolutionary journey of Argonaute proteins
+Download PDF
+
+    Published: 05 September 2014
+
+The evolutionary journey of Argonaute proteins
+
+    Daan C Swarts 1 ,
+    Kira Makarova 2 ,
+    Yanli Wang 3 ,
+    Kotaro Nakanishi 4 ,
+    René F Ketting 5 ,
+    Eugene V Koonin 2 ,
+    […]
+    Dinshaw J Patel 6 &
+    John van der Oost 1  
+    -Show fewer authors
+
+Nature Structural & Molecular Biology volume  21 ,  pages 743 – 753 ( 2014 ) Cite this article
+
+    1206 Accesses
+
+    160 Citations
+
+    13 Altmetric
+
+    Metrics details
+
+Abstract
+
+Argonaute proteins are conserved throughout all domains of life. Recently characterized prokaryotic Argonaute proteins (pAgos) participate in host defense by DNA interference, whereas eukaryotic Argonaute proteins (eAgos) control a wide range of processes by RNA interference. Here we review molecular mechanisms of guide and target binding by Argonaute proteins, and describe how the conformational changes induced by target binding lead to target cleavage. On the basis of structural comparisons and phylogenetic analyses of pAgos and eAgos, we reconstruct the evolutionary journey of the Argonaute proteins through the three domains of life and discuss how different structural features of pAgos and eAgos relate to their distinct physiological roles.
+
+Access to this article is not available.
+Change institution
+Buy or subscribe
+
+Access to this article via Hochschule München is not available.
+Access through your institution
+Change institution
+Buy or subscribe
+Access options
+
+Subscribe to Journal
+
+Get full journal access for 1 year
+
+58,85 €
+
+only 4,90 € per issue
+Subscribe
+
+All prices include VAT for Germany.
+
+Rent or Buy article
+
+Get time limited or full article access on ReadCube.
+
+from $8.99
+Rent or Buy
+
+All prices are NET prices.
+Additional access options:
+
+    Log in
+    Access through your institution
+    Learn about institutional subscriptions
+
+Figure 1: Domain architectures of the PIWI superfamily proteins.
+Figure 2: Tt Ago with 21-mer guide DNA (binary complex) and with complementary 12-mer target RNA (ternary complex) adopt cleavage-incompatible conformations.
+Figure 3: Tt Ago with 5′-phosphorylated 21-mer guide DNA and complementary 15-mer and 19-mer target RNAs (ternary complex) adopt cleavage-compatible conformations.
+Figure 4: Structure-based insights into the cleavage mechanism of Tt Ago.
+Figure 5: Structures of binary complexes of Kp Ago and hAGO2 bound to 5′-phosphorylated guide RNAs.
+Figure 6: Phylogenetic trees of Argonaute proteins.
+Accession codes
+Accessions
+Protein Data Bank
+
+    3DLH
+
+    3HJF
+
+    3HK2
+
+    3HO1
+
+    3HVR
+
+    4EI1
+
+    4EI3
+
+    4F1N
+
+    4F3T
+
+    4N47
+
+    4N76
+
+    4NCB
+
+References
+
+    1
+
+    Bohmert, K. et al. AGO1 defines a novel locus of Arabidopsis controlling leaf development. EMBO J. 17 , 170–180 (1998).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    2
+
+    Cerutti, L., Mian, N. & Bateman, A. Domains in gene silencing and cell differentiation proteins: the novel PAZ domain and redefinition of the Piwi domain. Trends Biochem. Sci. 25 , 481–482 (2000).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    3
+
+    Shabalina, S.A. & Koonin, E.V. Origins and evolution of eukaryotic RNA interference. Trends Ecol. Evol. 23 , 578–587 (2008).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+    4
+
+    Makarova, K.S., Wolf, Y.I., van der Oost, J. & Koonin, E.V. Prokaryotic homologs of Argonaute proteins are predicted to function as key components of a novel system of defense against mobile genetic elements. Biol. Direct 4 , 29 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    5
+
+    Ma, J.B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A-fulgidus Piwi protein. Nature 434 , 666–670 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    6
+
+    Yuan, Y.R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    7
+
+    Wang, Y.L. et al. Structure of an argonaute silencing complex with a seed-containing guide DNA and target RNA duplex. Nature 456 , 921–926 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    8
+
+    Olovnikov, I., Chan, K., Sachidanandam, R., Newman, D.K. & Aravin, A.A. Bacterial argonaute samples the transcriptome to identify foreign DNA. Mol. Cell 51 , 594–605 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    9
+
+    Swarts, D.C. et al. DNA-guided DNA interference by a prokaryotic Argonaute. Nature 507 , 258–261 (2014).
+    10
+
+    Wang, Y.L., Sheng, G., Juranek, S., Tuschl, T. & Patel, D.J. Structure of the guide-strand-containing argonaute silencing complex. Nature 456 , 209–213 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    11
+
+    Wang, Y.L. et al. Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes. Nature 461 , 754–761 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    12
+
+    Sheng, G. et al. Structure-based cleavage mechanism of Thermus thermophilus Argonaute DNA guide strand-mediated DNA target cleavage. Proc. Natl. Acad. Sci. USA 111 , 652–657 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    13
+
+    Elkayam, E. et al. The structure of human argonaute-2 in complex with miR-20a. Cell 150 , 100–110 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    14
+
+    Schirle, N.T. & MacRae, I.J. The crystal structure of human Argonaute2. Science 336 , 1037–1040 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    15
+
+    Nakanishi, K., Weinberg, D.E., Bartel, D.P. & Patel, D.J. Structure of yeast Argonaute with guide RNA. Nature 486 , 368–374 (2012).
+
+    Article   CAS   Google Scholar  
+    16
+
+    Song, J.J., Smith, S.K., Hannon, G.J. & Joshua-Tor, L. Crystal structure of Argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    17
+
+    Rashid, U.J. et al. Structure of Aquifex aeolicus argonaute highlights conformational flexibility of the PAZ domain as a potential regulator of RNA-induced silencing complex function. J. Biol. Chem. 282 , 13824–13832 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    18
+
+    Parker, J.S., Roe, S.M. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    19
+
+    Parker, J.S., Roe, S.M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    20
+
+    Boland, A., Tritschler, F., Heimstadt, S., Izaurralde, E. & Weichenrieder, O. Crystal structure and ligand binding of the MID domain of a eukaryotic Argonaute protein. EMBO Rep. 11 , 522–527 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    21
+
+    Frank, F., Sonenberg, N. & Nagar, B. Structural basis for 5′-nucleotide base-specific recognition of guide RNA by human AGO2. Nature 465 , 818–822 (2010).
+
+    Article   CAS   Google Scholar  
+    22
+
+    Parker, J.S. How to slice: snapshots of Argonaute in action. Silence 1 , 3 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    23
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Structure and nucleic-acid binding of the Drosophila Argonaute 2 PAZ domain. Nature 426 , 465–469 (2003).
+
+    Article   CAS   Google Scholar  
+    24
+
+    Song, J.J. et al. The crystal structure of the Argonaute2 PAZ domain reveals an RNA binding motif in RNAi effector complexes. Nat. Struct. Biol. 10 , 1026–1032 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    25
+
+    Yan, K.S. et al. Structure and conserved RNA binding of the PAZ domain. Nature 426 , 468–474 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    26
+
+    Ma, J.B., Ye, K. & Patel, D.J. Structural basis for overhang-specific small interfering RNA recognition by the PAZ domain. Nature 429 , 318–322 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    27
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 PAZ domain. Nat. Struct. Mol. Biol. 11 , 576–577 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    28
+
+    Parker, J.S., Parizotto, E.A., Wang, M., Roe, S.M. & Barford, D. Enhancement of the seed-target recognition step in RNA silencing by a PIWI/MID domain protein. Mol. Cell 33 , 204–214 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    29
+
+    Bartel, D.P. MicroRNAs: target recognition and regulatory functions. Cell 136 , 215–233 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    30
+
+    Kunne, T., Swarts, D.C. & Brouns, S.J. Planting the seed: target recognition of short guide RNAs. Trends Microbiol. 22 , 74–83 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    31
+
+    Lal, A. et al. miR-24 Inhibits cell proliferation by targeting E2F2, MYC, and other cell-cycle genes via binding to “seedless” 3′UTR microRNA recognition elements. Mol. Cell 35 , 610–625 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    32
+
+    Zander, A., Holzmeister, P., Klose, D., Tinnefeld, P. & Grohmann, D. Single-molecule FRET supports the two-state model of Argonaute action. RNA Biol. 11 , 45–56 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    33
+
+    Nowotny, M. & Yang, W. Stepwise analyses of metal ions in RNase H catalysis from substrate destabilization to product release. EMBO J. 25 , 1924–1933 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    34
+
+    Nowotny, M. Retroviral integrase superfamily: the structural perspective. EMBO Rep. 10 , 144–151 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    35
+
+    Faehnle, C.R., Elkayam, E., Haase, A.D., Hannon, G.J. & Joshua-Tor, L. The making of a slicer: activation of human Argonaute-1. Cell Reports 3 , 1901–1909 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    36
+
+    Nakanishi, K. et al. Eukaryote-specific insertion elements control human ARGONAUTE slicer activity. Cell Reports 3 , 1893–1900 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    37
+
+    Kuhn, C.D. & Joshua-Tor, L. Eukaryotic Argonautes come into focus. Trends Biochem. Sci. 38 , 263–271 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    38
+
+    Boland, A., Huntzinger, E., Schmidt, S., Izaurralde, E. & Weichenrieder, O. Crystal structure of the MID-PIWI lobe of a eukaryotic Argonaute protein. Proc. Natl. Acad. Sci. USA 108 , 10466–10471 (2011).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+    39
+
+    Huntzinger, E. et al. The interactions of GW182 proteins with PABP and deadenylases are required for both translational repression and degradation of miRNA targets. Nucleic Acids Res. 41 , 978–994 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    40
+
+    Pfaff, J. et al. Structural features of Argonaute-GW182 protein interactions. Proc. Natl. Acad. Sci. USA 110 , E3770–E3779 (2013).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+    41
+
+    Burroughs, A.M., Iyer, L.M. & Aravind, L. Two novel PIWI families: roles in inter-genomic conflicts in bacteria and Mediator-dependent modulation of transcription in eukaryotes. Biol. Direct 8 , 13 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    42
+
+    Makarova, K.S., Wolf, Y.I. & Koonin, E.V. Comparative genomics of defense systems in archaea and bacteria. Nucleic Acids Res. 41 , 4360–4377 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    43
+
+    Price, M.N., Dehal, P.S. & Arkin, A.P. FastTree 2–approximately maximum-likelihood trees for large alignments. PLoS One 5 , e9490 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    44
+
+    Makarova, K.S., Aravind, L., Wolf, Y.I. & Koonin, E.V. Unification of Cas protein families and a simple scenario for the origin and evolution of CRISPR-Cas systems. Biol. Direct 6 , 38 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    45
+
+    Hock, J. & Meister, G. The Argonaute protein family. Genome Biol. 9 , 210 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    46
+
+    Garcia Silva, M.R. et al. Cloning, characterization and subcellular localization of a Trypanosoma cruzi argonaute protein defining a new subfamily distinctive of trypanosomatids. Gene 466 , 26–35 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    47
+
+    Conaway, R.C., Sato, S., Tomomori-Sato, C., Yao, T. & Conaway, J.W. The mammalian Mediator complex and its role in transcriptional regulation. Trends Biochem. Sci. 30 , 250–255 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    48
+
+    Djikeng, A., Shi, H., Tschudi, C. & Ullu, E. RNA interference in Trypanosoma brucei: cloning of small interfering RNAs provides evidence for retroposon-derived 24–26-nucleotide RNAs. RNA 7 , 1522–1530 (2001).
+
+    CAS   PubMed   PubMed Central   Google Scholar  
+    49
+
+    Tschudi, C., Shi, H., Franklin, J.B. & Ullu, E. Small interfering RNA-producing loci in the ancient parasitic eukaryote Trypanosoma brucei. BMC Genomics 13 , 427 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    50
+
+    Shi, H., Tschudi, C. & Ullu, E. An unusual Dicer-like1 protein fuels the RNA interference pathway in Trypanosoma brucei. RNA 12 , 2063–2072 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    51
+
+    Barnes, R.L., Shi, H., Kolev, N.G., Tschudi, C. & Ullu, E. Comparative genomics reveals two novel RNAi factors in Trypanosoma brucei and provides insight into the core machinery. PLoS Pathog. 8 , e1002678 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    52
+
+    Patrick, K.L. et al. Distinct and overlapping roles for two Dicer-like proteins in the RNA interference pathways of the ancient eukaryote Trypanosoma brucei. Proc. Natl. Acad. Sci. USA 106 , 17933–17938 (2009).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+    53
+
+    Shi, H., Chamond, N., Djikeng, A., Tschudi, C. & Ullu, E. RNA interference in Trypanosoma brucei: role of the n-terminal RGG domain and the polyribosome association of argonaute. J. Biol. Chem. 284 , 36511–36520 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    54
+
+    Yigit, E. et al. Analysis of the C. elegans Argonaute family reveals that distinct Argonautes act sequentially during RNAi. Cell 127 , 747–757 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    55
+
+    Pak, J. & Fire, A. Distinct populations of primary and secondary effectors during RNAi in C. elegans . Science 315 , 241–244 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    56
+
+    Sijen, T., Steiner, F.A., Thijssen, K.L. & Plasterk, R.H. Secondary siRNAs result from unprimed RNA synthesis and form a distinct class. Science 315 , 244–247 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    57
+
+    Guang, S. et al. Small regulatory RNAs inhibit RNA polymerase II during the elongation phase of transcription. Nature 465 , 1097–1101 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    58
+
+    Seth, M. et al. The C. elegans CSR-1 argonaute pathway counteracts epigenetic silencing to promote germline gene expression. Dev. Cell 27 , 656–663 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    59
+
+    Wedeles, C.J., Wu, M.Z. & Claycomb, J.M. Protection of germline gene expression by the C. elegans Argonaute CSR-1. Dev. Cell 27 , 664–671 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    60
+
+    Ender, C. & Meister, G. Argonaute proteins at a glance. J. Cell Sci. 123 , 1819–1823 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    61
+
+    Meister, G. Argonaute proteins: functional insights and emerging roles. Nat. Rev. Genet. 14 , 447–459 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    62
+
+    Cheloufi, S., Dos Santos, C.O., Chong, M.M. & Hannon, G.J. A dicer-independent miRNA biogenesis pathway that requires Ago catalysis. Nature 465 , 584–589 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    63
+
+    Cifuentes, D. et al. A novel miRNA processing pathway independent of Dicer requires Argonaute2 catalytic activity. Science 328 , 1694–1698 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    64
+
+    Fabian, M.R. & Sonenberg, N. The mechanics of miRNA-mediated gene silencing: a look under the hood of miRISC. Nat. Struct. Mol. Biol. 19 , 586–593 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    65
+
+    Rogers, K. & Chen, X. Biogenesis, turnover, and mode of action of plant microRNAs. Plant Cell 25 , 2383–2399 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    66
+
+    Hauptmann, J. et al. Turning catalytically inactive human Argonaute proteins into active slicer enzymes. Nat. Struct. Mol. Biol. 20 , 814–817 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    67
+
+    Baulcombe, D. RNA silencing in plants. Nature 431 , 356–363 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    68
+
+    van Rij, R.P. et al. The RNA silencing endonuclease Argonaute 2 mediates specific antiviral immunity in Drosophila melanogaster . Genes Dev. 20 , 2985–2995 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    69
+
+    Li, Y., Lu, J., Han, Y., Fan, X. & Ding, S.W. RNA interference functions as an antiviral immunity mechanism in mammals. Science 342 , 231–234 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    70
+
+    Maillard, P.V. et al. Antiviral RNA interference in mammalian cells. Science 342 , 235–238 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    71
+
+    Wee, L.M., Flores-Jasso, C.F., Salomon, W.E. & Zamore, P.D. Argonaute divides its RNA guide into domains with distinct functions and RNA-binding properties. Cell 151 , 1055–1067 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    72
+
+    Malone, C.D. & Hannon, G.J. Small RNAs as guardians of the genome. Cell 136 , 656–668 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    73
+
+    Ketting, R.F. The many faces of RNAi. Dev. Cell 20 , 148–161 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    74
+
+    Nishimasu, H. et al. Structure and function of Zucchini endoribonuclease in piRNA biogenesis. Nature 491 , 284–287 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    75
+
+    Mochizuki, K. & Gorovsky, M.A.A. Dicer-like protein in Tetrahymena has distinct functions in genome rearrangement, chromosome segregation, and meiotic prophase. Genes Dev. 19 , 77–89 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    76
+
+    Sandoval, P.Y., Swart, E.C., Arambasic, M. & Nowacki, M. Functional diversification of Dicer-like proteins and small RNAs required for genome sculpting. Dev. Cell 28 , 174–188 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    77
+
+    Frank, F., Hauver, J., Sonenberg, N. & Nagar, B. Arabidopsis Argonaute MID domains use their nucleotide specificity loop to sort small RNAs. EMBO J. 31 , 3588–3595 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    78
+
+    Mi, S. et al. Sorting of small RNAs into Arabidopsis argonaute complexes is directed by the 5′ terminal nucleotide. Cell 133 , 116–127 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    79
+
+    Kawaoka, S., Izumi, N., Katsuma, S. & Tomari, Y. 3′ end formation of PIWI-interacting RNAs in vitro . Mol. Cell 43 , 1015–1022 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    80
+
+    Luteijn, M.J. & Ketting, R.F. PIWI-interacting RNAs: from generation to transgenerational epigenetics. Nat. Rev. Genet. 14 , 523–534 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    81
+
+    Simon, B. et al. Recognition of 2′-O-methylated 3′-end of piRNA by the PAZ domain of a Piwi protein. Structure 19 , 172–180 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    82
+
+    Tian, Y., Simanshu, D.K., Ma, J.B. & Patel, D.J. Structural basis for piRNA 2′-O-methylated 3′-end recognition by Piwi PAZ (Piwi/Argonaute/Zwille) domains. Proc. Natl. Acad. Sci. USA 108 , 903–910 (2011).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+    83
+
+    Shi, H. et al. Role of the Trypanosoma brucei HEN1 family methyltransferase in small interfering RNA modification. Eukaryot. Cell 13 , 77–86 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    84
+
+    Yu, B. et al. Methylation as a crucial step in plant microRNA biogenesis. Science 307 , 932–935 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    85
+
+    Horwich, M.D. et al. The Drosophila RNA methyltransferase, DmHen1, modifies germline piRNAs and single-stranded siRNAs in RISC. Curr. Biol. 17 , 1265–1272 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    86
+
+    Ameres, S.L. et al. Target RNA-directed trimming and tailing of small silencing RNAs. Science 328 , 1534–1539 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    87
+
+    van Wolfswinkel, J.C. et al. CDE-1 affects chromosome segregation through uridylation of CSR-1-bound siRNAs. Cell 139 , 135–148 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    88
+
+    Hutvagner, G. & Simard, M.J. Argonaute proteins: key players in RNA silencing. Nat. Rev. Mol. Cell Biol. 9 , 22–32 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    89
+
+    Jinek, M. & Doudna, J.A. A three-dimensional view of the molecular machinery of RNA interference. Nature 457 , 405–412 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    90
+
+    Hur, J.K., Zinchenko, M.K., Djuranovic, S. & Green, R. Regulation of Argonaute slicer activity by guide RNA 3′ end interactions with the N-terminal lobe. J. Biol. Chem. 288 , 7829–7840 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    91
+
+    Kwak, P.B. & Tomari, Y. The N domain of Argonaute drives duplex unwinding during RISC assembly. Nat. Struct. Mol. Biol. 19 , 145–151 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    92
+
+    Schwarz, D.S. et al. Asymmetry in the assembly of the RNAi enzyme complex. Cell 115 , 199–208 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    93
+
+    Khvorova, A., Reynolds, A. & Jayasena, S.D. Functional siRNAs and miRNAs exhibit strand bias. Cell 115 , 209–216 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    94
+
+    Kawamata, T., Seitz, H. & Tomari, Y. Structural determinants of miRNAs for RISC loading and slicer-independent unwinding. Nat. Struct. Mol. Biol. 16 , 953–960 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    95
+
+    Yoda, M. et al. ATP-dependent human RISC assembly pathways. Nat. Struct. Mol. Biol. 17 , 17–23 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    96
+
+    Iyer, L.M., Makarova, K.S., Koonin, E.V. & Aravind, L. Comparative genomics of the FtsK-HerA superfamily of pumping ATPases: implications for the origins of chromosome segregation, cell division and viral capsid packaging. Nucleic Acids Res. 32 , 5260–5279 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    97
+
+    Kinch, L.N., Ginalski, K., Rychlewski, L. & Grishin, N.V. Identification of novel restriction endonuclease-like fold families among hypothetical proteins. Nucleic Acids Res. 33 , 3598–3605 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    98
+
+    Knizewski, L., Kinch, L.N., Grishin, N.V., Rychlewski, L. & Ginalski, K. Realm of PD-(D/E)XK nuclease superfamily revisited: detection of novel families with modified transitive meta profile searches. BMC Struct. Biol. 7 , 40 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    99
+
+    Zhang, J., Kasciukovic, T. & White, M.F. The CRISPR associated protein Cas4 Is a 5′ to 3′ DNA exonuclease with an iron-sulfur cluster. PLoS ONE 7 , e47232 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    100
+
+    Lemak, S. et al. Toroidal structure and DNA cleavage by the CRISPR-associated [4Fe-4S] cluster containing Cas4 nuclease SSO0001 from Sulfolobus solfataricus. J. Am. Chem. Soc. 135 , 17476–17487 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    101
+
+    Grazulis, S. et al. Structure of the metal-independent restriction enzyme BfiI reveals fusion of a specific DNA-binding domain with a nonspecific nuclease. Proc. Natl. Acad. Sci. USA 102 , 15797–15802 (2005).
+
+    Article   CAS   Google Scholar  
+    102
+
+    Geserick, P., Kaiser, F., Klemm, U., Kaufmann, S.H. & Zerrahn, J. Modulation of T cell development and activation by novel members of the Schlafen (slfn) gene family harbouring an RNA helicase-like motif. Int. Immunol. 16 , 1535–1548 (2004).
+
+    Article   CAS   Google Scholar  
+    103
+
+    Aravind, L. & Koonin, E.V. DNA-binding proteins and evolution of transcription regulation in the archaea. Nucleic Acids Res. 27 , 4658–4670 (1999).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+    104
+
+    Rana, R.R., Zhang, M., Spear, A.M., Atkins, H.S. & Byrne, B. Bacterial TIR-containing proteins and host innate immune system evasion. Med. Microbiol. Immunol. (Berl.) 202 , 1–10 (2013).
+
+    Article   CAS   Google Scholar  
+    105
+
+    Brikos, C. & O'Neill, L.A. Signalling of toll-like receptors. Handb. Exp. Pharmacol. 183 , 21–50 (2008).
+    106
+
+    Palsson-McDermott, E.M. & O'Neill, L.A. Building an immune system from nine domains. Biochem. Soc. Trans. 35 , 1437–1444 (2007).
+
+    Article   CAS   Google Scholar  
+    107
+
+    Burch-Smith, T.M. & Dinesh-Kumar, S.P. The functions of plant TIR domains. Sci. STKE 2007 , pe46 (2007).
+
+    Article   Google Scholar  
+    108
+
+    Boubakri, H., de Septenville, A.L., Viguera, E. & Michel, B. The helicases DinG, Rep and UvrD cooperate to promote replication across transcription units in vivo . EMBO J. 29 , 145–157 (2010).
+
+    Article   CAS   Google Scholar  
+
+Download references
+Acknowledgements
+
+This work was financially supported by grants from the Netherlands Organization of Scientific Research (NWO) to J.v.d.O. (NWO-TOP, 845.10.003) and the US National Institutes of Health to D.J.P. (TR01 GM104962). K.M. and E.V.K. are supported by intramural funds of the US Department of Health and Human Services (to the National Library of Medicine). K.N. is supported by Precursory Research for Embryonic Science and Technology (PRESTO) from the Japan Science and Technology (JST) Agency.
+Author information
+Affiliations
+
+    Department of Agrotechnology and Food Sciences, Laboratory of Microbiology, Wageningen University, Wageningen, the Netherlands
+
+    Daan C Swarts & John van der Oost
+
+    National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA
+
+    Kira Makarova & Eugene V Koonin
+
+    Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
+
+    Yanli Wang
+
+    Department of Chemistry and Biochemistry, Ohio State University, Columbus, Ohio, USA
+
+    Kotaro Nakanishi
+
+    Institute for Molecular Biology, Mainz, Germany
+
+    René F Ketting
+
+    Structural Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York, USA
+
+    Dinshaw J Patel
+
+Authors
+
+    Daan C Swarts
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Kira Makarova
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Yanli Wang
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Kotaro Nakanishi
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    René F Ketting
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Eugene V Koonin
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Dinshaw J Patel
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    John van der Oost
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+
+Corresponding authors
+
+Correspondence to Dinshaw J Patel or John van der Oost .
+Ethics declarations
+Competing interests
+
+The authors declare no competing financial interests.
+Supplementary information
+Supplementary Text and Figures
+
+Supplementary Note (PDF 50 kb)
+Supplementary Data 1
+
+Sequence alignment of prokaryotic Argonautes. (DOCX 79 kb)
+Supplementary Data 2
+
+Complete phylogenetic tree of prokaryotic Argonautes. (PDF 4337 kb)
+Supplementary Data 3
+
+Sequence alignment of eukaryotic Argonautes. (DOCX 49 kb)
+Supplementary Data 4
+
+Complete phylogenetic tree of eukaryotic Argonautes. (PDF 1295 kb)
+Rights and permissions
+
+Reprints and Permissions
+About this article
+Verify currency and authenticity via CrossMark
+Cite this article
+
+Swarts, D., Makarova, K., Wang, Y. et al. The evolutionary journey of Argonaute proteins. Nat Struct Mol Biol 21, 743–753 (2014). https://doi.org/10.1038/nsmb.2879
+
+Download citation
+
+    Received : 01 April 2014
+
+    Accepted : 30 July 2014
+
+    Published : 05 September 2014
+
+    Issue Date : September 2014
+
+    DOI : https://doi.org/10.1038/nsmb.2879
+
+Subjects
+
+    Enzyme mechanisms
+    Evolution
+    RNAi
+    X-ray crystallography
+
+Further reading
+
+    RNA Silencing Antagonizes Viroid
+        相鹏 康
+
+    Botanical Research (2020)
+    Argonaute proteins: Structural features, functions and emerging roles
+        Jin'en Wu
+        , Jing Yang
+        […]
+        , William C. Cho
+         &  Yadong Zheng
+        -Show fewer authors
+
+    Journal of Advanced Research (2020)
+    AGONOTES: A Robot Annotator for Argonaute Proteins
+        Lixu Jiang
+        , Min Yu
+        , Yuwei Zhou
+        , Zhongjie Tang
+        , Ning Li
+        , Juanjuan Kang
+        […]
+        , Bifang He
+         &  Jian Huang
+        -Show fewer authors
+
+    Interdisciplinary Sciences: Computational Life Sciences (2020)
+    Nuclear role for human Argonaute-1 as an estrogen-dependent transcription coactivator
+        Luciana I. Gómez Acuña
+        , Ezequiel Nazer
+        , Santiago A. Rodríguez-Seguí
+        , Berta Pozzi
+        , Valeria Buggiano
+        , Luciano E. Marasco
+        , Eneritz Agirre
+        , Cody He
+        […]
+        , Mariano Alló
+         &  Alberto R. Kornblihtt
+        -Show fewer authors
+
+    Journal of Cell Biology (2020)
+    Genome-wide DNA sampling by Ago nuclease from the cyanobacterium Synechococcus elongatus
+        Anna Olina
+        , Anton Kuzmenko
+        , Maria Ninova
+        , Alexei A. Aravin
+        […]
+        , Andrey Kulbachinskiy
+         &  Daria Esyunina
+        -Show fewer authors
+
+    RNA Biology (2020)
+
+Access to this article is not available.
+Change institution
+Buy or subscribe
+
+Access to this article via Hochschule München is not available.
+Access through your institution
+Change institution
+Buy or subscribe
+
+    Sections
+    Figures
+    References
+
+    Abstract
+    Accession codes
+    References
+    Acknowledgements
+    Author information
+    Ethics declarations
+    Supplementary information
+    Rights and permissions
+    About this article
+    Further reading
+
+Advertisement
+
+    Figure 1: Domain architectures of the PIWI superfamily proteins.
+    Figure 2: Tt Ago with 21-mer guide DNA (binary complex) and with complementary 12-mer target RNA (ternary complex) adopt cleavage-incompatible conformations.
+    Figure 3: Tt Ago with 5′-phosphorylated 21-mer guide DNA and complementary 15-mer and 19-mer target RNAs (ternary complex) adopt cleavage-compatible conformations.
+    Figure 4: Structure-based insights into the cleavage mechanism of Tt Ago.
+    Figure 5: Structures of binary complexes of Kp Ago and hAGO2 bound to 5′-phosphorylated guide RNAs.
+    Figure 6: Phylogenetic trees of Argonaute proteins.
+
+    Bohmert, K. et al. AGO1 defines a novel locus of Arabidopsis controlling leaf development. EMBO J. 17 , 170–180 (1998).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Cerutti, L., Mian, N. & Bateman, A. Domains in gene silencing and cell differentiation proteins: the novel PAZ domain and redefinition of the Piwi domain. Trends Biochem. Sci. 25 , 481–482 (2000).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Shabalina, S.A. & Koonin, E.V. Origins and evolution of eukaryotic RNA interference. Trends Ecol. Evol. 23 , 578–587 (2008).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+
+    Makarova, K.S., Wolf, Y.I., van der Oost, J. & Koonin, E.V. Prokaryotic homologs of Argonaute proteins are predicted to function as key components of a novel system of defense against mobile genetic elements. Biol. Direct 4 , 29 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Ma, J.B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A-fulgidus Piwi protein. Nature 434 , 666–670 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Yuan, Y.R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Wang, Y.L. et al. Structure of an argonaute silencing complex with a seed-containing guide DNA and target RNA duplex. Nature 456 , 921–926 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Olovnikov, I., Chan, K., Sachidanandam, R., Newman, D.K. & Aravin, A.A. Bacterial argonaute samples the transcriptome to identify foreign DNA. Mol. Cell 51 , 594–605 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Swarts, D.C. et al. DNA-guided DNA interference by a prokaryotic Argonaute. Nature 507 , 258–261 (2014).
+
+    Wang, Y.L., Sheng, G., Juranek, S., Tuschl, T. & Patel, D.J. Structure of the guide-strand-containing argonaute silencing complex. Nature 456 , 209–213 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Wang, Y.L. et al. Nucleation, propagation and cleavage of target RNAs in Ago silencing complexes. Nature 461 , 754–761 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Sheng, G. et al. Structure-based cleavage mechanism of Thermus thermophilus Argonaute DNA guide strand-mediated DNA target cleavage. Proc. Natl. Acad. Sci. USA 111 , 652–657 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Elkayam, E. et al. The structure of human argonaute-2 in complex with miR-20a. Cell 150 , 100–110 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Schirle, N.T. & MacRae, I.J. The crystal structure of human Argonaute2. Science 336 , 1037–1040 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Nakanishi, K., Weinberg, D.E., Bartel, D.P. & Patel, D.J. Structure of yeast Argonaute with guide RNA. Nature 486 , 368–374 (2012).
+
+    Article   CAS   Google Scholar  
+
+    Song, J.J., Smith, S.K., Hannon, G.J. & Joshua-Tor, L. Crystal structure of Argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Rashid, U.J. et al. Structure of Aquifex aeolicus argonaute highlights conformational flexibility of the PAZ domain as a potential regulator of RNA-induced silencing complex function. J. Biol. Chem. 282 , 13824–13832 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Parker, J.S., Roe, S.M. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Parker, J.S., Roe, S.M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Boland, A., Tritschler, F., Heimstadt, S., Izaurralde, E. & Weichenrieder, O. Crystal structure and ligand binding of the MID domain of a eukaryotic Argonaute protein. EMBO Rep. 11 , 522–527 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Frank, F., Sonenberg, N. & Nagar, B. Structural basis for 5′-nucleotide base-specific recognition of guide RNA by human AGO2. Nature 465 , 818–822 (2010).
+
+    Article   CAS   Google Scholar  
+
+    Parker, J.S. How to slice: snapshots of Argonaute in action. Silence 1 , 3 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Structure and nucleic-acid binding of the Drosophila Argonaute 2 PAZ domain. Nature 426 , 465–469 (2003).
+
+    Article   CAS   Google Scholar  
+
+    Song, J.J. et al. The crystal structure of the Argonaute2 PAZ domain reveals an RNA binding motif in RNAi effector complexes. Nat. Struct. Biol. 10 , 1026–1032 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Yan, K.S. et al. Structure and conserved RNA binding of the PAZ domain. Nature 426 , 468–474 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Ma, J.B., Ye, K. & Patel, D.J. Structural basis for overhang-specific small interfering RNA recognition by the PAZ domain. Nature 429 , 318–322 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 PAZ domain. Nat. Struct. Mol. Biol. 11 , 576–577 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Parker, J.S., Parizotto, E.A., Wang, M., Roe, S.M. & Barford, D. Enhancement of the seed-target recognition step in RNA silencing by a PIWI/MID domain protein. Mol. Cell 33 , 204–214 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Bartel, D.P. MicroRNAs: target recognition and regulatory functions. Cell 136 , 215–233 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kunne, T., Swarts, D.C. & Brouns, S.J. Planting the seed: target recognition of short guide RNAs. Trends Microbiol. 22 , 74–83 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Lal, A. et al. miR-24 Inhibits cell proliferation by targeting E2F2, MYC, and other cell-cycle genes via binding to “seedless” 3′UTR microRNA recognition elements. Mol. Cell 35 , 610–625 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Zander, A., Holzmeister, P., Klose, D., Tinnefeld, P. & Grohmann, D. Single-molecule FRET supports the two-state model of Argonaute action. RNA Biol. 11 , 45–56 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Nowotny, M. & Yang, W. Stepwise analyses of metal ions in RNase H catalysis from substrate destabilization to product release. EMBO J. 25 , 1924–1933 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Nowotny, M. Retroviral integrase superfamily: the structural perspective. EMBO Rep. 10 , 144–151 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Faehnle, C.R., Elkayam, E., Haase, A.D., Hannon, G.J. & Joshua-Tor, L. The making of a slicer: activation of human Argonaute-1. Cell Reports 3 , 1901–1909 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Nakanishi, K. et al. Eukaryote-specific insertion elements control human ARGONAUTE slicer activity. Cell Reports 3 , 1893–1900 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kuhn, C.D. & Joshua-Tor, L. Eukaryotic Argonautes come into focus. Trends Biochem. Sci. 38 , 263–271 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Boland, A., Huntzinger, E., Schmidt, S., Izaurralde, E. & Weichenrieder, O. Crystal structure of the MID-PIWI lobe of a eukaryotic Argonaute protein. Proc. Natl. Acad. Sci. USA 108 , 10466–10471 (2011).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+
+    Huntzinger, E. et al. The interactions of GW182 proteins with PABP and deadenylases are required for both translational repression and degradation of miRNA targets. Nucleic Acids Res. 41 , 978–994 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Pfaff, J. et al. Structural features of Argonaute-GW182 protein interactions. Proc. Natl. Acad. Sci. USA 110 , E3770–E3779 (2013).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+
+    Burroughs, A.M., Iyer, L.M. & Aravind, L. Two novel PIWI families: roles in inter-genomic conflicts in bacteria and Mediator-dependent modulation of transcription in eukaryotes. Biol. Direct 8 , 13 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Makarova, K.S., Wolf, Y.I. & Koonin, E.V. Comparative genomics of defense systems in archaea and bacteria. Nucleic Acids Res. 41 , 4360–4377 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Price, M.N., Dehal, P.S. & Arkin, A.P. FastTree 2–approximately maximum-likelihood trees for large alignments. PLoS One 5 , e9490 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Makarova, K.S., Aravind, L., Wolf, Y.I. & Koonin, E.V. Unification of Cas protein families and a simple scenario for the origin and evolution of CRISPR-Cas systems. Biol. Direct 6 , 38 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Hock, J. & Meister, G. The Argonaute protein family. Genome Biol. 9 , 210 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Garcia Silva, M.R. et al. Cloning, characterization and subcellular localization of a Trypanosoma cruzi argonaute protein defining a new subfamily distinctive of trypanosomatids. Gene 466 , 26–35 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Conaway, R.C., Sato, S., Tomomori-Sato, C., Yao, T. & Conaway, J.W. The mammalian Mediator complex and its role in transcriptional regulation. Trends Biochem. Sci. 30 , 250–255 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Djikeng, A., Shi, H., Tschudi, C. & Ullu, E. RNA interference in Trypanosoma brucei: cloning of small interfering RNAs provides evidence for retroposon-derived 24–26-nucleotide RNAs. RNA 7 , 1522–1530 (2001).
+
+    CAS   PubMed   PubMed Central   Google Scholar  
+
+    Tschudi, C., Shi, H., Franklin, J.B. & Ullu, E. Small interfering RNA-producing loci in the ancient parasitic eukaryote Trypanosoma brucei. BMC Genomics 13 , 427 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Shi, H., Tschudi, C. & Ullu, E. An unusual Dicer-like1 protein fuels the RNA interference pathway in Trypanosoma brucei. RNA 12 , 2063–2072 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Barnes, R.L., Shi, H., Kolev, N.G., Tschudi, C. & Ullu, E. Comparative genomics reveals two novel RNAi factors in Trypanosoma brucei and provides insight into the core machinery. PLoS Pathog. 8 , e1002678 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Patrick, K.L. et al. Distinct and overlapping roles for two Dicer-like proteins in the RNA interference pathways of the ancient eukaryote Trypanosoma brucei. Proc. Natl. Acad. Sci. USA 106 , 17933–17938 (2009).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+
+    Shi, H., Chamond, N., Djikeng, A., Tschudi, C. & Ullu, E. RNA interference in Trypanosoma brucei: role of the n-terminal RGG domain and the polyribosome association of argonaute. J. Biol. Chem. 284 , 36511–36520 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Yigit, E. et al. Analysis of the C. elegans Argonaute family reveals that distinct Argonautes act sequentially during RNAi. Cell 127 , 747–757 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Pak, J. & Fire, A. Distinct populations of primary and secondary effectors during RNAi in C. elegans . Science 315 , 241–244 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Sijen, T., Steiner, F.A., Thijssen, K.L. & Plasterk, R.H. Secondary siRNAs result from unprimed RNA synthesis and form a distinct class. Science 315 , 244–247 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Guang, S. et al. Small regulatory RNAs inhibit RNA polymerase II during the elongation phase of transcription. Nature 465 , 1097–1101 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Seth, M. et al. The C. elegans CSR-1 argonaute pathway counteracts epigenetic silencing to promote germline gene expression. Dev. Cell 27 , 656–663 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Wedeles, C.J., Wu, M.Z. & Claycomb, J.M. Protection of germline gene expression by the C. elegans Argonaute CSR-1. Dev. Cell 27 , 664–671 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Ender, C. & Meister, G. Argonaute proteins at a glance. J. Cell Sci. 123 , 1819–1823 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Meister, G. Argonaute proteins: functional insights and emerging roles. Nat. Rev. Genet. 14 , 447–459 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Cheloufi, S., Dos Santos, C.O., Chong, M.M. & Hannon, G.J. A dicer-independent miRNA biogenesis pathway that requires Ago catalysis. Nature 465 , 584–589 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Cifuentes, D. et al. A novel miRNA processing pathway independent of Dicer requires Argonaute2 catalytic activity. Science 328 , 1694–1698 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Fabian, M.R. & Sonenberg, N. The mechanics of miRNA-mediated gene silencing: a look under the hood of miRISC. Nat. Struct. Mol. Biol. 19 , 586–593 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Rogers, K. & Chen, X. Biogenesis, turnover, and mode of action of plant microRNAs. Plant Cell 25 , 2383–2399 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Hauptmann, J. et al. Turning catalytically inactive human Argonaute proteins into active slicer enzymes. Nat. Struct. Mol. Biol. 20 , 814–817 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Baulcombe, D. RNA silencing in plants. Nature 431 , 356–363 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    van Rij, R.P. et al. The RNA silencing endonuclease Argonaute 2 mediates specific antiviral immunity in Drosophila melanogaster . Genes Dev. 20 , 2985–2995 (2006).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Li, Y., Lu, J., Han, Y., Fan, X. & Ding, S.W. RNA interference functions as an antiviral immunity mechanism in mammals. Science 342 , 231–234 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Maillard, P.V. et al. Antiviral RNA interference in mammalian cells. Science 342 , 235–238 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Wee, L.M., Flores-Jasso, C.F., Salomon, W.E. & Zamore, P.D. Argonaute divides its RNA guide into domains with distinct functions and RNA-binding properties. Cell 151 , 1055–1067 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Malone, C.D. & Hannon, G.J. Small RNAs as guardians of the genome. Cell 136 , 656–668 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Ketting, R.F. The many faces of RNAi. Dev. Cell 20 , 148–161 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Nishimasu, H. et al. Structure and function of Zucchini endoribonuclease in piRNA biogenesis. Nature 491 , 284–287 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Mochizuki, K. & Gorovsky, M.A.A. Dicer-like protein in Tetrahymena has distinct functions in genome rearrangement, chromosome segregation, and meiotic prophase. Genes Dev. 19 , 77–89 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Sandoval, P.Y., Swart, E.C., Arambasic, M. & Nowacki, M. Functional diversification of Dicer-like proteins and small RNAs required for genome sculpting. Dev. Cell 28 , 174–188 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Frank, F., Hauver, J., Sonenberg, N. & Nagar, B. Arabidopsis Argonaute MID domains use their nucleotide specificity loop to sort small RNAs. EMBO J. 31 , 3588–3595 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Mi, S. et al. Sorting of small RNAs into Arabidopsis argonaute complexes is directed by the 5′ terminal nucleotide. Cell 133 , 116–127 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kawaoka, S., Izumi, N., Katsuma, S. & Tomari, Y. 3′ end formation of PIWI-interacting RNAs in vitro . Mol. Cell 43 , 1015–1022 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Luteijn, M.J. & Ketting, R.F. PIWI-interacting RNAs: from generation to transgenerational epigenetics. Nat. Rev. Genet. 14 , 523–534 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Simon, B. et al. Recognition of 2′-O-methylated 3′-end of piRNA by the PAZ domain of a Piwi protein. Structure 19 , 172–180 (2011).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Tian, Y., Simanshu, D.K., Ma, J.B. & Patel, D.J. Structural basis for piRNA 2′-O-methylated 3′-end recognition by Piwi PAZ (Piwi/Argonaute/Zwille) domains. Proc. Natl. Acad. Sci. USA 108 , 903–910 (2011).
+
+    Article   PubMed   PubMed Central   Google Scholar  
+
+    Shi, H. et al. Role of the Trypanosoma brucei HEN1 family methyltransferase in small interfering RNA modification. Eukaryot. Cell 13 , 77–86 (2014).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Yu, B. et al. Methylation as a crucial step in plant microRNA biogenesis. Science 307 , 932–935 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Horwich, M.D. et al. The Drosophila RNA methyltransferase, DmHen1, modifies germline piRNAs and single-stranded siRNAs in RISC. Curr. Biol. 17 , 1265–1272 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Ameres, S.L. et al. Target RNA-directed trimming and tailing of small silencing RNAs. Science 328 , 1534–1539 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    van Wolfswinkel, J.C. et al. CDE-1 affects chromosome segregation through uridylation of CSR-1-bound siRNAs. Cell 139 , 135–148 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Hutvagner, G. & Simard, M.J. Argonaute proteins: key players in RNA silencing. Nat. Rev. Mol. Cell Biol. 9 , 22–32 (2008).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Jinek, M. & Doudna, J.A. A three-dimensional view of the molecular machinery of RNA interference. Nature 457 , 405–412 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Hur, J.K., Zinchenko, M.K., Djuranovic, S. & Green, R. Regulation of Argonaute slicer activity by guide RNA 3′ end interactions with the N-terminal lobe. J. Biol. Chem. 288 , 7829–7840 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kwak, P.B. & Tomari, Y. The N domain of Argonaute drives duplex unwinding during RISC assembly. Nat. Struct. Mol. Biol. 19 , 145–151 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Schwarz, D.S. et al. Asymmetry in the assembly of the RNAi enzyme complex. Cell 115 , 199–208 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Khvorova, A., Reynolds, A. & Jayasena, S.D. Functional siRNAs and miRNAs exhibit strand bias. Cell 115 , 209–216 (2003).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kawamata, T., Seitz, H. & Tomari, Y. Structural determinants of miRNAs for RISC loading and slicer-independent unwinding. Nat. Struct. Mol. Biol. 16 , 953–960 (2009).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Yoda, M. et al. ATP-dependent human RISC assembly pathways. Nat. Struct. Mol. Biol. 17 , 17–23 (2010).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Iyer, L.M., Makarova, K.S., Koonin, E.V. & Aravind, L. Comparative genomics of the FtsK-HerA superfamily of pumping ATPases: implications for the origins of chromosome segregation, cell division and viral capsid packaging. Nucleic Acids Res. 32 , 5260–5279 (2004).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Kinch, L.N., Ginalski, K., Rychlewski, L. & Grishin, N.V. Identification of novel restriction endonuclease-like fold families among hypothetical proteins. Nucleic Acids Res. 33 , 3598–3605 (2005).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Knizewski, L., Kinch, L.N., Grishin, N.V., Rychlewski, L. & Ginalski, K. Realm of PD-(D/E)XK nuclease superfamily revisited: detection of novel families with modified transitive meta profile searches. BMC Struct. Biol. 7 , 40 (2007).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Zhang, J., Kasciukovic, T. & White, M.F. The CRISPR associated protein Cas4 Is a 5′ to 3′ DNA exonuclease with an iron-sulfur cluster. PLoS ONE 7 , e47232 (2012).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Lemak, S. et al. Toroidal structure and DNA cleavage by the CRISPR-associated [4Fe-4S] cluster containing Cas4 nuclease SSO0001 from Sulfolobus solfataricus. J. Am. Chem. Soc. 135 , 17476–17487 (2013).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Grazulis, S. et al. Structure of the metal-independent restriction enzyme BfiI reveals fusion of a specific DNA-binding domain with a nonspecific nuclease. Proc. Natl. Acad. Sci. USA 102 , 15797–15802 (2005).
+
+    Article   CAS   Google Scholar  
+
+    Geserick, P., Kaiser, F., Klemm, U., Kaufmann, S.H. & Zerrahn, J. Modulation of T cell development and activation by novel members of the Schlafen (slfn) gene family harbouring an RNA helicase-like motif. Int. Immunol. 16 , 1535–1548 (2004).
+
+    Article   CAS   Google Scholar  
+
+    Aravind, L. & Koonin, E.V. DNA-binding proteins and evolution of transcription regulation in the archaea. Nucleic Acids Res. 27 , 4658–4670 (1999).
+
+    Article   CAS   PubMed   PubMed Central   Google Scholar  
+
+    Rana, R.R., Zhang, M., Spear, A.M., Atkins, H.S. & Byrne, B. Bacterial TIR-containing proteins and host innate immune system evasion. Med. Microbiol. Immunol. (Berl.) 202 , 1–10 (2013).
+
+    Article   CAS   Google Scholar  
+
+    Brikos, C. & O'Neill, L.A. Signalling of toll-like receptors. Handb. Exp. Pharmacol. 183 , 21–50 (2008).
+
+    Palsson-McDermott, E.M. & O'Neill, L.A. Building an immune system from nine domains. Biochem. Soc. Trans. 35 , 1437–1444 (2007).
+
+    Article   CAS   Google Scholar  
+
+    Burch-Smith, T.M. & Dinesh-Kumar, S.P. The functions of plant TIR domains. Sci. STKE 2007 , pe46 (2007).
+
+    Article   Google Scholar  
+
+    Boubakri, H., de Septenville, A.L., Viguera, E. & Michel, B. The helicases DinG, Rep and UvrD cooperate to promote replication across transcription units in vivo . EMBO J. 29 , 145–157 (2010).
+
+    Article   CAS   Google Scholar  
+
+Nature Structural & Molecular Biology ISSN 1545-9985 (online)
+nature.com sitemap
+Nature Research
+
+    About us
+    Press releases
+    Press office
+    Contact us
+
+Discover content
+
+    Journals A-Z
+    Articles by subject
+    Nano
+    Protocol Exchange
+    Nature Index
+
+Publish with us
+
+    Guide to Authors
+    Guide to Referees
+    Editorial policies
+    Open access
+    Reprints & permissions
+
+Researcher services
+
+    Research data
+    Language editing
+    Scientific editing
+    Nature Masterclasses
+    Nature Research Academies
+
+Libraries & institutions
+
+    Librarian service & tools
+    Librarian portal
+    Open research
+
+Advertising & partnerships
+
+    Advertising
+    Partnerships & Services
+    Media kits
+    Branded content
+
+Career development
+
+    Nature Careers
+    Nature Conferences
+    Nature events
+
+Regional websites
+
+    Nature China
+    Nature India
+    Nature Japan
+    Nature Korea
+    Nature Middle East
+
+Legal & Privacy
+
+    Privacy Policy
+    Use of cookies
+    Manage cookies/Do not sell my data
+    Legal notice
+    Accessibility statement
+    Terms & Conditions
+    California Privacy Statement
+
+Springer Nature
+
+© 2020 Springer Nature Limited
+Close banner Close
+Sign up for the Nature Briefing newsletter for a daily update on COVID-19 science.
+Enter your email address
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy .
+Sign up
+Get the most important science stories of the day, free in your inbox. Sign up for Nature Briefing
+Close banner Close
+Daan C Swarts
+
+    Department of Agrotechnology and Food Sciences, Laboratory of Microbiology, Wageningen University, Wageningen, the Netherlands
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Kira Makarova
+
+    National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Yanli Wang
+
+    Institute of Biophysics, Chinese Academy of Sciences, Beijing, China
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Kotaro Nakanishi
+
+    Department of Chemistry and Biochemistry, Ohio State University, Columbus, Ohio, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+René F Ketting
+
+    Institute for Molecular Biology, Mainz, Germany
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Eugene V Koonin
+
+    National Center for Biotechnology Information, National Library of Medicine, National Institutes of Health, Bethesda, Maryland, USA
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Dinshaw J Patel
+
+    Structural Biology Program, Memorial Sloan-Kettering Cancer Center, New York, New York, USA
+    Contact Dinshaw J Patel
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+John van der Oost
+
+    Department of Agrotechnology and Food Sciences, Laboratory of Microbiology, Wageningen University, Wageningen, the Netherlands
+    Contact John van der Oost
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close

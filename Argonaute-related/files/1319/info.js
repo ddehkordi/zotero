@@ -1,0 +1,1 @@
+/**/jQuery34103693101289817591_1598978258739({"purchasable":true,"publisher":"nature","article":{"title":"Structural basis for the recognition of guide RNA and target DNA heteroduplex by Argonaute","chapter":null,"year":2016,"journal":"Nature Communications"},"purchase_type":"personal","prices":{"tier_1":899,"tier_2":2200,"tier_3":3200},"manual_enabled":null})

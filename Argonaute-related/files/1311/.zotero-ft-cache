@@ -1,0 +1,1755 @@
+
+Skip to main content
+
+Advertisement
+Advertisement
+
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript.
+Nature Reviews Molecular Cell Biology
+View all Nature Research journals
+Search
+Search
+Article Search
+Search
+
+Advanced search
+Quick links
+
+    Explore articles by subject
+    Find a job
+    Guide to authors
+    Editorial policies
+
+My Account Login
+
+    Explore our content
+    Explore our content
+        News & Comment
+        Reviews
+        Current Issue
+        Browse Issues
+        Browse Articles
+        Browse Collections
+        Sign up for alerts
+    Journal info rmation
+    Journal information
+        About the Journal
+        For Authors
+        For Referees
+        Posters
+        Web Feeds
+        Submit manuscript
+
+    nature
+    nature reviews molecular cell biology
+    review articles
+    article
+
+Argonaute proteins: key players in RNA silencing
+Download PDF
+
+    Published: January 2008
+
+Argonaute proteins: key players in RNA silencing
+
+    Gyorgy Hutvagner 1 &
+    Martin J. Simard 2  
+
+Nature Reviews Molecular Cell Biology volume  9 ,  pages 22 – 32 ( 2008 ) Cite this article
+
+    2117 Accesses
+
+    768 Citations
+
+    21 Altmetric
+
+    Metrics details
+
+Key Points
+
+    The Argonautes represent a highly conserved gene family that is found in almost all eukaryotes and is even found in bacteria and archaea.
+
+    Many members of the Argonaute gene family are found in the genomes of plants and animals, with an exceptional representation in the nematode Caenorhabditis elegans , which has at least 26 Argonaute genes.
+
+    Argonaute proteins contain four conserved domains: the N-terminal, PAZ (which is responsible for small RNA binding), Mid and PIWI (which confers catalytic activities) domains.
+
+    Argonaute proteins associate with small non-coding RNAs (such as small interfering (si)RNAs and microRNAs (miRNAs)) and function in RNA-based silencing mechanisms by altering protein synthesis and affecting RNA stability.
+
+    Argonaute proteins also contribute to the maintenance of chromosome integrity, are involved in siRNA and miRNA maturation and can even participate in the production of a new class of small non-coding RNAs known as Piwi-interacting (pi)RNAs.
+
+Abstract
+
+During the past decade, small non-coding RNAs have rapidly emerged as important contributors to gene regulation. To carry out their biological functions, these small RNAs require a unique class of proteins called Argonautes. The discovery and our comprehension of this highly conserved protein family is closely linked to the study of RNA-based gene silencing mechanisms. With their functional domains, Argonaute proteins can bind small non-coding RNAs and control protein synthesis, affect messenger RNA stability and even participate in the production of a new class of small RNAs, Piwi-interacting RNAs.
+
+You have full access to this article via your institution.
+Download PDF
+
+You have full access to this article via Hochschule München
+Download PDF
+Main
+
+Despite the fact that the field of research on small regulatory RNAs is relatively young, it has already reshaped our understanding of gene regulation by revealing unexpected layers of transcriptional and post-transcriptional gene regulatory mechanisms. Members of a new family of proteins that are involved in RNA silencing mediated by small non-coding RNAs share their names with the great warriors from Greek mythology, the Argonautes.
+
+Argonaute proteins were originally described as being important for plant development 1 , 2 and for germline stem-cell division in Drosophila melanogaster 3 . However, the association of these proteins with small non-coding RNAs, such as in RNA interference (RNAi) and microRNA (miRNA) pathways, has generated significant interest in their study and it has since become apparent that Argonaute proteins are essential for these gene regulatory mechanisms. So far, studies have attributed roles for Argonaute proteins in maintaining genome integrity, in controlling protein synthesis and RNA stability and in the production of a specific set of small non-coding RNAs.
+
+This review will introduce the origins and the evolution of this family, focus on what is known about the functional domains of Argonaute proteins and describe recent data addressing their functions in animals. Argonaute proteins also have essential roles in yeast and plants in which, among other functions, they are associated with chromosome maintenance and the formation of heterochromatin; however, these topics have been reviewed elsewhere 4 , 5 , 6 and will not be discussed here.
+
+Evolution and diversity of Argonautes
+
+boxed-text Argonaute proteins are classified into three paralogous groups: Argonaute-like proteins, which are similar to Arabidopsis thaliana AGO1; Piwi-like proteins, which are closely related to D. melanogaster PIWI (P-element induced wimpy testis); and the recently identified Caenorhabditis elegans -specific group 3 Argonautes 7 ( Box 1 ). Argonaute-like and Piwi-like proteins are present in bacteria, archaea and eukaryotes, which implies that both groups of proteins have an ancient origin (reviewed in Ref. 8 ). However, the number of Argonaute genes that are present in different species varies. For instance, there are 8 Argonaute genes in humans (4 Argonaute-like and 4 Piwi-like), 5 in the D. melanogaster genome (2 Argonaute-like and 3 Piwi-like), 10 Argonaute-like in A. thaliana , only 1 Argonaute-like in Schizosaccharomyces pombe and at least 26 Argonaute genes in C. elegans (5 Argonaute-like, 3 Piwi-like and 18 group 3 Argonautes) ( Table 1 ). In some organisms, such as the parasites Trypanosoma cruzi and Leishmania major , the Argonaute proteins may have lost the PAZ domain and retain only a PIWI domain (see below). However, these species are either not sensitive to double-stranded (ds)RNA molecules or these proteins are dispensable for RNAi 9 .
+Table 1 Functions of Argonaute proteins in different species
+Full size table
+
+Detailed phylogenetic analysis of the Argonaute-like and Piwi-like proteins strongly implies that the last common ancestor of eukaryotes encoded both types of protein. However, lineage-specific loss of either of the paralogues might have occurred during evolution; for example, plants encode only the Argonaute-like paralogues, whereas the Amoebozoa phylum members have retained only the Piwi-like paralogues. Animals carry representatives of both protein groups in their genomes.
+
+Remarkably, Argonaute proteins have undergone a high degree of gene duplication, especially in plants and metazoans, followed by diversification in their function. The champion of this expansion is C. elegans , with 26 distinct Argonaute proteins (see below). By contrast, there are examples of simplification and loss of Argonaute proteins in taxonomically diverged organisms. For instance, S. pombe has retained one Argonaute-like protein, which functions in diverse processes such as heterochromatin silencing and post-transcriptional gene silencing 10 , 11 , 12 . Furthermore, S. cerevisiae and some parasitic organisms such as T. cruzi and L. major may have independently lost their Argonaute genes together with the entire RNAi machinery 9 .
+
+Comparative in silico analysis of the evolution of key components of the RNAi machinery implies that the last common ancestor of eukaryotes already had at least two distinct RNAi mechanisms, based on the prediction that this organism contained at least one Argonaute-like and one Piwi-like protein; in addition, at least two types of silencing phenomena are present in all organisms that can use double-stranded (ds)RNA to regulate gene expression 8 . The ancestral Piwi-like protein would probably have localized to the nucleus and would have been an effector of mechanisms that are related to transcriptional silencing, such as transposon silencing. By contrast, the Argonaute-like paralogue was responsible for the regulation of translation by targeting mRNAs in the cytoplasm. Duplication of Argonaute genes probably resulted in the diversification of RNAi-like mechanisms in which the effector proteins probably specialized to bind distinct small RNA species and/or to interact with diverse protein complexes with different regulatory potentials.
+
+Biochemical analysis of eubacterial and archaeal Argonaute proteins indicates that the original function of this protein family was similar to that of members of the RNase H family of endonucleases, which use DNA as a template to target RNA molecules 13 , 14 . However, during evolution, Argonaute proteins specialized to use single-stranded (ss)RNA rather than DNA as a template to target RNA. In animals, some Argonaute proteins have lost their catalytic activity and participate in a gene regulatory mechanism that does not require RNA cleavage (see below).
+
+Functional domains of Argonautes
+
+Argonautes consist of four distinct domains: the N-terminal, PAZ, Mid and PIWI domains ( Fig. 1 ). Eukaryotic Argonaute proteins that function in gene regulatory mechanisms mediated by small RNAs always contain these domains.
+Figure 1: Structural features of Argonaute proteins.
+figure1
+
+a | Domain structure of an Argonaute protein (human AGO2 is shown as an example). The PAZ domain (yellow), which is important for small RNA association along with the PIWI domain, is situated near the N terminus of the protein (grey). The PIWI domain (orange) of cleavage-competent Argonaute proteins contains the catalytic residues DDH (highlighted in red), which are essential for cleavage. The cap-binding-like domain (MC; dark blue) is found within the Mid domain (blue), the region flanked by the PAZ and the PIWI domains. Coloured residues represent those that are conserved in the cap-binding factor eIF4E. b | Crystal structure of the Argonaute protein from Pyrococcus furiosus . The 3′-portion of the small interfering RNA (purple) and part of the mRNA target (turquoise) have been superimposed in the model. Active residues of the PIWI domain are shown in red. An alternative model has been obtained from a structure of Aquifex aeolicus Argonaute crystallized in the presence of single-stranded 8-nucleotide-long RNA 13 , 14 . Part b reproduced with permission from Ref. 21 © (2004) American Association for the Advancement of Science.
+Full size image
+
+The PAZ domain. The PAZ domain is found in deicer and Argonaute proteins, two protein families with key roles in RNAi mechanisms. The PAZ domain consists of two subdomains, one of which displays OB-like folding (oligonucleotide/oligosaccharide binding or OB fold ), which indicated that the PAZ motif might bind single-stranded nucleic acids 15 , 16 , 17 . Indeed, crystallographic studies combined with biochemical approaches showed that the PAZ domain binds to ssRNAs with low affinity in a sequence-independent manner 18 , 19 .
+
+A remarkable feature of the PAZ domain is that it can recognize the 3′-ends of ssRNAs. Both miRNAs and distinct types of small interfering (SI)RNA are trimmed by the sequential action of RNase III enzymes ( drosha and Dicer in animals, or Dicer alone in yeast and plants), which characteristically leave two 3′-overhangs on the processed product. Therefore, the PAZ domain could initially distinguish these small regulatory RNAs from degraded RNAs that are derived from non-related pathways by binding to their characteristic 3′-overhangs.
+
+The PIWI domain. The structure of the full-length archaeal and eubacterial Argonautes and the archaeal Archaeoglobus fulgidus Piwi-like protein, which lacks the N-terminal domain and the PAZ domain, revealed that the PIWI domain has an RNase-H-like fold 13 , 14 , 20 , 21 . As mentioned above, RNase-H-like enzymes cleave RNA using a DNA template, and this catalysis requires a conserved Asp-Asp-Glu/Asp motif in the catalytic centre and binding of two divalent metal ions by the ribonuclease. Cleavage-competent Argonaute proteins have a slightly more degenerate catalytic centre (Asp-Asp-Asp/Glu/His/Lys) and they require the binding of a divalent cation for activity (reviewed in Ref. 22 ). Their cleavage products contain 3′-OH and 5′-phosphate, which is also a characteristic feature of RNase-H-like processing 23 , 24 .
+
+Additional important insights into target recognition and activity were gleaned from structural studies in which A. fulgidus Piwi-like protein and the eubacterial Aquifex aeolicus Argonaute protein were crystallized in the presence of either ssRNA or siRNA-like molecules 13 , 14 , 25 . These studies reconfirmed earlier works indicating that the 5′-phosphate of an siRNA or a miRNA is a key element of their functionality 26 . The 5′-phosphate is anchored by a divalent cation at the interface between the PIWI and Mid domains 14 , 25 . Apart from anchoring the 5′-phosphate, the Mid domain of metazoan Argonautes that function in the miRNA pathway contain a motif known as the MC domain, which has striking homology to the cap structure binding motif of the translation initiation factor eIF4E. Indeed, the MC domain can bind to the cap and is required for efficient regulation of translation 27 .
+
+The structural studies mentioned above reveal that the first nucleotide of the guiding strand of a small RNA is separated from the targeted RNA. This is in agreement with reports that imply that the extreme 5′-end nucleotide of siRNAs and miRNAs is not necessarily involved in recognition of the substrate 28 , 29 , 30 . Moreover, the results of structural studies explain why the small RNA-mediated cleavage of the target RNA always occurs at a fixed place (as established by previous biochemical studies); the catalytic motif of the ribonuclease is positioned in front of the scissile phosphate on the target RNA between the tenth and eleventh nucleotides of the guiding strand (counting from the anchored 5′-end) 29 , 31 .
+
+A reconstitution study with recombinant proteins showed that the minimal RNA-induced silencing complex (RISC) contains a cleavage-competent Argonaute or the PIWI domain of an Argonaute plus a bound small RNA 32 , 33 . The endonuclease activity of the Argonaute-like and Piwi-like proteins in fission yeast, fungi, plants, flies and mammals is essential for the function of the RISC 34 . Argonaute-like proteins have been shown to participate in the maturation of siRNAs by eliminating the non-active siRNA strand 32 , 35 , 36 and initiating sequence-specific cleavage of the target RNAs 37 . In addition, the cleavage activity of Piwi-like proteins is probably required for the maturation of repeat-associated small interfering (rasi)RNAs and Piwi-interacting RNAs (piRNAs) in flies and mammals 38 , 39 . However, the presence of an intact PIWI-domain catalytic centre only partially explains the cleavage activity of Argonaute proteins. For instance, human Argonaute-3 (AGO3) is incapable of mediating cleavage if it is charged with miRNAs, despite it having a canonical active site, which implies a requirement for binding to specific, as-yet-undiscovered, small RNA(s) or additional cofactors 40 , 41 .
+
+Catalysis-independent Argonaute activity. The catalytic activity of the PIWI domain is clearly important for some Argonaute proteins, but other members of this family, such as human AGO1, AGO4, one of the human Piwi-like proteins PIWIL4 (also known as HIWI2), and most of the group 3 Argonautes of C. elegans , have diverged their catalytic motif to a degree that probably impairs their endonuclease activity 22 . Importantly, not all known small-RNA-mediated gene regulation requires the catalytic activity of Argonaute proteins. For instance, in contrast to plant miRNAs, most miRNA-mediated gene repression in animals does not involve sequence-specific cleavage (called 'slicing' activity), even if the miRNAs are incorporated into Argonautes that contain the catalytic activity (slicing-competent Argonautes) — miRNAs only share restricted complementarity with their target RNAs and this is insufficient for sequence-specific cleavage.
+
+Argonautes are involved in distinct steps of small RNA maturation and small-RNA-mediated gene repression that are likely to require interactions with diverse protein complexes. Indeed, the comprehensive cytoplasmic human AGO1 and AGO2 proteomes, affinity purified with overexpressed tagged proteins, have been recently reported 42 . This study showed that human AGO1 and AGO2 interact with various proteins in three distinctly sized complexes. Most of these proteins are RNA-binding proteins that are involved in distinct steps of RNA processing, maturation, transport and the regulation of RNA stability and translation. Interestingly, some of the interactors are implicated in the processing of other small RNAs, such as small nuclear (sn)RNAs and small nucleolar (sno)RNAs. Some of these interactions are likely to be mediated by RNAs, but some proteins may bind directly to Argonautes or associate with them through other protein interactors 42 .
+
+It is known that Argonautes can directly bind to other proteins. Both Dicer and Argonaute proteins participate in the selection of the active strand of siRNAs and miRNAs, and it has been demonstrated that the PIWI box (a motif located within the PIWI domain) of human Argonautes binds to one of the RNase III domains of Dicer 43 . The PIWI domain of the fly AGO1 directly interacts with GW182, a protein that is characteristic of cytoplasmic processing bodies (P bodies). GW182 also has a role in miRNA-mediated gene regulation, which might function downstream of AGO1 in flies 44 .
+
+The part of the PIWI domain that accommodates the 5′-phosphate of the guiding strand of an siRNA also binds to a peptide that is at least 22 amino acids in length, called the Ago hook, which was originally recognized in the S. pombe Argonaute-interacting protein Tas3 (Ref. 45 ). This peptide contains WG/GW repeats and the Trp residues are absolutely required for the interaction. Interestingly, this type of amino acid repeat is found in many unrelated Argonaute interactor proteins, such as the large subunit of plant polymerase IV (NRPD1b), the orthologues of the GW182 protein family in metazoans, as well as the yeast Tas3 (Refs 45 , 46 ). In NRPD1b and GW182 proteins, the GW/WG motifs are found in many copies and may provide a scaffolding platform for binding multiple Argonautes in order to assemble the regulatory complex. It is likely that this motif also participates in small-RNA-mediated gene regulation because in vitro experiments showed that the Ago hook peptide can relieve miRNA-mediated gene repression without competing with miRNA binding 45 .
+
+Argonautes in RNA silencing pathways
+
+boxed-text Small non-coding RNA species are either exogenously supplied or endogenously produced by the cell ( Box 2 ). When dsRNA molecules (which are the source of a large amount of small non-coding RNAs) are processed, one of the strands from the small RNA duplex and Argonaute proteins are assembled into functional RISCs ( Fig. 2 ).
+Figure 2: Assembly of the Argonaute–small RNA complex.
+figure2
+
+Inside the cell, a double-stranded (ds)RNA duplex is bound by a recognition complex that contains a Dicer-family member and a dsRNA-binding protein (yellow). In Drosophila melanogaster , the dsRNA-binding protein Loquacious forms the microRNA-induced silencing complex (miRISC) (in the microRNA pathway; right panel) with Dcr-1, whereas in the RNA interference (RNAi) pathway (left panel) Dcr-2 and R2D2 are important for recruiting the Argonaute (AGO) protein. Once Argonaute is associated with the small RNA duplex, the enzymatic activity conferred by the PIWI domain cleaves only the passenger strand (blue strand) of the small interfering (si)RNA duplex (RNAi pathway). Mismatches found in the microRNA (miRNA) duplex interfere with cleavage, although in some situations, the passenger strand might be cleaved if the RNA duplex is fully paired. RNA strand separation and incorporation into the Argonaute protein are guided by the strength of the base-pairing at the 5′-ends of the duplex; this is known as the asymmetry rule (see Ref. 119 ). In this example, the easiest 5′-end to unwind is highlighted in grey. Once unwound, the siRNA or miRNA will associate with the Argonaute protein (and probably other cellular factors) to form the RNA-induced silencing complex (RISC) or miRISC, respectively. It has recently been demonstrated that the degree of complementarity between the two strands of the intermediate RNA duplex can define how miRNAs are sorted into AGO1 and/or AGO2 proteins in D. melanogaster 52 , 53 (pathway indicated by the diagonal arrows in the centre of the figure). The red oval represents the unidentified 'unwindase' protein. The star represents an endonuclease event.
+Full size image
+
+The processing and loading of regulatory small RNAs onto distinct Argonaute proteins differs between species. For instance, in A. thaliana , different Dicer and Argonaute proteins are responsible for processing and binding distinct small RNA species such as miRNAs, trans -acting small interfering RNAs ( tasiRNAs ) and rasiRNAs (reviewed in Ref. 4 ). In flies, the Dicer protein Dcr-1 and the dsRNA-binding protein Loquacious are required for miRNA biogenesis 47 , 48 , 49 , whereas Dcr-2 and the dsRNA-binding protein R2D2 are responsible for the production of siRNA from long, perfectly paired dsRNA 50 , 51 . Recent studies revealed that the structure of the 'diced' siRNA and miRNA intermediate duplexes determines their partitioning into AGO1 or/and AGO2 complexes in D. melanogaster 52 , 53 , and influences the selection of Argonaute proteins RDE-1, ALG-1 or ALG-2 in C. elegans 54 (G. Jannot, M. E. Boisvert, I. H. Banville and M.J.S., unpublished observations).
+
+In the siRNA pathway, the binding orientation of a heterodimer of Dcr-2 and R2D2 on the siRNA duplex molecule is important for determining which one of the two siRNA strands is loaded into the Argonaute complex 51 . R2D2 will bind to the more stable end, whereas Dcr-2 is recruited to the less stable end ( Fig. 2 ). It is proposed that this complex (called the RISC-loading complex, or RLC) recruits an Argonaute complex, referred to as the holo-RISC, by an interaction between Dcr-2 and AGO2 (Ref. 55 ). Once AGO2 is associated with the siRNA duplex, the Argonaute protein will cleave the non-active siRNA strand (the passenger strand ), and thus initiates unwinding and release to generate the active RISC of Argonaute and the small RNA 35 . The selection of the strand that remains bound to the Argonaute is guided by the thermodynamic stability of the 5′-ends of the small RNA, a phenomenon referred to as the asymmetry rule. The RNA strand of the double-stranded precursor that has the less stable 5′-end will generally be incorporated into the RISC, whereas the other RNA strand will be destroyed 56 , 57 . Although the cellular factor that confers unwinding activity has not yet been uncovered, biochemical studies have clearly demonstrated the essential contribution of Argonaute proteins in this process 51 , 58 .
+
+Argonaute proteins and small regulatory RNAs in nematodes. The discovery of the first Argonaute gene associated with the RNAi response in C. elegans , rde-1 (Ref. 59 ), led to the subsequent discovery of the existence of 26 Argonaute family members in this organism ( Box 1 ). Seminal work to uncover the function of these genes led to the discovery that ALG-1 and ALG-2 are essential for the miRNA pathway 60 . Their loss of function generates problems in the timing of animal development, also called heterochronic phenotypes , which are hallmarks of miRNA defects in C. elegans 61 , 62 . An exhaustive study of the remaining members of the Argonaute family in the nematode demonstrates the importance of these proteins in various RNA silencing pathways 7 ( Table 1 ). Whereas RDE-1 is required only for RNAi mediated by exogenously supplied dsRNA triggers (the exogenous RNAi pathway), ERGO-1 and CSR-1 are essential for RNAi initiated by dsRNA molecules that are generated within the cell (the endogenous RNAi pathway), and yet other Argonautes function in both RNAi pathways 7 .
+
+Interestingly, the Argonaute proteins SAGO-1, SAGO-2, PPW-1, PPW-2, C16C10.3 and F58G1.1, which are important for both exogenous and endogenous RNAi, bind another class of small RNAs — secondary siRNAs ( Fig. 3 ). The production of these RNA species is initiated by the first Argonaute protein (RDE-1, and probably also ERGO-1 and CSR-1) in complex with siRNA, which recognizes the target mRNA and induces the synthesis of an antisense strand by RNA-dependent RNA polymerases ( Fig. 3 ). The sequential requirement of Argonaute proteins seems to be associated with their capacity for RNA cleavage. Sequence alignment in the three regions of Argonaute proteins that have similarity to the catalytic centre of RNase H indicates that the Argonaute proteins that are associated with the trigger-derived siRNAs contain the specific residues for cleavage, whereas others that are associated with the secondary siRNAs lack these residues 7 . Interestingly, it has recently been observed that the amplified siRNAs in C. elegans have two or three phosphate residues at their 5′-ends 63 , 64 , whereas Dicer-derived siRNAs carry a single phosphate 26 , 31 . Therefore, the specific binding of an Argonaute protein to either primary or secondary siRNAs may be guided by the number of phosphates that are found at the 5′-ends of small RNAs, reflecting the machinery that generates these RNA species.
+Figure 3: Roles of the Argonaute complex in miRNA and RNAi pathways.
+figure3
+
+a | MicroRNA (miRNA) pathway. In animals, Argonaute associated with miRNA binds to the 3′-untranslated region (3′-UTR) of mRNA and prevents the production of proteins in different ways. The recruitment of Argonaute proteins to targeted mRNA can induce deadenylation of the polyadenylated 3′-end and induce mRNA degradation. The Argonaute–miRNA complex can also affect the formation of functional ribosomes at the 5′-end of the mRNA by competing with translation initiation factors and/or abrogating ribosome assembly (translation initiation). In addition, the Argonaute–miRNA complex can alter protein production by recruiting cellular factors (peptidases, post-translational modifying enzymes) that will target the degradation of the growing polypeptides (translation elongation). b | RNA interference (RNAi) pathway. Argonaute associated with small interfering (si)RNA forms the active RNA-induced silencing complex (RISC), which can induce endonucleolytic cleavage of targeted mRNA. In plants and Caenorhabditis elegans , RNA-dependent RNA polymerases (RdRPs; yellow) contribute to the maintenance and propagation of the RNAi response throughout the organism. As observed in plants, once de novo double-stranded (ds)RNA duplexes are generated with the target mRNA, an unknown RNase-III-like enzyme produces new siRNAs called secondary siRNAs (left), which are then loaded onto a subclass of Argonautes containing PIWI domains that lack the catalytic amino acid residues (secondary Argonautes), which, in turn, might induce another level of specific gene silencing (for example, heterochromatin formation and transcriptional gene silencing). Alternatively, because a large population of secondary siRNAs isolated in C. elegans begins with the 5′-di- or triphosphate group 63 , 64 , these small RNA species may also be produced by non-processive RdRPs found in nematodes (right). The star represents an endonuclease event.
+Full size image
+
+Biological outcomes
+
+Seminal studies in C. elegans and plants have uncovered the important role carried out by Argonaute proteins in RNA silencing pathways. Subsequent studies in fly and mammalian systems have increased our understanding of the molecular roles of the Argonaute proteins in these biological processes.
+
+Argonautes interfere with translation. One of the most extensively studied functions of Argonautes is their role in regulating miRNA-mediated translational repression. Argonautes were initially believed to only be involved in translational repression; however, a recent study has revealed that Argonautes can be part of a protein complex that enhances translation of a transcript that is regulated by an AU-rich element in serum-starved cells 65 .
+
+In the past two years, the dogma that miRNAs regulate translation at the elongation step without influencing the stability of the target RNA has been challenged 66 . In fact, it seems that Argonautes, in a complex with miRNAs, can influence translation in many distinct ways. Increasing in vitro and in vivo evidence suggests that Argonautes can inhibit the translation of miRNA-targeted RNAs at the initiation step. The studies supporting this mechanism showed that most miRNA-mediated gene regulation requires the presence of the canonical cap and poly(A) tail on the targeted RNA 67 , 68 . Furthermore, tethering translation initiation factors on the miRNA-targeted RNA abrogates miRNA function, and certain internal ribosome entry site elements render the RNA resistant to miRNA-mediated repression 68 , 69 .
+
+According to recent studies, translation initiation can be prevented in at least two distinct ways. In a cell-free extract from flies, miRNA inhibits formation of the translationally active 80S ribosome by inhibiting the assembly of the 43S initiation complex 70 . Argonautes can bind to the cap, potentially through their MC domains, and mutations in this cap-binding domain impair the function of Argonautes in translation repression 27 . Therefore, competition between Argonaute proteins and translation initiation factors for cap binding might explain the inhibition of the assembly of the 43S complex 27 . In addition, miRNA-mediated repression of translation requires eIF6, the anti-dissociation factor that prevents the assembly of 80S ribosomes 71 . Because eIF6 binds to the 60S ribosomal subunit, this type of inhibition of translational initiation is clearly distinct from inhibition of assembly of the 43S initiation complex on the cap. Several lines of evidence also support the notion that, alternatively, miRNAs in complex with Argonautes could inhibit translation after initiation. miRNAs and their targets have been shown to co-sediment with actively translating polyribosomes, which implies that repression occurs after initiation and might result in ribosomes falling off the polypeptide chain or the synthesized polypeptide chain being rapidly degraded 66 , 72 , 73 , 74 , 75 , 76 .
+
+It might seem strange that miRNA-loaded Argonaute proteins can inhibit translation at different stages, but we think it is plausible that these proteins interfere with translation in diverse ways, providing a fail-safe mechanism to reduce or abolish harmful protein expression. But the question that remains is how do Argonaute proteins mediate this process? A clever set of experiments has demonstrated that, in the absence of miRNAs, tethering functional human Argonautes to the target RNA can induce gene silencing 77 . These data indicate that the small RNA molecules in the complex function only as a sequence-specific tag to deposit the machinery on the mRNA. It then becomes important to characterize the proteins that associate with Argonautes and/or miRNA-targeted RNAs to mediate the silencing.
+
+The cap-binding capacity of the Argonautes could explain the inhibition of assembly of the 43S complex, and also clarifies why increasing the number of miRNA-binding sites on a target elicits more prominent regulation — a higher number of Argonaute proteins associated with the target result in a more dramatic cap-binding potential 27 , 28 . However, it is likely that other types of translational interference require additional protein interactors. For instance, in flies, tethering of GW182 (a fly protein that directly interacts with AGO1) to mRNA in an Ago1 -knockdown background recapitulates translational repression. This observation indicates that other events that are downstream of Argonautes might regulate protein synthesis 44 .
+
+By contrast, it has recently been observed that miRNA-mediated gene regulation could be relieved in specific biological conditions. Under specific stress conditions, miRNA-mediated gene repression could be reversed by HuR, a protein that recognizes AU-rich regulatory elements on the miRNA-targeted untranslated region (UTR) 78 , which indicates that miRNA-mediated gene regulation is not irreversible.
+
+Argonautes and RNA stability. Argonaute proteins that are complexed with miRNAs can alter the stability of targeted RNA without initiating sequence-specific cleavage, especially in metazoans, in which the complementarity of most miRNAs to their targets is insufficient to induce endonuclease activity 79 , 80 , 81 , 82 , 83 . There is evidence that this RNA destabilization is independent of translation and requires the canonical cap and poly(A) tail, which suggests that RNA degradation is carried out by the machinery that governs the 5′→3′ decay after deadenylation-dependent decapping 80 , 84 . A comprehensive study in D. melanogaster has shown that miRNA-mediated RNA decay requires GW182, which recruits the CCR4–NOT deadenylase and DCP1–DCP2 decapping complexes, and that these complexes are responsible for the decay of miRNA-targeted transcripts 44 .
+
+The question is whether RNA degradation is a consequence of translational repression or whether they are two independent mechanisms. Increasing evidence indicates that miRNA-mediated target RNA decay and the repression of translation can be uncoupled. For instance, not every miRNA-targeted RNA shows destabilization at the steady-state level 44 , 67 , 68 , 69 , 76 , 78 . Furthermore, it was shown that inhibition of the pathway that degrades the miRNA-targeted transcripts generated more stable RNA but did not relieve translational repression, which strongly supports the idea that the two events are independent of each other 44 . In flies, it was demonstrated that the level of RNA decay could vary in individual miRNA–target-RNA interactions, which suggests that the interaction between a miRNA–protein complex and a specific mRNA can regulate the level of decay 44 . Factors that are suggested to be important are those responsible for regulating the stability and turnover rate of the targeted RNA and/or the miRNA–target complex 44 , 85 . It is likely that additional proteins that are either associated with the core Argonaute–miRNA complex or bound to the targeted RNA could determine the degree of stability of the translationally repressed miRNA targets. Indeed, AU-rich element-binding motifs and proteins have already been demonstrated to interfere with miRNA-mediated gene regulation 65 , 78 , 86 .
+
+Piwi-like proteins and germline maintenance. Piwi-like proteins, which are found in metazoans, are important for the production and function of germline stem cells 3 , 7 , 87 , 88 , 89 , 90 , 91 . These proteins have recently been found to be associated with a new class of small RNAs called the Piwi-interacting (pi)RNAs, which are specifically expressed in germ cells 92 , 93 , 94 , 95 , 96 and are required to silence mobile elements and thereby maintain genome integrity 39 , 97 , 98 , 99 . piRNAs are slightly longer (24–30 nucleotides) than other Argonaute-associated small RNAs, and their production does not require the RNase III protein-family members Drosha and Dicer 97 , 99 . The generation of piRNAs relies instead on the endonuclease activity of Piwi-like proteins ( Box 2 ). It has recently been observed in D. melanogaster that initial cleavage of an AGO3–piRNA precursor complex by a complex comprising the Piwi-like protein Aubergine and piRNA induces the exponential production of piRNAs 38 , 39 . It is still not known how the primary source of piRNAs is generated or how the 3′-end of a piRNA is defined, although recent genetic data from flies suggest that additional endonucleases and exonucleases can participate in these events 100 .
+
+Recent data obtained by Lin, Elgin and colleagues using the fly system have brought new insights into Piwi-like protein functions 101 . They observed that the N-terminal domain of D. melanogaster PIWI can interact with a heterochromatin protein-1a (HP1a) dimer, a non-histone chromosomal protein that has important roles in chromosomal biology and gene silencing (reviewed in Ref. 102 ). HP1a and PIWI co-localize in pericentric heterochromatin regions, and this cellular localization appears to be RNA dependent. More importantly, the authors also demonstrated that the interaction with HP1a is important for PIWI epigenetic function because mutations in the interaction domain that abrogate HP1a binding fail to rescue silencing in PIWI-depleted animals. This new observation provides the first evidence that Piwi-like proteins in metazoans may be implicated in heterochromatin formation in a similar manner to Ago1 in fission yeast, in which the protein targets histone methylation to create binding sites for the HP1 homologue Swi6 (Refs 11 , 103 ).
+
+Additionally, D. melanogaster PIWI can promote the production of piRNAs by increasing the transcription of piRNA loci that are located in subtelomeric regions 104 . Based on these two new studies, we envision that Piwi-like proteins contribute to the initial production of piRNAs and then bind to these newly synthesized small RNAs to silence specific chromosomal regions (that is, pericentromeric regions) through the interaction with HP1. These recent studies are beginning to reveal how Piwi-like proteins may be implicated in germline maintenance by regulating chromosomal states of the stem-cell genome.
+
+Conclusions and future directions
+
+Since the discovery of the first Argonaute gene in A. thaliana only ten years ago, members of this family have rapidly emerged as key components of new gene regulatory pathways that involve small non-coding RNAs. A significant number of recent studies using various biological systems have started to reveal the impressive biological capacities of the Argonaute protein family.
+
+Biochemical studies of Argonaute proteins from different species have provided a better understanding of the molecular features that define the enzymatic activity of the PIWI domain, and have revealed the capacity of the PAZ and Mid domains to interact with small RNA molecules and proteins involved in translation. Model organisms such as A. thaliana , C. elegans and D. melanogaster have helped to uncover the functional diversity of the roles of Argonaute proteins in many developmental cues as well as during cell proliferation and differentiation. Studies performed with model organisms and mammalian cell culture systems have started to shed light on how Argonaute proteins, in association with small non-coding RNA pathways, can control protein production and the stability of targeted mRNAs and even directly contribute to the production of small RNAs.
+
+The challenge for the next few years will be to determine how Argonaute proteins regulate gene function. To enable this, it will be essential to discover their biological partners, understand their tissue and developmental specificities and their capacity to interact precisely with various small RNA species. It will also be interesting to identify additional molecular features of the Argonaute proteins, such as post-translational modifications, that permit the extreme functional diversification that is found in metazoans and especially in the nematode C. elegans .
+Box 1 | The origin of the Argonautes
+
+The term Argonaute was originally used by Bohmert and collaborators to describe a mutant of Arabidopsis thaliana , AGO1 , in which the morphology of the leaves resembled a small squid: the 'greater argonaut' or Argonauta argo 2 .
+
+Genetic studies in Drosophila melanogaster identified piwi (for P-element induced wimpy testis), a gene that is essential for germline stem-cell division 3 . The Piwi box, a 40-amino-acid sequence located in the C terminus of the Piwi protein, is found in the A. thaliana proteins AGO1and ZWILLE, in human protein HIWI and in many Caenorhabditis elegans proteins 90 . The study by Cox et al . 90 led to the first characterization of the PIWI domain. In 2000, the PIWI domain was redefined as a 300-amino-acid region and was demonstrated to be present in prokaryotes 105 . This study also identified a region of similarity between the central portion of the fly Piwi protein, which is common to all Argonautes, and the carpel factory protein from A. thaliana , an important gene for plant development 106 . This 110-amino-acid region was designated the PAZ domain after the three proteins that share this domain: PIWI, AGO1 and ZWILLE.
+
+The figure shows the phylogenetic relationship of the Argonaute proteins. The Argonaute-like group found in plants, animals and fungi is indicated in black. The Argonaute clade in green represents the Piwi-like group. The C. elegans -specific group 3 Argonaute proteins are indicated in red. C. elegans M03D4.6 and C06A1.4 are likely to be pseudogenes. Argonaute genes are also present in prokaryotes (not shown). At, Arabidopsis thaliana ; Ce, Caenorhabditis elegans ; Hs, Homo sapiens ; Sp, Schizosaccharomyces pombe . Figure modified with permission from Ref. 7 © (2006) Elsevier.
+Show more from this box
+Box 2 | Diverse sources of small RNA molecules
+
+MicroRNAs (miRNAs), small interfering (si)RNAs and double-stranded (ds)RNA molecules, when exogenously introduced into cells, can be processed into small RNAs by Dicer, an RNase-III-type enzyme (see figure). Endogenous small RNAs can be generated by different sets of enzymatic activities. Most genes encoding miRNAs are first transcribed by RNA polymerase II (RNA pol II) 107 to produce primary miRNAs (pri-miRNA) (few miRNAs have been reported to be products of RNA polymerase III 108 ). After the precursor miRNA (pre-miRNA) has been trimmed by the RNase III Drosha complex 109 or processed by Dicer in plants (in some cases, intronic miRNAs (miRtrons) in flies and nematodes bypass Drosha 110 , 111 ), the pre-miRNA is exported into the cytoplasm through exportin-5 (Ref. 112 ) to be processed by the Dicer complex 60 , 113 , 114 . Endogenous siRNAs originate from bidirectional transcription of specific chromosomal regions (centromeres and mating type locus) or aberrant production of dsRNA from repetitive regions once cleaved by Dicer. In plants and nematodes, a significant portion of siRNAs is also produced from the activity of RNA-dependent RNA polymerases ( Fig. 3 ).
+
+As shown in Drosophila melanogaster , Piwi-interacting (pi)RNAs are produced by a sequential action of two Piwi-like proteins (see inset). The Argonaute-3 (AGO3) protein binds mainly to piRNAs that are derived from the sense strand of retrotransposons, whereas piRNAs derived from the antisense strand are associated with Aubergine (AUB) protein. Interestingly, the first 10 nucleotides of AGO3-interacting piRNAs can be complementary to the first 10 nucleotides of Aubergine-interacting piRNAs. This observation led to the so-called 'ping-pong' model 38 , 39 , according to which the cleavage induced by the AGO3–piRNA complex specifies the 5′-ends of Aubergine-associated piRNAs. The Aubergine–piRNA complex can then produce the 5′-ends of AGO3-associated piRNAs. Subsequently, a methyl group (Me) is added to their 3′-ends 99 , 115 , 116 by a methyltransferase called Pimet (also known as DmHen1) 117 , 118 . The star represents an endonuclease event.
+Show more from this box
+References
+
+    1
+
+    Moussian, B., Schoof, H., Haecker, A., Jurgens, G. & Laux, T. Role of the ZWILLE gene in the regulation of central shoot meristem cell fate during Arabidopsis embryogenesis. EMBO J. 17 , 1799–1809 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    2
+
+    Bohmert, K. et al. AGO1 defines a novel locus of Arabidopsis controlling leaf development. EMBO J. 17 , 170–180 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    3
+
+    Lin, H. & Spradling, A. C. A novel group of pumilio mutations affects the asymmetric division of germline stem cells in the Drosophila ovary. Development 124 , 2463–2476 (1997). References 1–3 are seminal works that originally described the Argonaute gene family.
+
+    CAS   PubMed   Google Scholar  
+    4
+
+    Dunoyer, P., Himber, C., Ruiz-Ferrer, V., Alioua, A. & Voinnet, O. Intra- and intercellular RNA interference in Arabidopsis thaliana requires components of the microRNA and heterochromatic silencing pathways. Nature Genet. 39 , 848–856 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    5
+
+    Zaratiegui, M., Irvine, D. V. & Martienssen, R. A. Noncoding RNAs and gene silencing. Cell 128 , 763–776 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    6
+
+    Grewal, S. I. & Jia, S. Heterochromatin revisited. Nature Rev. Genet. 8 , 35–46 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    7
+
+    Yigit, E. et al. Analysis of the C. elegans Argonaute family reveals that distinct Argonautes act sequentially during RNAi. Cell 127 , 747–757 (2006). The first exhaustive study of Argonaute genes in C. elegans . Describes a class of Argonaute proteins that do not contain the important amino acids for endonuclease activity but are still important for the RNAi pathway.
+
+    CAS   PubMed   Article   Google Scholar  
+    8
+
+    Cerutti, H. & Casas-Mollano, J. A. On the origin and functions of RNA-mediated silencing: from protists to man. Curr. Genet. 50 , 81–99 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    9
+
+    Ullu, E., Tschudi, C. & Chakraborty, T. RNA interference in protozoan parasites. Cell. Microbiol. 6 , 509–519 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    10
+
+    Hall, I. M. et al. Establishment and maintenance of a heterochromatin domain. Science 297 , 2232–2237 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+    11
+
+    Volpe, T. A. et al. Regulation of heterochromatic silencing and histone H3 lysine-9 methylation by RNAi. Science 297 , 1833–1837 (2002).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    12
+
+    Sigova, A., Rhind, N. & Zamore, P. D. A single Argonaute protein mediates both transcriptional and posttranscriptional silencing in Schizosaccharomyces pombe . Genes Dev. 18 , 2359–2367 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    13
+
+    Yuan, Y. R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    14
+
+    Ma, J. B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A. fulgidus Piwi protein. Nature 434 , 666–670 (2005). Describes the crystal structure of a PIWI domain in complex with RNA.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    15
+
+    Song, J. J. et al. The crystal structure of the Argonaute2 PAZ domain reveals an RNA binding motif in RNAi effector complexes. Nature Struct. Biol. 10 , 1026–1032 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+    16
+
+    Yan, K. S. et al. Structure and conserved RNA binding of the PAZ domain. Nature 426 , 468–474 (2003).
+
+    PubMed   Article   CAS   Google Scholar  
+    17
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Structure and nucleic-acid binding of the Drosophila Argonaute 2 PAZ domain. Nature 426 , 465–469 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+    18
+
+    Ma, J. B., Ye, K. & Patel, D. J. Structural basis for overhang-specific small interfering RNA recognition by the PAZ domain. Nature 429 , 318–322 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    19
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 PAZ domain. Nature Struct. Mol. Biol. 11 , 576–577 (2004). References 18 and 19 report the crystal structure of the PAZ domain in complex with nucleic acids (reference 19) and mini-siRNA (reference 18).
+
+    CAS   Article   Google Scholar  
+    20
+
+    Parker, J. S., Roe, S. M. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    21
+
+    Song, J. J., Smith, S. K., Hannon, G. J. & Joshua-Tor, L. Crystal structure of Argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004). The first crystal structure of a complete Argonaute protein, revealing its function as the catalytic component of RISC.
+
+    CAS   PubMed   Article   Google Scholar  
+    22
+
+    Tolia, N. H. & Joshua-Tor, L. Slicer and the argonautes. Nature Chem. Biol. 3 , 36–43 (2007).
+
+    CAS   Article   Google Scholar  
+    23
+
+    Martinez, J. & Tuschl, T. RISC is a 5′ phosphomonoester-producing RNA endonuclease. Genes Dev. 18 , 975–980 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    24
+
+    Schwarz, D. S., Tomari, Y. & Zamore, P. D. The RNA-induced silencing complex is a Mg 2+ -dependent endonuclease. Curr. Biol. 14 , 787–791 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    25
+
+    Parker, J. S., Roe, S. M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005). Describes the crystal structure of a PIWI domain in complex with RNA.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    26
+
+    Nykanen, A., Haley, B. & Zamore, P. D. ATP requirements and small interfering RNA structure in the RNA interference pathway. Cell 107 , 309–321 (2001).
+
+    CAS   PubMed   Article   Google Scholar  
+    27
+
+    Kiriakidou, M. et al. An mRNA m(7)G cap binding-like motif within human Ago2 represses translation. Cell 129 , 1141–1151 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    28
+
+    Doench, J. G. & Sharp, P. A. Specificity of microRNA target selection in translational repression. Genes Dev. 18 , 504–511 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    29
+
+    Haley, B. & Zamore, P. D. Kinetic analysis of the RNAi enzyme complex. Nature Struct. Mol. Biol. 11 , 599–606 (2004).
+
+    CAS   Article   Google Scholar  
+    30
+
+    Lewis, B. P., Shih, I. H., Jones-Rhoades, M. W., Bartel, D. P. & Burge, C. B. Prediction of mammalian microRNA targets. Cell 115 , 787–798 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    31
+
+    Elbashir, S. M., Lendeckel, W. & Tuschl, T. RNA interference is mediated by 21- and 22-nucleotide RNAs. Genes Dev. 15 , 188–200 (2001).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    32
+
+    Miyoshi, K., Tsukumo, H., Nagami, T., Siomi, H. & Siomi, M. C. Slicer function of Drosophila Argonautes and its involvement in RISC formation. Genes Dev. 19 , 2837–2848 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    33
+
+    Rivas, F. V. et al. Purified Argonaute2 and an siRNA form recombinant human RISC. Nature Struct. Mol. Biol. 12 , 340–349 (2005). References 32 and 33 describe the minimal RISC: a recombinant Argonaute (human AGO2) associated with siRNA is sufficient for slicer activity.
+
+    CAS   Article   Google Scholar  
+    34
+
+    Irvine, D. V. et al. Argonaute slicing is required for heterochromatic silencing and spreading. Science 313 , 1134–1137 (2006).
+
+    CAS   PubMed   Article   PubMed Central   Google Scholar  
+    35
+
+    Matranga, C., Tomari, Y., Shin, C., Bartel, D. P. & Zamore, P. D. Passenger-strand cleavage facilitates assembly of siRNA into Ago2-containing RNAi enzyme complexes. Cell 123 , 607–620 (2005). Together with reference 32, describes the contribution of the enzymatic function of Argonaute in the assembly of RISC by cleaving the passenger strand of the siRNA duplex.
+
+    CAS   PubMed   Article   PubMed Central   Google Scholar  
+    36
+
+    Leuschner, P. J., Ameres, S. L., Kueng, S. & Martinez, J. Cleavage of the siRNA passenger strand during RISC assembly in human cells. EMBO Rep. 7 , 314–320 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    37
+
+    Hutvágner, G. & Zamore, P. D. A microRNA in a multiple-turnover RNAi enzyme complex. Science 297 , 2056–2060 (2002).
+
+    PubMed   Article   CAS   PubMed Central   Google Scholar  
+    38
+
+    Gunawardane, L. S. et al. A slicer-mediated mechanism for repeat-associated siRNA 5′ end formation in Drosophila . Science 315 , 1587–1590 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    39
+
+    Brennecke, J. et al. Discrete small RNA-generating loci as master regulators of transposon activity in Drosophila . Cell 128 , 1089–1103 (2007).
+
+    CAS   Article   Google Scholar  
+    40
+
+    Meister, G. et al. Human Argonaute2 mediates RNA cleavage targeted by miRNAs and siRNAs. Mol. Cell 15 , 185–197 (2004). This study, together with reference 41, clearly links the slicing activity to Argonautes. It demonstrates that human AGO2 is the only Argonaute in human carrying the nuclease activity, whereas AGO1–AGO4 can bind miRNAs.
+
+    CAS   PubMed   Article   Google Scholar  
+    41
+
+    Liu, J. et al. Argonaute2 is the catalytic engine of mammalian RNAi. Science 305 , 1437–1441 (2004). Demonstrates that disruption of specific amino acids found in the cryptic ribonuclease H domain abrogates RISC activity. Also shows that AGO2 is essential for mouse development.
+
+    CAS   Article   Google Scholar  
+    42
+
+    Höck, J. et al. Proteomic and functional analysis of Argonaute-containing mRNA–protein complexes in human cells. EMBO Rep. 8 , 1052–1060 (2007).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+    43
+
+    Tahbaz, N. et al. Characterization of the interactions between mammalian PAZ PIWI domain proteins and Dicer. EMBO Rep. 5 , 189–194 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    44
+
+    Behm-Ansmant, I. et al. mRNA degradation by miRNAs and GW182 requires both CCR4:NOT deadenylase and DCP1:DCP2 decapping complexes. Genes Dev. 20 , 1885–1898 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    45
+
+    Till, S. et al. A conserved motif in Argonaute-interacting proteins mediates functional interactions through the Argonaute PIWI domain. Nature Struct. Mol. Biol. 14 , 897–903 (2007).
+
+    CAS   Article   Google Scholar  
+    46
+
+    El-Shami, M. et al. Reiterated WG/GW motifs form functionally and evolutionarily conserved ARGONAUTE-binding platforms in RNAi-related components. Genes Dev. 21 , 2539–2544 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    47
+
+    Forstemann, K. et al. Normal microRNA maturation and germ-line stem cell maintenance requires Loquacious, a double-stranded RNA-binding domain protein. PLoS Biol. 3 , e236 (2005).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+    48
+
+    Saito, K., Ishizuka, A., Siomi, H. & Siomi, M. C. Processing of pre-microRNAs by the Dicer-1–Loquacious complex in Drosophila cells. PLoS Biol. 3 , e235 (2005).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+    49
+
+    Jiang, F. et al. Dicer-1 and R3D1-L catalyze microRNA maturation in Drosophila . Genes Dev. 19 , 1674–1679 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    50
+
+    Liu, Q. et al. R2D2, a bridge between the initiation and effector steps of the Drosophila RNAi pathway. Science 301 , 1921–1925 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+    51
+
+    Tomari, Y., Matranga, C., Haley, B., Martinez, N. & Zamore, P. D. A protein sensor for siRNA asymmetry. Science 306 , 1377–1380 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    52
+
+    Forstemann, K., Horwich, M. D., Wee, L., Tomari, Y. & Zamore, P. D. Drosophila microRNAs are sorted into functionally distinct Argonaute complexes after production by Dicer-1. Cell 130 , 287–297 (2007).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+    53
+
+    Tomari, Y., Du, T. & Zamore, P. D. Sorting of Drosophila small silencing RNAs. Cell 130 , 299–308 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    54
+
+    Steiner, F. A. et al. Structural features of small RNA precursors determine Argonaute loading in Caenorhabditis elegans . Nature Struct. Mol. Biol. 14 , 927–933 (2007).
+
+    CAS   Article   Google Scholar  
+    55
+
+    Tomari, Y. & Zamore, P. D. Perspective: machines for RNAi. Genes Dev. 19 , 517–529 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+    56
+
+    Schwarz, D. S. et al. Asymmetry in the assembly of the RNAi enzyme complex. Cell 115 , 199–208 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    57
+
+    Khvorova, A., Reynolds, A. & Jayasena, S. D. Functional siRNAs and miRNAs exhibit strand bias. Cell 115 , 209–216 (2003).
+
+    CAS   Article   Google Scholar  
+    58
+
+    Okamura, K., Ishizuka, A., Siomi, H. & Siomi, M. C. Distinct roles for Argonaute proteins in small RNA-directed RNA cleavage pathways. Genes Dev. 18 , 1655–1666 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    59
+
+    Tabara, H. et al. The rde-1 gene, RNA interference, and transposon silencing in C. elegans . Cell 99 , 123–132 (1999). The first report that associated an Argonaute gene with a small non-coding RNA pathway, RNAi.
+
+    CAS   PubMed   Article   Google Scholar  
+    60
+
+    Grishok, A. et al. Genes and mechanisms related to RNA interference regulate expression of the small temporal RNAs that control C. elegans developmental timing. Cell 106 , 23–34 (2001). Identifies the first Argonaute genes that are required for the microRNA pathway.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    61
+
+    Reinhart, B. J. et al. The 21-nucleotide let-7 RNA regulates developmental timing in Caenorhabditis elegans . Nature 403 , 901–906 (2000).
+
+    CAS   Article   Google Scholar  
+    62
+
+    Lee, R. C., Feinbaum, R. L. & Ambros, V. The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14 . Cell 75 , 843–854 (1993).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    63
+
+    Sijen, T., Steiner, F. A., Thijssen, K. L. & Plasterk, R. H. Secondary siRNAs result from unprimed RNA synthesis and form a distinct class. Science 315 , 244–247 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    64
+
+    Pak, J. & Fire, A. Distinct populations of primary and secondary effectors during RNAi in C. elegans . Science 315 , 241–244 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    65
+
+    Vasudevan, S. & Steitz, J. A. AU-rich-element-mediated upregulation of translation by FXR1 and Argonaute 2. Cell 128 , 1105–1118 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    66
+
+    Olsen, P. H. & Ambros, V. The lin-4 regulatory RNA controls developmental timing in Caenorhabditis elegans by blocking LIN-14 protein synthesis after the initiation of translation. Dev. Biol. 216 , 671–680 (1999).
+
+    CAS   Article   Google Scholar  
+    67
+
+    Wang, B., Love, T. M., Call, M. E., Doench, J. G. & Novina, C. D. Recapitulation of short RNA-directed translational gene silencing in vitro . Mol. Cell 22 , 553–560 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+    68
+
+    Humphreys, D. T., Westman, B. J., Martin, D. I. & Preiss, T. MicroRNAs control translation initiation by inhibiting eukaryotic initiation factor 4E/cap and poly(A) tail function. Proc. Natl Acad. Sci. USA 102 , 16961–16966 (2005).
+
+    CAS   Article   Google Scholar  
+    69
+
+    Pillai, R. S. et al. Inhibition of translational initiation by Let-7 microRNA in human cells. Science 309 , 1573–1576 (2005). Demonstrates that tethering Argonaute proteins to the 3′-UTR region of a mRNA can mimic miRNA translational inhibition, suggesting that miRNAs function to guide Argonautes to mRNAs.
+
+    CAS   Article   Google Scholar  
+    70
+
+    Thermann, R. & Hentze, M. W. Drosophila miR2 induces pseudo-polysomes and inhibits translation initiation. Nature 447 , 875–878 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    71
+
+    Chendrimada, T. P. et al. MicroRNA silencing through RISC recruitment of eIF6. Nature 447 , 823–828 (2007).
+
+    CAS   Article   Google Scholar  
+    72
+
+    Kim, J. et al. Identification of many microRNAs that copurify with polyribosomes in mammalian neurons. Proc. Natl Acad. Sci. USA 101 , 360–365 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    73
+
+    Nelson, P. T., Hatzigeorgiou, A. G. & Mourelatos, Z. miRNP: mRNA association in polyribosomes in a human neuronal cell line. RNA 10 , 387–394 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    74
+
+    Nottrott, S., Simard, M. J. & Richter, J. D. Human let-7a miRNA blocks protein production on actively translating polyribosomes. Nature Struct. Mol. Biol. 13 , 1108–1114 (2006).
+
+    CAS   Article   Google Scholar  
+    75
+
+    Maroney, P. A., Yu, Y., Fisher, J. & Nilsen, T. W. Evidence that microRNAs are associated with translating messenger RNAs in human cells. Nature Struct. Mol. Biol. 13 , 1102–1107 (2006).
+
+    CAS   Article   Google Scholar  
+    76
+
+    Petersen, C. P., Bordeleau, M. E., Pelletier, J. & Sharp, P. A. Short RNAs repress translation after initiation in mammalian cells. Mol. Cell 21 , 533–542 (2006).
+
+    CAS   Article   Google Scholar  
+    77
+
+    Pillai, R. S., Artus, C. G. & Filipowicz, W. Tethering of human Ago proteins to mRNA mimics the miRNA-mediated repression of protein synthesis. RNA 10 , 1518–1525 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    78
+
+    Bhattacharyya, S. N., Habermacher, R., Martine, U., Closs, E. I. & Filipowicz, W. Relief of microRNA-mediated translational repression in human cells subjected to stress. Cell 125 , 1111–1124 (2006).
+
+    CAS   Article   Google Scholar  
+    79
+
+    Rehwinkel, J. et al. Genome-wide analysis of mRNAs regulated by Drosha and Argonaute proteins in Drosophila melanogaster . Mol. Cell. Biol. 26 , 2965–2975 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    80
+
+    Giraldez, A. J. et al. Zebrafish MiR-430 promotes deadenylation and clearance of maternal mRNAs. Science 312 , 75–79 (2006).
+
+    CAS   Article   Google Scholar  
+    81
+
+    Lim, L. P. et al. Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs. Nature 433 , 769–773 (2005).
+
+    CAS   Article   Google Scholar  
+    82
+
+    Farh, K. K. et al. The widespread impact of mammalian microRNAs on mRNA repression and evolution. Science 310 , 1817–1821 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+    83
+
+    Bagga, S. et al. Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation. Cell 122 , 553–563 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+    84
+
+    Wu, L., Fan, J. & Belasco, J. G. MicroRNAs direct rapid deadenylation of mRNA. Proc. Natl Acad. Sci. USA 103 , 4034–4039 (2006).
+
+    CAS   Article   Google Scholar  
+    85
+
+    Valencia-Sanchez, M. A., Liu, J., Hannon, G. J. & Parker, R. Control of translation and mRNA degradation by miRNAs and siRNAs. Genes Dev. 20 , 515–524 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+    86
+
+    Jing, Q. et al. Involvement of microRNA in AU-rich element-mediated mRNA instability. Cell 120 , 623–634 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+    87
+
+    Kuramochi-Miyagawa, S. et al. Mili, a mammalian member of Piwi family gene, is essential for spermatogenesis. Development 131 , 839–849 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    88
+
+    Deng, W. & Lin, H. Miwi, a murine homolog of Piwi, encodes a cytoplasmic protein essential for spermatogenesis. Dev. Cell 2 , 819–830 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+    89
+
+    Cox, D. N., Chao, A. & Lin, H. Piwi encodes a nucleoplasmic factor whose activity modulates the number and division rate of germline stem cells. Development 127 , 503–514 (2000).
+
+    CAS   PubMed   Google Scholar  
+    90
+
+    Cox, D. N. et al. A novel class of evolutionarily conserved genes defined by Piwi are essential for stem cell self-renewal. Genes Dev. 12 , 3715–3727 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    91
+
+    Carmell, M. A. et al. MIWI2 is essential for spermatogenesis and repression of transposons in the mouse male germline. Dev. Cell 12 , 503–514 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    92
+
+    Grivna, S. T., Beyret, E., Wang, Z. & Lin, H. A novel class of small RNAs in mouse spermatogenic cells. Genes Dev. 20 , 1709–1714 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    93
+
+    Watanabe, T. et al. Identification and characterization of two novel classes of small RNAs in the mouse germline: retrotransposon-derived siRNAs in oocytes and germline small RNAs in testes. Genes Dev. 20 , 1732–1743 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    94
+
+    Lau, N. C. et al. Characterization of the piRNA complex from rat testes. Science 313 , 363–367 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+    95
+
+    Girard, A., Sachidanandam, R., Hannon, G. J. & Carmell, M. A. A germline-specific class of small RNAs binds mammalian Piwi proteins. Nature 442 , 199–202 (2006).
+
+    Article   Google Scholar  
+    96
+
+    Aravin, A. et al. A novel class of small RNAs bind to MILI protein in mouse testes. Nature 442 , 203–207 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+    97
+
+    Vagin, V. V. et al. A distinct small RNA pathway silences selfish genetic elements in the germline. Science 313 , 320–324 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    98
+
+    Saito, K. et al. Specific association of Piwi with rasiRNAs derived from retrotransposon and heterochromatic regions in the Drosophila genome. Genes Dev. 20 , 2214–2222 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    99
+
+    Houwing, S. et al. A role for Piwi and piRNAs in germ cell maintenance and transposon silencing in zebrafish. Cell 129 , 69–82 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    100
+
+    Pane, A., Wehr, K. & Schupbach, T. Zucchini and Squash encode two putative nucleases required for rasiRNA production in the Drosophila germline. Dev. Cell 12 , 851–862 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    101
+
+    Brower-Toland, B. et al. Drosophila PIWI associates with chromatin and interacts directly with HP1a. Genes Dev. 21 , 2300–2311 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    102
+
+    Hiragami, K. & Festenstein, R. Heterochromatin protein 1: a pervasive controlling influence. Cell. Mol. Life Sci. 62 , 2711–2726 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+    103
+
+    Noma, K. et al. RITS acts in cis to promote RNA interference-mediated transcriptional and post-transcriptional silencing. Nature Genet. 36 , 1174–1180 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    104
+
+    Yin, H. & Lin, H. An epigenetic activation role of Piwi and a Piwi-associated piRNA in Drosophila melanogaster . Nature 450 , 304–308 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    105
+
+    Cerutti, L., Mian, N. & Bateman, A. Domains in gene silencing and cell differentiation proteins: the novel PAZ domain and redefinition of the Piwi domain. Trends Biochem. Sci. 25 , 481–482 (2000).
+
+    CAS   PubMed   Article   Google Scholar  
+    106
+
+    Jacobsen, S. E., Running, M. P. & Meyerowitz, E. M. Disruption of an RNA helicase/RNAse III gene in Arabidopsis causes unregulated cell division in floral meristems. Development 126 , 5231–5243 (1999).
+
+    CAS   PubMed   Google Scholar  
+    107
+
+    Lee, Y. et al. MicroRNA genes are transcribed by RNA polymerase II. EMBO J. 23 , 4051–4060 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    108
+
+    Borchert, G. M., Lanier, W. & Davidson, B. L. RNA polymerase III transcribes human microRNAs. Nature Struct. Mol. Biol. 13 , 1097–1101 (2006).
+
+    CAS   Article   Google Scholar  
+    109
+
+    Lee, Y. et al. The nuclear RNase III Drosha initiates microRNA processing. Nature 425 , 415–419 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    110
+
+    Okamura, K., Hagen, J. W., Duan, H., Tyler, D. M. & Lai, E. C. The mirtron pathway generates microRNA-class regulatory RNAs in Drosophila . Cell 130 , 89–100 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    111
+
+    Ruby, J. G., Jan, C. H. & Bartel, D. P. Intronic microRNA precursors that bypass Drosha processing. Nature 448 , 83–86 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    112
+
+    Yi, R., Qin, Y., Macara, I. G. & Cullen, B. R. Exportin-5 mediates the nuclear export of pre-microRNAs and short hairpin RNAs. Genes Dev. 17 , 3011–3016 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    113
+
+    Ketting, R. F. et al. Dicer functions in RNA interference and in synthesis of small RNA involved in developmental timing in C. elegans . Genes Dev. 15 , 2654–2659 (2001).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    114
+
+    Hutvágner, G. et al. A cellular function for the RNA-interference enzyme Dicer in the maturation of the let-7 small temporal RNA. Science 293 , 834–838 (2001).
+
+    PubMed   Article   Google Scholar  
+    115
+
+    Kirino, Y. & Mourelatos, Z. Mouse Piwi-interacting RNAs are 2′-O-methylated at their 3′ termini. Nature Struct. Mol. Biol. 14 , 347–348 (2007).
+
+    CAS   Article   Google Scholar  
+    116
+
+    Ohara, T. et al. The 3′ termini of mouse Piwi-interacting RNAs are 2′-O-methylated. Nature Struct. Mol. Biol. 14 , 349–350 (2007).
+
+    CAS   Article   Google Scholar  
+    117
+
+    Saito, K. et al. Pimet, the Drosophila homolog of HEN1, mediates 2′-O-methylation of Piwi- interacting RNAs at their 3′ ends. Genes Dev. 21 , 1603–1608 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    118
+
+    Horwich, M. D. et al. The Drosophila RNA methyltransferase, DmHen1, modifies germline piRNAs and single-stranded siRNAs in RISC. Curr. Biol. 17 , 1265–1272 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+    119
+
+    Mathews, D. H., Sabina, J., Zuker, M. & Turner, D. H. Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure. J. Mol. Biol. 288 , 911–940 (1999).
+
+    CAS   PubMed   Article   Google Scholar  
+    120
+
+    Cogoni, C. & Macino, G. Isolation of quelling-defective (qde) mutants impaired in posttranscriptional transgene-induced gene silencing in Neurospora crassa . Proc. Natl Acad. Sci. USA 94 , 10233–10238 (1997).
+
+    CAS   PubMed   Article   Google Scholar  
+    121
+
+    Catalanotto, C., Azzalin, G., Macino, G. & Cogoni, C. Gene silencing in worms and fungi. Nature 404 , 245 (2000).
+
+    CAS   PubMed   Article   Google Scholar  
+    122
+
+    Lee, D. W., Pratt, R. J., McLaughlin, M. & Aramayo, R. An Argonaute-like protein is required for meiotic silencing. Genetics 164 , 821–828 (2003).
+
+    CAS   PubMed   PubMed Central   Google Scholar  
+    123
+
+    Verdel, A. et al. RNAi-mediated targeting of heterochromatin by the RITS complex. Science 303 , 672–676 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    124
+
+    Mochizuki, K., Fine, N. A., Fujisawa, T. & Gorovsky, M. A. Analysis of a Piwi-related gene implicates small RNAs in genome rearrangement in Tetrahymena . Cell 110 , 689–699 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+    125
+
+    Vazquez, F. et al. Endogenous trans-acting siRNAs regulate the accumulation of Arabidopsis mRNAs. Mol. Cell 16 , 69–79 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+    126
+
+    Vaucheret, H., Vazquez, F., Crete, P. & Bartel, D. P. The action of ARGONAUTE1 in the miRNA pathway and its regulation by the miRNA pathway are crucial for plant development. Genes Dev. 18 , 1187–1197 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    127
+
+    Zilberman, D., Cao, X. & Jacobsen, S. E. ARGONAUTE4 control of locus-specific siRNA accumulation and DNA and histone methylation. Science 299 , 716–719 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+    128
+
+    Zheng, X., Zhu, J., Kapoor, A. & Zhu, J. K. Role of Arabidopsis AGO6 in siRNA accumulation, DNA methylation and transcriptional gene silencing. EMBO J. 26 , 1691–1701 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    129
+
+    Hunter, C., Sun, H. & Poethig, R. S. The Arabidopsis heterochronic gene ZIPPY is an ARGONAUTE family member. Curr. Biol. 13 , 1734–1739 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+    130
+
+    Grishok, A., Sinskey, J. L. & Sharp, P. A. Transcriptional silencing of a transgene by RNAi in the soma of C. elegans . Genes Dev. 19 , 683–696 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    131
+
+    Tijsterman, M., Okihara, K. L., Thijssen, K. & Plasterk, R. H. PPW-1, a PAZ/PIWI protein required for efficient germline RNAi, is defective in a natural isolate of C. elegans . Curr. Biol. 12 , 1535–1540 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+    132
+
+    Hammond, S. M., Boettcher, S., Caudy, A. A., Kobayashi, R. & Hannon, G. J. Argonaute2, a link between genetic and biochemical analyses of RNAi. Science 293 , 1146–1150 (2001). Reports the purification of the RNAi effector nuclease previously described in 2000, revealing Argonaute-2 in the complex.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+    133
+
+    Janowski, B. A. et al. Involvement of AGO1 and AGO2 in mammalian transcriptional silencing. Nature Struct. Mol. Biol. 13 , 787–792 (2006).
+
+    CAS   Article   Google Scholar  
+    134
+
+    Kim, D. H., Villeneuve, L. M., Morris, K. V. & Rossi, J. J. Argonaute-1 directs siRNA-mediated transcriptional gene silencing in human cells. Nature Struct. Mol. Biol. 13 , 793–797 (2006).
+
+    CAS   Article   Google Scholar  
+
+Download references
+Acknowledgements
+
+We are grateful to J.-Y. Masson, S. Arthur and members of our laboratories for comments on the manuscript. We would also like to thank L. Joshua-Tor for kindly providing us with the crystal structure of Argonaute protein from Pyrococcus furiosus . G.H. is funded by The Wellcome Trust and European Framework 6 SIROCCO consortium, and M.J.S. receives funding from the Canadian Institutes of Health Research (CIHR) and the Natural Sciences and Engineering Research Council of Canada. G.H. is a Wellcome Trust Career Development fellow and M.J.S. is a CIHR New Investigator.
+Author information
+Affiliations
+
+    Wellcome Trust Centre for Gene Regulation and Expression, College of Life Sciences, University of Dundee, Dundee, DD1 5EH, UK
+
+    Gyorgy Hutvagner
+
+    Laval University Cancer Research Centre, Hôtel-Dieu de Québec (CHUQ), Quebec City, G1R 2J6, Québec, Canada
+
+    Martin J. Simard
+
+Authors
+
+    Gyorgy Hutvagner
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+    Martin J. Simard
+    View author publications
+
+    You can also search for this author in PubMed   Google Scholar
+
+Related links
+Related links
+DATABASES
+WormBase
+
+rde-1
+FURTHER INFORMATION
+
+Gyorgy Hutvagner's homepage
+
+Martin J. Simard's homepage
+Glossary
+
+RNA interference
+
+    (RNAi). A process by which double-stranded RNA specifically silences the expression of homologous genes through degradation of their cognate mRNA.
+microRNA
+
+    (miRNA). A non-coding RNA of 21–24 nucleotides, which is processed from an endogenous ∼ 70-nucleotide hairpin RNA precursor by the RNase-III-type Dicer enzyme. miRNAs are evolutionarily conserved molecules and are thought to have important functions in various biological mechanisms.
+Paralogous
+
+    The quality of having sequence similarity as a result of gene duplication events that occurred in the same genome. By contrast, orthologous genes or proteins have sequence similarity as a result of gene duplication events that occurred in a different genome.
+PAZ domain
+
+    A conserved nucleic-acid-binding structure that is found in members of the Dicer and Argonaute protein families.
+PIWI domain
+
+    A conserved structure that is found in members of the Argonaute protein family. It is structurally similar to ribonuclease H domains and, in at least some cases, has endoribonuclease activity.
+RNase H
+
+    A class of RNA endonucleases that cleave the RNA strand of a DNA–RNA duplex. Argonaute and Piwi proteins share similar catalytic domain structure and activity with RNase H enzymes but are mostly active on RNA–RNA hybrids.
+Dicer
+
+    The ribonuclease of the RNase III family that cleaves miRNA precursor (pre-miRNA) and double-stranded RNA molecules into 21–25-nucleotide-long double-stranded RNA with a two-base overhang on the 3′-ends.
+OB fold
+
+    A common protein domain that is involved in binding nucleic acids.
+Small interfering RNA
+
+    (siRNA). A short RNA ( ∼ 22 nucleotides) that is processed from longer double-stranded RNA during RNAi. These short RNAs hybridize with mRNA targets and confer target specificity to the silencing complexes in which they reside.
+Drosha
+
+    The RNase III enzyme that is implicated in processing newly transcribed primary miRNA in the nucleus. Drosha cleavage determines the 5′- and 3′-ends of the Dicer substrate (precursor miRNA (pre-miRNA)).
+Cap structure
+
+    A structure consisting of m7GpppN (in which m7G represents 7-methylguanylate, p represents a phosphate group and N represents any base) that is located at the 5′-end of eukaryotic mRNAs.
+RNA-induced silencing complex
+
+    (RISC). A multicomponent gene regulatory complex, activated by a small RNA associated with an Argonaute protein, that regulates gene expression mediated by the sequence complementarity between the small RNA and the target mRNA.
+rasiRNA
+
+    Repeat-associated small interfering RNA that is derived from highly repetitive genomic loci. rasiRNA is involved in heterochromatin silencing in yeast and plants and stellate silencing in D. melanogaster . Metazoan rasiRNAs have similarities to piRNAs because the processing of both classes of small RNAs is independent of Dicer and Drosha.
+Piwi-interacting RNAs
+
+    (piRNAs). Small ∼ 31-nucleotide-long RNAs that are processed in a Dicer- and Drosha-independent manner. They associate with Piwi proteins and have a role in transposon silencing in flies. In mammals, they are restricted mostly to male germ cells.
+Active strand
+
+    The strand of a duplex siRNA or miRNA intermediate that is selected and incorporated into the RISC.
+PIWI box
+
+    A 40-amino-acid sequence that is located in the C terminus of Piwi-like proteins.
+Cytoplasmic processing bodies
+
+    (P bodies). Cytoplasmic foci that were first detected by immunostaining with the GW182 antibody. They probably represent protein–RNA aggregates that degrade RNAs by deadenylation and decapping. They also accommodate Argonaute-bound miRNAs and miRNA-targeted RNAs. Cytoplasmic bodies do not form without miRNAs; however, disruption of the P bodies does not affect miRNA-mediated gene regulation.
+tasiRNA
+
+    Trans -acting small interfering RNAs are plant-specific small RNAs and their maturation involves miRNAs. An Argonaute–miRNA complex cleaves the single-stranded primary transcript, which is further amplified by RNA-dependent RNA polymerases, followed by Dicer-mediated processing of de novo dsRNA molecules. The generated siRNAs are then incorporated into Argonaute complexes and regulate gene expression by cleaving the target RNA.
+Passenger strand
+
+    The strand of a duplex siRNA or miRNA that is not incorporated into the RISC and is eventually degraded.
+Heterochronic phenotypes
+
+    Observable characteristics that are related to a specific defect in the developmental timing (that is, larvae that display adult characteristics or an adult animal with larval features).
+Exogenous RNAi
+
+    A silencing response mediated by exogenous experimentally delivered double-stranded RNA molecules.
+Endogenous RNAi
+
+    An RNAi response initiated by endogenous double-stranded RNA triggers that are derived from bidirectional transcription of specific loci, or aberrant RNA generated from centromeric regions, transposons and transgenes.
+Poly(A) tail
+
+    A homopolymeric stretch of usually 25–200 adenine nucleotides that is present at the 3′-end of most eukaryotic mRNAs.
+Deadenylation-dependent decapping
+
+    Cytoplasmic RNA degradation that starts with the depletion of the poly(A) tail of a mRNA followed by removal of the cap by decapping enzymes. The decapped RNA is degraded by 5′→3′ exonucleases.
+Mobile elements
+
+    Also known as transposable elements. DNA sequences in the genome that replicate and insert themselves into various positions in the genome.
+
+Rights and permissions
+
+Reprints and Permissions
+About this article
+Cite this article
+
+Hutvagner, G., Simard, M. Argonaute proteins: key players in RNA silencing. Nat Rev Mol Cell Biol 9, 22–32 (2008). https://doi.org/10.1038/nrm2321
+
+Download citation
+
+    Issue Date : January 2008
+
+    DOI : https://doi.org/10.1038/nrm2321
+
+Share this article
+
+Anyone you share the following link with will be able to read this content:
+Get shareable link
+
+Sorry, a shareable link is not currently available for this article.
+
+Copy to clipboard
+
+Provided by the Springer Nature SharedIt content-sharing initiative
+Further reading
+
+    A Tudor domain protein, SIMR-1, promotes siRNA production at piRNA-targeted mRNAs in C. elegans
+        Kevin I Manage
+        , Alicia K Rogers
+        , Dylan C Wallis
+        , Celja J Uebel
+        , Dorian C Anderson
+        , Dieu An H Nguyen
+        , Katerina Arca
+        , Kristen C Brown
+        , Ricardo J Cordeiro Rodrigues
+        , Bruno F M de Albuquerque
+        , Rene F Ketting
+        […]
+        , Taiowa A Montgomery
+         &  Carolyn Marie Phillips
+        -Show fewer authors
+
+    eLife (2020)
+    The lifestyle transition of Arthrobotrys oligospora is mediated by microRNA-like RNAs
+        Xinglai Ji
+        , Heng Li
+        , Weihua Zhang
+        , Jiai Wang
+        , Lianming Liang
+        , Chenggang Zou
+        , Zefen Yu
+        […]
+        , Shuqun Liu
+         &  Ke-Qin Zhang
+        -Show fewer authors
+
+    Science China Life Sciences (2020)
+    Transcriptional adaptation in Caenorhabditis elegans
+        Vahan Serobyan
+        , Zacharias Kontarakis
+        , Mohamed A El-Brolosy
+        , Jordan M Welker
+        , Oleg Tolstenkov
+        , Amr M Saadeldein
+        , Nicholas Retzer
+        , Alexander Gottschalk
+        […]
+        , Ann M Wehman
+         &  Didier YR Stainier
+        -Show fewer authors
+
+    eLife (2020)
+    The potential of engineered eukaryotic RNA‐binding proteins as molecular tools and therapeutics
+        Carl R. Shotwell
+        , John D. Cleary
+         &  J. Andrew Berglund
+
+    WIREs RNA (2020)
+    Sequestosome 1 (p62) accumulation in breast cancer cells suppresses progesterone receptor expression via argonaute 2
+        Ayuka Yokota
+        , Masaki Hiramoto
+        , Hirotsugu Hino
+        , Mayumi Tokuhisa
+        , Masaya Miyazaki
+        , Hiromi Kazama
+        […]
+        , Naoharu Takano
+         &  Keisuke Miyazawa
+        -Show fewer authors
+
+    Biochemical and Biophysical Research Communications (2020)
+
+You have full access to this article via your institution.
+Download PDF
+
+You have full access to this article via Hochschule München
+Download PDF
+
+    Sections
+    Figures
+    References
+
+    Key Points
+    Abstract
+    Main
+    References
+    Acknowledgements
+    Author information
+    Related links
+    Glossary
+    Rights and permissions
+    About this article
+    Further reading
+
+Advertisement
+
+    Figure 1: Structural features of Argonaute proteins. figure1
+
+    View in article Full size image
+    Figure 2: Assembly of the Argonaute–small RNA complex. figure2
+
+    View in article Full size image
+    Figure 3: Roles of the Argonaute complex in miRNA and RNAi pathways. figure3
+
+    View in article Full size image
+
+    Moussian, B., Schoof, H., Haecker, A., Jurgens, G. & Laux, T. Role of the ZWILLE gene in the regulation of central shoot meristem cell fate during Arabidopsis embryogenesis. EMBO J. 17 , 1799–1809 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Bohmert, K. et al. AGO1 defines a novel locus of Arabidopsis controlling leaf development. EMBO J. 17 , 170–180 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Lin, H. & Spradling, A. C. A novel group of pumilio mutations affects the asymmetric division of germline stem cells in the Drosophila ovary. Development 124 , 2463–2476 (1997). References 1–3 are seminal works that originally described the Argonaute gene family.
+
+    CAS   PubMed   Google Scholar  
+
+    Dunoyer, P., Himber, C., Ruiz-Ferrer, V., Alioua, A. & Voinnet, O. Intra- and intercellular RNA interference in Arabidopsis thaliana requires components of the microRNA and heterochromatic silencing pathways. Nature Genet. 39 , 848–856 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Zaratiegui, M., Irvine, D. V. & Martienssen, R. A. Noncoding RNAs and gene silencing. Cell 128 , 763–776 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Grewal, S. I. & Jia, S. Heterochromatin revisited. Nature Rev. Genet. 8 , 35–46 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Yigit, E. et al. Analysis of the C. elegans Argonaute family reveals that distinct Argonautes act sequentially during RNAi. Cell 127 , 747–757 (2006). The first exhaustive study of Argonaute genes in C. elegans . Describes a class of Argonaute proteins that do not contain the important amino acids for endonuclease activity but are still important for the RNAi pathway.
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Cerutti, H. & Casas-Mollano, J. A. On the origin and functions of RNA-mediated silencing: from protists to man. Curr. Genet. 50 , 81–99 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Ullu, E., Tschudi, C. & Chakraborty, T. RNA interference in protozoan parasites. Cell. Microbiol. 6 , 509–519 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Hall, I. M. et al. Establishment and maintenance of a heterochromatin domain. Science 297 , 2232–2237 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Volpe, T. A. et al. Regulation of heterochromatic silencing and histone H3 lysine-9 methylation by RNAi. Science 297 , 1833–1837 (2002).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Sigova, A., Rhind, N. & Zamore, P. D. A single Argonaute protein mediates both transcriptional and posttranscriptional silencing in Schizosaccharomyces pombe . Genes Dev. 18 , 2359–2367 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Yuan, Y. R. et al. Crystal structure of A. aeolicus argonaute, a site-specific DNA-guided endoribonuclease, provides insights into RISC-mediated mRNA cleavage. Mol. Cell 19 , 405–419 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Ma, J. B. et al. Structural basis for 5′-end-specific recognition of guide RNA by the A. fulgidus Piwi protein. Nature 434 , 666–670 (2005). Describes the crystal structure of a PIWI domain in complex with RNA.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Song, J. J. et al. The crystal structure of the Argonaute2 PAZ domain reveals an RNA binding motif in RNAi effector complexes. Nature Struct. Biol. 10 , 1026–1032 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Yan, K. S. et al. Structure and conserved RNA binding of the PAZ domain. Nature 426 , 468–474 (2003).
+
+    PubMed   Article   CAS   Google Scholar  
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Structure and nucleic-acid binding of the Drosophila Argonaute 2 PAZ domain. Nature 426 , 465–469 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Ma, J. B., Ye, K. & Patel, D. J. Structural basis for overhang-specific small interfering RNA recognition by the PAZ domain. Nature 429 , 318–322 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Lingel, A., Simon, B., Izaurralde, E. & Sattler, M. Nucleic acid 3′-end recognition by the Argonaute2 PAZ domain. Nature Struct. Mol. Biol. 11 , 576–577 (2004). References 18 and 19 report the crystal structure of the PAZ domain in complex with nucleic acids (reference 19) and mini-siRNA (reference 18).
+
+    CAS   Article   Google Scholar  
+
+    Parker, J. S., Roe, S. M. & Barford, D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 23 , 4727–4737 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Song, J. J., Smith, S. K., Hannon, G. J. & Joshua-Tor, L. Crystal structure of Argonaute and its implications for RISC slicer activity. Science 305 , 1434–1437 (2004). The first crystal structure of a complete Argonaute protein, revealing its function as the catalytic component of RISC.
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Tolia, N. H. & Joshua-Tor, L. Slicer and the argonautes. Nature Chem. Biol. 3 , 36–43 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Martinez, J. & Tuschl, T. RISC is a 5′ phosphomonoester-producing RNA endonuclease. Genes Dev. 18 , 975–980 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Schwarz, D. S., Tomari, Y. & Zamore, P. D. The RNA-induced silencing complex is a Mg 2+ -dependent endonuclease. Curr. Biol. 14 , 787–791 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Parker, J. S., Roe, S. M. & Barford, D. Structural insights into mRNA recognition from a PIWI domain-siRNA guide complex. Nature 434 , 663–666 (2005). Describes the crystal structure of a PIWI domain in complex with RNA.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Nykanen, A., Haley, B. & Zamore, P. D. ATP requirements and small interfering RNA structure in the RNA interference pathway. Cell 107 , 309–321 (2001).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Kiriakidou, M. et al. An mRNA m(7)G cap binding-like motif within human Ago2 represses translation. Cell 129 , 1141–1151 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Doench, J. G. & Sharp, P. A. Specificity of microRNA target selection in translational repression. Genes Dev. 18 , 504–511 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Haley, B. & Zamore, P. D. Kinetic analysis of the RNAi enzyme complex. Nature Struct. Mol. Biol. 11 , 599–606 (2004).
+
+    CAS   Article   Google Scholar  
+
+    Lewis, B. P., Shih, I. H., Jones-Rhoades, M. W., Bartel, D. P. & Burge, C. B. Prediction of mammalian microRNA targets. Cell 115 , 787–798 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Elbashir, S. M., Lendeckel, W. & Tuschl, T. RNA interference is mediated by 21- and 22-nucleotide RNAs. Genes Dev. 15 , 188–200 (2001).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Miyoshi, K., Tsukumo, H., Nagami, T., Siomi, H. & Siomi, M. C. Slicer function of Drosophila Argonautes and its involvement in RISC formation. Genes Dev. 19 , 2837–2848 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Rivas, F. V. et al. Purified Argonaute2 and an siRNA form recombinant human RISC. Nature Struct. Mol. Biol. 12 , 340–349 (2005). References 32 and 33 describe the minimal RISC: a recombinant Argonaute (human AGO2) associated with siRNA is sufficient for slicer activity.
+
+    CAS   Article   Google Scholar  
+
+    Irvine, D. V. et al. Argonaute slicing is required for heterochromatic silencing and spreading. Science 313 , 1134–1137 (2006).
+
+    CAS   PubMed   Article   PubMed Central   Google Scholar  
+
+    Matranga, C., Tomari, Y., Shin, C., Bartel, D. P. & Zamore, P. D. Passenger-strand cleavage facilitates assembly of siRNA into Ago2-containing RNAi enzyme complexes. Cell 123 , 607–620 (2005). Together with reference 32, describes the contribution of the enzymatic function of Argonaute in the assembly of RISC by cleaving the passenger strand of the siRNA duplex.
+
+    CAS   PubMed   Article   PubMed Central   Google Scholar  
+
+    Leuschner, P. J., Ameres, S. L., Kueng, S. & Martinez, J. Cleavage of the siRNA passenger strand during RISC assembly in human cells. EMBO Rep. 7 , 314–320 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Hutvágner, G. & Zamore, P. D. A microRNA in a multiple-turnover RNAi enzyme complex. Science 297 , 2056–2060 (2002).
+
+    PubMed   Article   CAS   PubMed Central   Google Scholar  
+
+    Gunawardane, L. S. et al. A slicer-mediated mechanism for repeat-associated siRNA 5′ end formation in Drosophila . Science 315 , 1587–1590 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Brennecke, J. et al. Discrete small RNA-generating loci as master regulators of transposon activity in Drosophila . Cell 128 , 1089–1103 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Meister, G. et al. Human Argonaute2 mediates RNA cleavage targeted by miRNAs and siRNAs. Mol. Cell 15 , 185–197 (2004). This study, together with reference 41, clearly links the slicing activity to Argonautes. It demonstrates that human AGO2 is the only Argonaute in human carrying the nuclease activity, whereas AGO1–AGO4 can bind miRNAs.
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Liu, J. et al. Argonaute2 is the catalytic engine of mammalian RNAi. Science 305 , 1437–1441 (2004). Demonstrates that disruption of specific amino acids found in the cryptic ribonuclease H domain abrogates RISC activity. Also shows that AGO2 is essential for mouse development.
+
+    CAS   Article   Google Scholar  
+
+    Höck, J. et al. Proteomic and functional analysis of Argonaute-containing mRNA–protein complexes in human cells. EMBO Rep. 8 , 1052–1060 (2007).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+
+    Tahbaz, N. et al. Characterization of the interactions between mammalian PAZ PIWI domain proteins and Dicer. EMBO Rep. 5 , 189–194 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Behm-Ansmant, I. et al. mRNA degradation by miRNAs and GW182 requires both CCR4:NOT deadenylase and DCP1:DCP2 decapping complexes. Genes Dev. 20 , 1885–1898 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Till, S. et al. A conserved motif in Argonaute-interacting proteins mediates functional interactions through the Argonaute PIWI domain. Nature Struct. Mol. Biol. 14 , 897–903 (2007).
+
+    CAS   Article   Google Scholar  
+
+    El-Shami, M. et al. Reiterated WG/GW motifs form functionally and evolutionarily conserved ARGONAUTE-binding platforms in RNAi-related components. Genes Dev. 21 , 2539–2544 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Forstemann, K. et al. Normal microRNA maturation and germ-line stem cell maintenance requires Loquacious, a double-stranded RNA-binding domain protein. PLoS Biol. 3 , e236 (2005).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+
+    Saito, K., Ishizuka, A., Siomi, H. & Siomi, M. C. Processing of pre-microRNAs by the Dicer-1–Loquacious complex in Drosophila cells. PLoS Biol. 3 , e235 (2005).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+
+    Jiang, F. et al. Dicer-1 and R3D1-L catalyze microRNA maturation in Drosophila . Genes Dev. 19 , 1674–1679 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Liu, Q. et al. R2D2, a bridge between the initiation and effector steps of the Drosophila RNAi pathway. Science 301 , 1921–1925 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Tomari, Y., Matranga, C., Haley, B., Martinez, N. & Zamore, P. D. A protein sensor for siRNA asymmetry. Science 306 , 1377–1380 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Forstemann, K., Horwich, M. D., Wee, L., Tomari, Y. & Zamore, P. D. Drosophila microRNAs are sorted into functionally distinct Argonaute complexes after production by Dicer-1. Cell 130 , 287–297 (2007).
+
+    PubMed   PubMed Central   Article   CAS   Google Scholar  
+
+    Tomari, Y., Du, T. & Zamore, P. D. Sorting of Drosophila small silencing RNAs. Cell 130 , 299–308 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Steiner, F. A. et al. Structural features of small RNA precursors determine Argonaute loading in Caenorhabditis elegans . Nature Struct. Mol. Biol. 14 , 927–933 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Tomari, Y. & Zamore, P. D. Perspective: machines for RNAi. Genes Dev. 19 , 517–529 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Schwarz, D. S. et al. Asymmetry in the assembly of the RNAi enzyme complex. Cell 115 , 199–208 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Khvorova, A., Reynolds, A. & Jayasena, S. D. Functional siRNAs and miRNAs exhibit strand bias. Cell 115 , 209–216 (2003).
+
+    CAS   Article   Google Scholar  
+
+    Okamura, K., Ishizuka, A., Siomi, H. & Siomi, M. C. Distinct roles for Argonaute proteins in small RNA-directed RNA cleavage pathways. Genes Dev. 18 , 1655–1666 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Tabara, H. et al. The rde-1 gene, RNA interference, and transposon silencing in C. elegans . Cell 99 , 123–132 (1999). The first report that associated an Argonaute gene with a small non-coding RNA pathway, RNAi.
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Grishok, A. et al. Genes and mechanisms related to RNA interference regulate expression of the small temporal RNAs that control C. elegans developmental timing. Cell 106 , 23–34 (2001). Identifies the first Argonaute genes that are required for the microRNA pathway.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Reinhart, B. J. et al. The 21-nucleotide let-7 RNA regulates developmental timing in Caenorhabditis elegans . Nature 403 , 901–906 (2000).
+
+    CAS   Article   Google Scholar  
+
+    Lee, R. C., Feinbaum, R. L. & Ambros, V. The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14 . Cell 75 , 843–854 (1993).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Sijen, T., Steiner, F. A., Thijssen, K. L. & Plasterk, R. H. Secondary siRNAs result from unprimed RNA synthesis and form a distinct class. Science 315 , 244–247 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Pak, J. & Fire, A. Distinct populations of primary and secondary effectors during RNAi in C. elegans . Science 315 , 241–244 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Vasudevan, S. & Steitz, J. A. AU-rich-element-mediated upregulation of translation by FXR1 and Argonaute 2. Cell 128 , 1105–1118 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Olsen, P. H. & Ambros, V. The lin-4 regulatory RNA controls developmental timing in Caenorhabditis elegans by blocking LIN-14 protein synthesis after the initiation of translation. Dev. Biol. 216 , 671–680 (1999).
+
+    CAS   Article   Google Scholar  
+
+    Wang, B., Love, T. M., Call, M. E., Doench, J. G. & Novina, C. D. Recapitulation of short RNA-directed translational gene silencing in vitro . Mol. Cell 22 , 553–560 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Humphreys, D. T., Westman, B. J., Martin, D. I. & Preiss, T. MicroRNAs control translation initiation by inhibiting eukaryotic initiation factor 4E/cap and poly(A) tail function. Proc. Natl Acad. Sci. USA 102 , 16961–16966 (2005).
+
+    CAS   Article   Google Scholar  
+
+    Pillai, R. S. et al. Inhibition of translational initiation by Let-7 microRNA in human cells. Science 309 , 1573–1576 (2005). Demonstrates that tethering Argonaute proteins to the 3′-UTR region of a mRNA can mimic miRNA translational inhibition, suggesting that miRNAs function to guide Argonautes to mRNAs.
+
+    CAS   Article   Google Scholar  
+
+    Thermann, R. & Hentze, M. W. Drosophila miR2 induces pseudo-polysomes and inhibits translation initiation. Nature 447 , 875–878 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Chendrimada, T. P. et al. MicroRNA silencing through RISC recruitment of eIF6. Nature 447 , 823–828 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Kim, J. et al. Identification of many microRNAs that copurify with polyribosomes in mammalian neurons. Proc. Natl Acad. Sci. USA 101 , 360–365 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Nelson, P. T., Hatzigeorgiou, A. G. & Mourelatos, Z. miRNP: mRNA association in polyribosomes in a human neuronal cell line. RNA 10 , 387–394 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Nottrott, S., Simard, M. J. & Richter, J. D. Human let-7a miRNA blocks protein production on actively translating polyribosomes. Nature Struct. Mol. Biol. 13 , 1108–1114 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Maroney, P. A., Yu, Y., Fisher, J. & Nilsen, T. W. Evidence that microRNAs are associated with translating messenger RNAs in human cells. Nature Struct. Mol. Biol. 13 , 1102–1107 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Petersen, C. P., Bordeleau, M. E., Pelletier, J. & Sharp, P. A. Short RNAs repress translation after initiation in mammalian cells. Mol. Cell 21 , 533–542 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Pillai, R. S., Artus, C. G. & Filipowicz, W. Tethering of human Ago proteins to mRNA mimics the miRNA-mediated repression of protein synthesis. RNA 10 , 1518–1525 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Bhattacharyya, S. N., Habermacher, R., Martine, U., Closs, E. I. & Filipowicz, W. Relief of microRNA-mediated translational repression in human cells subjected to stress. Cell 125 , 1111–1124 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Rehwinkel, J. et al. Genome-wide analysis of mRNAs regulated by Drosha and Argonaute proteins in Drosophila melanogaster . Mol. Cell. Biol. 26 , 2965–2975 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Giraldez, A. J. et al. Zebrafish MiR-430 promotes deadenylation and clearance of maternal mRNAs. Science 312 , 75–79 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Lim, L. P. et al. Microarray analysis shows that some microRNAs downregulate large numbers of target mRNAs. Nature 433 , 769–773 (2005).
+
+    CAS   Article   Google Scholar  
+
+    Farh, K. K. et al. The widespread impact of mammalian microRNAs on mRNA repression and evolution. Science 310 , 1817–1821 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Bagga, S. et al. Regulation by let-7 and lin-4 miRNAs results in target mRNA degradation. Cell 122 , 553–563 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Wu, L., Fan, J. & Belasco, J. G. MicroRNAs direct rapid deadenylation of mRNA. Proc. Natl Acad. Sci. USA 103 , 4034–4039 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Valencia-Sanchez, M. A., Liu, J., Hannon, G. J. & Parker, R. Control of translation and mRNA degradation by miRNAs and siRNAs. Genes Dev. 20 , 515–524 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Jing, Q. et al. Involvement of microRNA in AU-rich element-mediated mRNA instability. Cell 120 , 623–634 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Kuramochi-Miyagawa, S. et al. Mili, a mammalian member of Piwi family gene, is essential for spermatogenesis. Development 131 , 839–849 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Deng, W. & Lin, H. Miwi, a murine homolog of Piwi, encodes a cytoplasmic protein essential for spermatogenesis. Dev. Cell 2 , 819–830 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Cox, D. N., Chao, A. & Lin, H. Piwi encodes a nucleoplasmic factor whose activity modulates the number and division rate of germline stem cells. Development 127 , 503–514 (2000).
+
+    CAS   PubMed   Google Scholar  
+
+    Cox, D. N. et al. A novel class of evolutionarily conserved genes defined by Piwi are essential for stem cell self-renewal. Genes Dev. 12 , 3715–3727 (1998).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Carmell, M. A. et al. MIWI2 is essential for spermatogenesis and repression of transposons in the mouse male germline. Dev. Cell 12 , 503–514 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Grivna, S. T., Beyret, E., Wang, Z. & Lin, H. A novel class of small RNAs in mouse spermatogenic cells. Genes Dev. 20 , 1709–1714 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Watanabe, T. et al. Identification and characterization of two novel classes of small RNAs in the mouse germline: retrotransposon-derived siRNAs in oocytes and germline small RNAs in testes. Genes Dev. 20 , 1732–1743 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Lau, N. C. et al. Characterization of the piRNA complex from rat testes. Science 313 , 363–367 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Girard, A., Sachidanandam, R., Hannon, G. J. & Carmell, M. A. A germline-specific class of small RNAs binds mammalian Piwi proteins. Nature 442 , 199–202 (2006).
+
+    Article   Google Scholar  
+
+    Aravin, A. et al. A novel class of small RNAs bind to MILI protein in mouse testes. Nature 442 , 203–207 (2006).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Vagin, V. V. et al. A distinct small RNA pathway silences selfish genetic elements in the germline. Science 313 , 320–324 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Saito, K. et al. Specific association of Piwi with rasiRNAs derived from retrotransposon and heterochromatic regions in the Drosophila genome. Genes Dev. 20 , 2214–2222 (2006).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Houwing, S. et al. A role for Piwi and piRNAs in germ cell maintenance and transposon silencing in zebrafish. Cell 129 , 69–82 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Pane, A., Wehr, K. & Schupbach, T. Zucchini and Squash encode two putative nucleases required for rasiRNA production in the Drosophila germline. Dev. Cell 12 , 851–862 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Brower-Toland, B. et al. Drosophila PIWI associates with chromatin and interacts directly with HP1a. Genes Dev. 21 , 2300–2311 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Hiragami, K. & Festenstein, R. Heterochromatin protein 1: a pervasive controlling influence. Cell. Mol. Life Sci. 62 , 2711–2726 (2005).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Noma, K. et al. RITS acts in cis to promote RNA interference-mediated transcriptional and post-transcriptional silencing. Nature Genet. 36 , 1174–1180 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Yin, H. & Lin, H. An epigenetic activation role of Piwi and a Piwi-associated piRNA in Drosophila melanogaster . Nature 450 , 304–308 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Cerutti, L., Mian, N. & Bateman, A. Domains in gene silencing and cell differentiation proteins: the novel PAZ domain and redefinition of the Piwi domain. Trends Biochem. Sci. 25 , 481–482 (2000).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Jacobsen, S. E., Running, M. P. & Meyerowitz, E. M. Disruption of an RNA helicase/RNAse III gene in Arabidopsis causes unregulated cell division in floral meristems. Development 126 , 5231–5243 (1999).
+
+    CAS   PubMed   Google Scholar  
+
+    Lee, Y. et al. MicroRNA genes are transcribed by RNA polymerase II. EMBO J. 23 , 4051–4060 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Borchert, G. M., Lanier, W. & Davidson, B. L. RNA polymerase III transcribes human microRNAs. Nature Struct. Mol. Biol. 13 , 1097–1101 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Lee, Y. et al. The nuclear RNase III Drosha initiates microRNA processing. Nature 425 , 415–419 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Okamura, K., Hagen, J. W., Duan, H., Tyler, D. M. & Lai, E. C. The mirtron pathway generates microRNA-class regulatory RNAs in Drosophila . Cell 130 , 89–100 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Ruby, J. G., Jan, C. H. & Bartel, D. P. Intronic microRNA precursors that bypass Drosha processing. Nature 448 , 83–86 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Yi, R., Qin, Y., Macara, I. G. & Cullen, B. R. Exportin-5 mediates the nuclear export of pre-microRNAs and short hairpin RNAs. Genes Dev. 17 , 3011–3016 (2003).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Ketting, R. F. et al. Dicer functions in RNA interference and in synthesis of small RNA involved in developmental timing in C. elegans . Genes Dev. 15 , 2654–2659 (2001).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Hutvágner, G. et al. A cellular function for the RNA-interference enzyme Dicer in the maturation of the let-7 small temporal RNA. Science 293 , 834–838 (2001).
+
+    PubMed   Article   Google Scholar  
+
+    Kirino, Y. & Mourelatos, Z. Mouse Piwi-interacting RNAs are 2′-O-methylated at their 3′ termini. Nature Struct. Mol. Biol. 14 , 347–348 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Ohara, T. et al. The 3′ termini of mouse Piwi-interacting RNAs are 2′-O-methylated. Nature Struct. Mol. Biol. 14 , 349–350 (2007).
+
+    CAS   Article   Google Scholar  
+
+    Saito, K. et al. Pimet, the Drosophila homolog of HEN1, mediates 2′-O-methylation of Piwi- interacting RNAs at their 3′ ends. Genes Dev. 21 , 1603–1608 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Horwich, M. D. et al. The Drosophila RNA methyltransferase, DmHen1, modifies germline piRNAs and single-stranded siRNAs in RISC. Curr. Biol. 17 , 1265–1272 (2007).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Mathews, D. H., Sabina, J., Zuker, M. & Turner, D. H. Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure. J. Mol. Biol. 288 , 911–940 (1999).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Cogoni, C. & Macino, G. Isolation of quelling-defective (qde) mutants impaired in posttranscriptional transgene-induced gene silencing in Neurospora crassa . Proc. Natl Acad. Sci. USA 94 , 10233–10238 (1997).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Catalanotto, C., Azzalin, G., Macino, G. & Cogoni, C. Gene silencing in worms and fungi. Nature 404 , 245 (2000).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Lee, D. W., Pratt, R. J., McLaughlin, M. & Aramayo, R. An Argonaute-like protein is required for meiotic silencing. Genetics 164 , 821–828 (2003).
+
+    CAS   PubMed   PubMed Central   Google Scholar  
+
+    Verdel, A. et al. RNAi-mediated targeting of heterochromatin by the RITS complex. Science 303 , 672–676 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Mochizuki, K., Fine, N. A., Fujisawa, T. & Gorovsky, M. A. Analysis of a Piwi-related gene implicates small RNAs in genome rearrangement in Tetrahymena . Cell 110 , 689–699 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Vazquez, F. et al. Endogenous trans-acting siRNAs regulate the accumulation of Arabidopsis mRNAs. Mol. Cell 16 , 69–79 (2004).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Vaucheret, H., Vazquez, F., Crete, P. & Bartel, D. P. The action of ARGONAUTE1 in the miRNA pathway and its regulation by the miRNA pathway are crucial for plant development. Genes Dev. 18 , 1187–1197 (2004).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Zilberman, D., Cao, X. & Jacobsen, S. E. ARGONAUTE4 control of locus-specific siRNA accumulation and DNA and histone methylation. Science 299 , 716–719 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Zheng, X., Zhu, J., Kapoor, A. & Zhu, J. K. Role of Arabidopsis AGO6 in siRNA accumulation, DNA methylation and transcriptional gene silencing. EMBO J. 26 , 1691–1701 (2007).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Hunter, C., Sun, H. & Poethig, R. S. The Arabidopsis heterochronic gene ZIPPY is an ARGONAUTE family member. Curr. Biol. 13 , 1734–1739 (2003).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Grishok, A., Sinskey, J. L. & Sharp, P. A. Transcriptional silencing of a transgene by RNAi in the soma of C. elegans . Genes Dev. 19 , 683–696 (2005).
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Tijsterman, M., Okihara, K. L., Thijssen, K. & Plasterk, R. H. PPW-1, a PAZ/PIWI protein required for efficient germline RNAi, is defective in a natural isolate of C. elegans . Curr. Biol. 12 , 1535–1540 (2002).
+
+    CAS   PubMed   Article   Google Scholar  
+
+    Hammond, S. M., Boettcher, S., Caudy, A. A., Kobayashi, R. & Hannon, G. J. Argonaute2, a link between genetic and biochemical analyses of RNAi. Science 293 , 1146–1150 (2001). Reports the purification of the RNAi effector nuclease previously described in 2000, revealing Argonaute-2 in the complex.
+
+    CAS   PubMed   PubMed Central   Article   Google Scholar  
+
+    Janowski, B. A. et al. Involvement of AGO1 and AGO2 in mammalian transcriptional silencing. Nature Struct. Mol. Biol. 13 , 787–792 (2006).
+
+    CAS   Article   Google Scholar  
+
+    Kim, D. H., Villeneuve, L. M., Morris, K. V. & Rossi, J. J. Argonaute-1 directs siRNA-mediated transcriptional gene silencing in human cells. Nature Struct. Mol. Biol. 13 , 793–797 (2006).
+
+    CAS   Article   Google Scholar  
+
+Nature Reviews Molecular Cell Biology ISSN 1471-0080 (online)
+nature.com sitemap
+Nature Research
+
+    About us
+    Press releases
+    Press office
+    Contact us
+
+Discover content
+
+    Journals A-Z
+    Articles by subject
+    Nano
+    Protocol Exchange
+    Nature Index
+
+Publish with us
+
+    Guide to Authors
+    Guide to Referees
+    Editorial policies
+    Open access
+    Reprints & permissions
+
+Researcher services
+
+    Research data
+    Language editing
+    Scientific editing
+    Nature Masterclasses
+    Nature Research Academies
+
+Libraries & institutions
+
+    Librarian service & tools
+    Librarian portal
+    Open research
+
+Advertising & partnerships
+
+    Advertising
+    Partnerships & Services
+    Media kits
+    Branded content
+
+Career development
+
+    Nature Careers
+    Nature Conferences
+    Nature events
+
+Regional websites
+
+    Nature China
+    Nature India
+    Nature Japan
+    Nature Korea
+    Nature Middle East
+
+Legal & Privacy
+
+    Privacy Policy
+    Use of cookies
+    Manage cookies/Do not sell my data
+    Legal notice
+    Accessibility statement
+    Terms & Conditions
+    California Privacy Statement
+
+Springer Nature
+
+© 2020 Springer Nature Limited
+Close banner Close
+Sign up for the Nature Briefing newsletter for a daily update on COVID-19 science.
+Enter your email address
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy .
+Sign up
+Get the most important science stories of the day, free in your inbox. Sign up for Nature Briefing
+Close banner Close
+Gyorgy Hutvagner
+
+    Wellcome Trust Centre for Gene Regulation and Expression, College of Life Sciences, University of Dundee, Dundee, DD1 5EH, UK
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close
+Martin J. Simard
+
+    Laval University Cancer Research Centre, Hôtel-Dieu de Québec (CHUQ), Quebec City, G1R 2J6, Québec, Canada
+
+View author publications
+
+You can also search for this author in PubMed   Google Scholar
+Close

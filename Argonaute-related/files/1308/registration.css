@@ -1,0 +1,121 @@
+.subsection {
+   background-color: #ffffff;
+   border-bottom: 1px solid #1b5faa;
+   margin: 0;
+   padding: 0 0 10px 0;
+   position: relative;
+}
+.subsection.last { border-bottom: none; }
+.subsection .rust {
+   color: #ff3300;
+   font-weight: bold;
+}
+.error { color: #ff0000; }
+.subsection-no-border {
+   margin: 0;
+   padding: 0 0 10px 20px;
+   position: relative;
+}
+.subsection h3,
+   margin-left: 0;
+   padding: 0.8em 0 0.9em 0;
+}
+.subsection p,
+.subsection-no-border p { margin-left: 0; }
+.subsection .left-col,
+.subsection-no-border .left-col {
+   float: left;
+   font-weight: bold;
+   position: relative;
+   width: 150px;
+}
+.subsection .right-col,
+.subsection .right-colp,
+.subsection-no-border .right-col {
+   margin-left: 160px;
+   position: relative;
+}
+.right-col textarea,
+.right-colp textarea { margin: 0; }
+.checkbox-left-text {
+   margin: 0 0 0.1em 30px;
+   overflow: visible;
+}
+.checkbox-left-text p {
+   margin-left: 0;
+   padding-top: 0;
+}
+.checkbox-left {
+   margin-left: -30px;
+   position: absolute;
+}
+.heading h2.rust { padding-left: 0; }
+.right-col table,
+.right-colp table { margin: 0 0 10px 0; }
+.accountsFormStyles .left-col > label { width: 80%; }
+.left-col .currency-symbol {
+   float: right;
+   font-weight: normal;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   right: -10px;
+   top: 3px;
+   width: 20px;
+}
+.nopad table { margin-left: 0; }
+.right-col .left-colp {
+   float: left;
+   font-weight: bold;
+   position: relative;
+   width: 150px;
+}
+.right-col .right-col {
+   margin-left: 150px;
+   position: relative;
+   width: auto;
+}
+table {
+   margin: 0 0 10px 0;
+   padding: 0;
+}
+.checkboxes {
+   padding-left: 20px;
+   position: relative;
+}
+.checkboxes .row {
+   clear: both;
+   overflow: visible;
+   position: relative;
+}
+.checkboxes .checkbox-item {
+   float: left;
+   position: relative;
+   width: 30px;
+}
+.checkboxes .checkbox-lable {
+   margin-left: 40px;
+   position: relative;
+}
+.which-trial table {
+   display: block;
+   margin: 0 0 10px 20px;
+}
+.indent-20 table  { padding: 0; }
+form h3.rust { margin: 10px 0 10px 0; }
+#main-content-container > .table-center { padding-left: 20px; }
+p.pad {
+   clear: both;
+   font-size: 1px;
+   margin: 0 0 5px 0;
+   padding: 0;
+}
+#offer-buttons { margin-bottom: 10px; }
+#library-button-spacer { margin-right: 10px; }
+.right-colp input {
+   float:left;
+   margin: 2px 3px 0 3px;
+}
+.btn-action {
+   font-weight: bold;
+}
